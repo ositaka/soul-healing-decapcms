@@ -1,0 +1,112 @@
+backend:
+  name: git-gateway
+  # name: test-repo
+  branch: main
+
+# local_backend: true
+
+# local_backend:
+#   url: http://localhost:8081/api/v1
+#   allowed_hosts: ['192.168.0.1']
+
+# i18n:
+#   structure: multiple_folders
+#   locales: [be, en]
+#   default_locale: be
+
+# publish_mode: editorial_workflow
+
+editor:
+  preview: false
+
+display_url: https://b-on.netlify.app # This url will display in the top-right of the CMS
+media_folder: 'public/images' # Media files will be stored in the repo under static/images/uploads
+public_folder: '/images' # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - name: 'page'
+    label: 'Pages'
+    files:
+      - file: 'data/page/home.md'
+        label: 'Home'
+        name: 'index'
+        fields:
+          - label: 'Video Showreel'
+            name: video
+            widget: 'object'
+            fields:
+              - {
+                  label: 'Video Desktop',
+                  name: 'desktop',
+                  widget: 'file',
+                  choose_url: false,
+                }
+              # - {
+              #     label: 'Video Mobile',
+              #     name: 'mobile',
+              #     widget: 'file',
+              #     choose_url: false,
+              #   }
+              - {
+                  label: 'Video cover',
+                  name: cover,
+                  widget: image,
+                  class: 'cover',
+                  required: false,
+                  choose_url: false,
+                  hint: 'Usually this is the 1st frame of the video.',
+                }
+          - label: 'Text'
+            name: text
+            widget: 'object'
+            fields:
+              - { label: 'Title', name: 'title', widget: string }
+              - {
+                  label: 'Description',
+                  name: 'description',
+                  widget: 'markdown',
+                  sanitize_preview: true,
+                  buttons: ['bold', 'italic'],
+                  modes: ['rich_text'],
+                  editor_components: [''],
+                }
+          # TODO: add a list to select works
+          - {
+              label: 'Selected Projects',
+              name: 'select_multiple',
+              widget: 'select',
+              options: ['a', 'b', 'c'],
+              multiple: true,
+              required: false,
+            }
+
+      - file: 'data/page/contact.md'
+        label: 'Contact'
+        name: 'contact'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+
+  - name: 'news'
+    label: 'News'
+    folder: 'data/news'
+    create: true
+    slug: '{{title}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'Body',
+          name: 'body',
+          widget: 'markdown',
+          sanitize_preview: true,
+          buttons:
+            [
+              'bold',
+              'italic',
+              'link',
+              'heading-one',
+              'heading-two',
+              'heading-three',
+            ],
+          modes: ['rich_text'],
+        }

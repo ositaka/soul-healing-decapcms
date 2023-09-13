@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost:3000/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/Search/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/about/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/contact/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/directors/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/news/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/production-services/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/work/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/page/1/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/work/another-work-title/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/work/life-of-an-indie-filmmaker-artlist-io/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/work/new-work-example/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/news/example-of-a-news-page/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/news/exciting-new-film-releases-coming-this-fall/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+<url><loc>http://localhost:3000/news/news-from-the-cms-2/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-09-11T07:50:04.080Z</lastmod></url>
+</urlset>

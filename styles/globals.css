@@ -1,0 +1,70 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+#__next {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p img {
+  width: 750px;
+  margin: 5px auto;
+}
+pre {
+  background-color: rgba(0, 0, 0, 0.548);
+  width: 760px;
+  padding: 6px 18px;
+}
+code {
+  width: 100%;
+  color: white;
+  scroll-behavior: smooth;
+  overflow-x: scroll;
+}
+
+/* temporary */
+img {
+  object-fit: cover;
+}
+
+.navbar {
+  position: sticky;
+  width: 100%;
+  top: 0;
+  z-index: 2;
+  height: 80px;
+}
+
+.gallery {
+  margin-top: 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width: 100%;
+}
+
+.gallery img {
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 767px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+}
