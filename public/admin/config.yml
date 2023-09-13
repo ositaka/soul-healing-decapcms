@@ -4,9 +4,9 @@ backend:
   branch: main
 
 # local_backend: true
-
+#
 # local_backend:
-#   url: http://localhost:8081/api/v1
+#   url: http://localhost:8082/api/v1
 #   allowed_hosts: ['192.168.0.1']
 
 # i18n:
@@ -30,61 +30,145 @@ collections:
         label: 'Home'
         name: 'index'
         fields:
-          - label: 'Video Showreel'
-            name: video
-            widget: 'object'
-            fields:
-              - {
-                  label: 'Video Desktop',
-                  name: 'desktop',
-                  widget: 'file',
-                  choose_url: false,
-                }
-              # - {
-              #     label: 'Video Mobile',
-              #     name: 'mobile',
-              #     widget: 'file',
-              #     choose_url: false,
-              #   }
-              - {
-                  label: 'Video cover',
-                  name: cover,
-                  widget: image,
-                  class: 'cover',
-                  required: false,
-                  choose_url: false,
-                  hint: 'Usually this is the 1st frame of the video.',
-                }
-          - label: 'Text'
-            name: text
-            widget: 'object'
-            fields:
-              - { label: 'Title', name: 'title', widget: string }
-              - {
-                  label: 'Description',
-                  name: 'description',
-                  widget: 'markdown',
-                  sanitize_preview: true,
-                  buttons: ['bold', 'italic'],
-                  modes: ['rich_text'],
-                  editor_components: [''],
-                }
-          # TODO: add a list to select works
-          - {
-              label: 'Selected Projects',
-              name: 'select_multiple',
-              widget: 'select',
-              options: ['a', 'b', 'c'],
-              multiple: true,
-              required: false,
-            }
-
-      - file: 'data/page/contact.md'
-        label: 'Contact'
-        name: 'contact'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Title', name: 'title', widget: string, required: false }
+          - label: 'Section'
+            name: 'section'
+            widget: 'list'
+            types:
+              - label: 'Text only'
+                name: 'text_only'
+                widget: 'object'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - {
+                      label: 'Text',
+                      name: 'text',
+                      widget: 'markdown',
+                      sanitize_preview: true,
+                      buttons:
+                        [
+                          'bold',
+                          'italic',
+                          'link',
+                          'heading-two',
+                          'heading-three',
+                        ],
+                      modes: ['rich_text'],
+                    }
+                  - label: 'Main Menu'
+                    name: 'main_menu'
+                    widget: 'object'
+                    collapsed: true
+                    fields:
+                      - {
+                          label: 'Show on Main Menu',
+                          name: 'show',
+                          widget: 'boolean',
+                          default: false,
+                        }
+                      - {
+                          label: 'Name on Main Menu',
+                          name: 'name',
+                          widget: 'string',
+                          required: false,
+                        }
+              - label: 'Text and Image'
+                name: 'text_image'
+                widget: 'object'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - {
+                      label: 'Text',
+                      name: 'text',
+                      widget: 'markdown',
+                      sanitize_preview: true,
+                      buttons:
+                        [
+                          'bold',
+                          'italic',
+                          'link',
+                          'heading-two',
+                          'heading-three',
+                        ],
+                      modes: ['rich_text'],
+                    }
+                  - {
+                      label: 'Image',
+                      name: image,
+                      widget: image,
+                      required: true,
+                      choose_url: false,
+                    }
+                  - label: 'Main Menu'
+                    name: 'main_menu'
+                    widget: 'object'
+                    collapsed: true
+                    fields:
+                      - {
+                          label: 'Show on Main Menu',
+                          name: 'show',
+                          widget: 'boolean',
+                          default: false,
+                        }
+                      - {
+                          label: 'Name on Main Menu',
+                          name: 'name',
+                          widget: 'string',
+                        }
+              - label: 'Section with Repeatable Content'
+                name: 'section_repeatable_content'
+                widget: 'object'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - label: 'Items'
+                    name: 'items'
+                    widget: 'list'
+                    fields:
+                      - { label: 'Title', name: 'title', widget: 'string' }
+                      - {
+                          label: 'Text',
+                          name: 'text',
+                          widget: 'markdown',
+                          sanitize_preview: true,
+                          buttons:
+                            [
+                              'bold',
+                              'italic',
+                              'link',
+                              'heading-two',
+                              'heading-three',
+                            ],
+                          modes: ['rich_text'],
+                        }
+                      - {
+                          label: 'Image',
+                          name: image,
+                          widget: image,
+                          required: true,
+                          choose_url: false,
+                        }
+                  - label: 'Main Menu'
+                    name: 'main_menu'
+                    widget: 'object'
+                    collapsed: true
+                    fields:
+                      - {
+                          label: 'Show on Main Menu',
+                          name: 'show',
+                          widget: 'boolean',
+                          default: false,
+                        }
+                      - {
+                          label: 'Name on Main Menu',
+                          name: 'name',
+                          widget: 'string',
+                        }
+      # - file: 'data/page/contact.md'
+      #   label: 'Contact'
+      #   name: 'contact'
+      #   fields:
+      #     - { label: 'Title', name: 'title', widget: 'string' }
+      #     - { label: 'Description', name: 'description', widget: 'text' }
 
   - name: 'news'
     label: 'News'
