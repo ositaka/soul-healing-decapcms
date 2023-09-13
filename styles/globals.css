@@ -68,3 +68,25 @@ img {
     grid-template-columns: 1fr;
   }
 }
+
+/* to review */
+:root {
+  --header-height: 80px;
+}
+main {
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+  /* scroll-snap-type: y proximity; */
+  position: absolute;
+  overflow-y: auto;
+  height: calc(100vh - var(--header-height));
+  top: var(--header-height);
+}
+
+section {
+  min-height: calc(100vh - var(--header-height));
+  scroll-snap-align: center;
+  position: relative;
+  overflow: auto;
+  background-color: #f4f4f4;
+}

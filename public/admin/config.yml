@@ -1,13 +1,13 @@
 backend:
-  name: git-gateway
-  # name: test-repo
+  # name: git-gateway
+  name: test-repo
   branch: main
 
 # local_backend: true
-#
-# local_backend:
-#   url: http://localhost:8082/api/v1
-#   allowed_hosts: ['192.168.0.1']
+
+local_backend:
+  url: http://localhost:8082/api/v1
+  allowed_hosts: ['192.168.0.1']
 
 # i18n:
 #   structure: multiple_folders
@@ -39,6 +39,12 @@ collections:
                 name: 'text_only'
                 widget: 'object'
                 fields:
+                  - {
+                      label: 'Section Type',
+                      name: 'section_type',
+                      widget: 'hidden',
+                      default: 'text_only',
+                    }
                   - { label: 'Title', name: 'title', widget: 'string' }
                   - {
                       label: 'Text',
@@ -76,6 +82,12 @@ collections:
                 name: 'text_image'
                 widget: 'object'
                 fields:
+                  - {
+                      label: 'Section Type',
+                      name: 'section_type',
+                      widget: 'hidden',
+                      default: 'text_image',
+                    }
                   - { label: 'Title', name: 'title', widget: 'string' }
                   - {
                       label: 'Text',
@@ -119,6 +131,12 @@ collections:
                 name: 'section_repeatable_content'
                 widget: 'object'
                 fields:
+                  - {
+                      label: 'Section Type',
+                      name: 'section_type',
+                      widget: 'hidden',
+                      default: 'section_repeatable_content',
+                    }
                   - { label: 'Title', name: 'title', widget: 'string' }
                   - label: 'Items'
                     name: 'items'

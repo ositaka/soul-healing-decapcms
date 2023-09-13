@@ -1,4 +1,47 @@
-import { defineDocumentType, defineNestedType, makeSource } from 'contentlayer/source-files'
+import {
+  defineDocumentType,
+  defineNestedType,
+  makeSource,
+} from 'contentlayer/source-files'
+
+const MAIN_MENU = defineNestedType(() => ({
+  name: 'MAIN_MENU',
+  fields: {
+    show: {
+      type: 'boolean',
+      required: false,
+    },
+    name: {
+      type: 'string',
+      required: false,
+    },
+  },
+}))
+
+const SECTION = defineNestedType(() => ({
+  name: 'SECTION',
+  fields: {
+    section_type: {
+      type: 'string',
+    },
+    main_menu: {
+      type: 'nested',
+      of: MAIN_MENU,
+    },
+    title: {
+      type: 'string',
+      required: false,
+    },
+    text: {
+      type: 'markdown',
+      required: false,
+    },
+    image: {
+      type: 'string',
+      required: false,
+    },
+  },
+}))
 
 const Page = defineDocumentType(() => ({
   name: 'Page',
@@ -7,6 +50,7 @@ const Page = defineDocumentType(() => ({
   fields: {
     slug: {
       type: 'string',
+      required: false,
     },
     title: {
       type: 'string',
@@ -16,9 +60,13 @@ const Page = defineDocumentType(() => ({
       type: 'string',
       required: false,
     },
-    gallery: {
+    // gallery: {
+    //   type: 'list',
+    //   of: { type: 'string' },
+    // },
+    section: {
       type: 'list',
-      of: { type: 'string' },
+      of: SECTION,
     },
   },
   computedFields: {

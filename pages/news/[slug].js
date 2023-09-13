@@ -7,6 +7,9 @@ import Image from 'next/image';
 import { allNews } from "/.contentlayer/generated";
 import Layout from '../../components/Layout';
 
+import ReactMarkdown from "react-markdown";
+import gfm from 'remark-gfm';
+
 export default function NewsPage({ news }) {
   const router = useRouter()
 
@@ -50,7 +53,7 @@ export default function NewsPage({ news }) {
                 <div className='post-date m-1 p-2'>
                   <div><h6>{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`} </h6>  </div>
                 </div>
-                <div className='post-body p-5 m-auto' dangerouslySetInnerHTML={{ __html: news.body.html }}></div>
+                <ReactMarkdown className='post-body p-5 m-auto' remarkPlugins={[gfm]} children={news.body?.raw} />
               </div>
             </div>
           </div>
