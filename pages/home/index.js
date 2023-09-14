@@ -41,13 +41,17 @@ export default function Home({ home }) {
 }
 
 
-
 export async function getStaticProps() {
+
   const home = await allPages.find((home) => {
-
     return home.slug === "home"
-
   })
 
-  return { props: { home } }
+
+  // console.log(home.section[1])
+  return {
+    props: {
+      home,
+    },
+  }
 }

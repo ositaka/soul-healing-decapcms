@@ -1,33 +1,32 @@
 import Link from 'next/link'
-export default function Header() {
+import { allPages } from "./../.contentlayer/generated";
+
+export default function Header({ }) {
+  let menu = allPages.find((home) => {
+    return home.slug === "home"
+  })
+
+  menu = menu.section
+
   return (<>
 
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div className="container">
-        <Link href="/" className='navbar-brand'>
-          Soul Healing
-        </Link>
+    <header className="header">
+      <div className="navigation" id="myTopnav">
+        <Link href="/#Home" className='active'>Soul Healing</Link>
 
-        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
-        {/* <div className="collapse navbar-collapse" id="navbarSupportedContent"> */}
-        <div className="navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-            <li className="nav-item">
-              <Link href="/" className='nav-link'>Home</Link>
-            </li>
-            <li className="nav-item">
-              <Link href="/bookings" className='nav-link'>Bookings</Link>
-            </li>
-            <li className="nav-item">
-              <Link href="/news" className='nav-link'>News</Link>
-            </li>
-            <li className="nav-item">
-              <Link href="/contact" className='nav-link'>Contact</Link>
-            </li>
-          </ul>
-        </div>
+        {menu
+          .filter(section => section.main_menu.show)
+          .map(section => {
+            return (<Link key={section.main_menu.name} href={'/#' + section.main_menu.name} className=''>
+              {section.main_menu.name}
+            </Link>
+            )
+          })}
+        <Link href="/bookings" className=''>Bookings</Link>
+        <Link href="/news" className=''>News</Link>
+        <Link href="/contact" className=''>Contact</Link>
       </div>
-    </nav>
+    </header>
   </>
   )
 }

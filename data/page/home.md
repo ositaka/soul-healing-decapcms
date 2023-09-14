@@ -6,6 +6,7 @@ section:
     section_type: text_only
     main_menu:
       show: false
+      name: Home
     title: Welcome to Soul Healing
     text: >-
       Unlock your spiritual and emotional healing with the transformative power

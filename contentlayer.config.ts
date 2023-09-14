@@ -68,6 +68,10 @@ const Page = defineDocumentType(() => ({
       type: 'list',
       of: SECTION,
     },
+    menu: {
+      type: 'nested',
+      of: MAIN_MENU,
+    },
   },
   computedFields: {
     slug: {
@@ -105,6 +109,8 @@ const News = defineDocumentType(() => ({
     },
   },
 }))
+
+
 
 export default makeSource({
   contentDirPath: 'data',
