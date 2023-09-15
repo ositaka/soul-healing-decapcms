@@ -247,6 +247,12 @@ p {
   }
 }
 
+@media screen and (max-width: 800px) {
+  .section {
+    min-height: calc(100dvh);
+  }
+}
+
 .hero-image {
   min-height: calc(100dvh - var(--header-height));
 }
