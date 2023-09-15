@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/roos_um_circulo_de_cura_energetica_com_luz_dourada_onde_a_pesso_f8841df5-2706-4d37-af2d-3c2ed01d1d76.png
+image: /images/design-sem-nome.jpg
 section:
   - type: text_only
     section_type: text_only
