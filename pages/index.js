@@ -34,20 +34,14 @@ export default function Home({ home }) {
         }}
       />
 
-
-      <Layout>
+      <Layout criteria={true} heroImage={home.image}>
 
         {home.section.map(section => {
           return (
             <section key={section.title} id={section.main_menu?.name} className={'section--' + section.section_type}>
-              <h2 style={{ "background": "red" }}>{section.title}</h2>
-              <h2 style={{ "background": "red" }}>
-                <a href={'#' + section.main_menu?.name}>{section.title}</a>
-              </h2>
-              {/* <div>{section.text.raw}</div> */}
-              <div>main menu: {section.main_menu.show === true ? 'is on menu' : ''}</div>
-              <div>menu name: {section.main_menu.name}</div>
-
+              <br />
+              <br />
+              <h2>{section.title}</h2>
               <div>
                 <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
               </div>

@@ -1,6 +1,8 @@
 import { motion } from "framer-motion";
+import Image from "next/image";
+import Header from "./Header";
 
-const Layout = ({ children }) => (
+const Layout = ({ children, criteria, heroImage }) => (
   <motion.main
     initial={{ opacity: 0 }}
     animate={{ opacity: 1 }}
@@ -11,6 +13,15 @@ const Layout = ({ children }) => (
       damping: 30,
     }}
   >
+    {criteria ? //ternary operator
+      <>
+        <div className='hero-image'>
+          <Image fill priority src={heroImage} alt="..." />
+        </div>
+        <Header />
+      </>
+      : <Header />
+    }
     {children}
   </motion.main>
 );

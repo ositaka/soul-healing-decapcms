@@ -1,16 +1,23 @@
 import Link from 'next/link'
 import { allPages } from "./../.contentlayer/generated";
+import Image from 'next/image';
 
 export default function Header({ }) {
   let menu = allPages.find((home) => {
     return home.slug === "home"
   })
 
+  let heroImage = menu.image
+
   menu = menu.section
 
   return (<>
 
     <header className="header">
+      {/* <div className='hero-image'>
+        <Image fill priority src={heroImage} alt="..." />
+      </div> */}
+
       <div className="navigation" id="myTopnav">
         <Link href="/#Home" className='active'>Soul Healing</Link>
 

@@ -55,19 +55,19 @@ header {
 }
 main {
   scroll-behavior: smooth;
-  scroll-snap-type: y mandatory;
+  /* scroll-snap-type: y mandatory; */
   /* scroll-snap-type: y proximity; */
-  position: absolute;
-  overflow-y: auto;
-  height: calc(100vh - var(--header-height));
-  top: var(--header-height);
+  /* position: absolute; */
+  /* overflow-y: auto; */
+  min-height: calc(100vh - var(--header-height));
+  /* top: var(--header-height); */
 }
 
 section {
   min-height: calc(100vh - var(--header-height));
   scroll-snap-align: center;
   position: relative;
-  overflow: auto;
+  /* overflow: auto; */
   background-color: #f4f4f4;
 }
 
@@ -121,9 +121,9 @@ p {
 }
 
 .header {
-  position: fixed;
+  /* position: fixed;
   width: 100%;
-  top: 0;
+  top: 0; */
   background-color: #333;
 }
 
@@ -242,4 +242,8 @@ p {
   .section {
     display: block;
   }
+}
+
+.hero-image {
+  min-height: calc(100vh - var(--header-height));
 }
