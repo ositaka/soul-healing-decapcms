@@ -102,7 +102,7 @@ section:
           and nurturing environment for healing and growth. He limit the size of
           our groups to ensure that each individual receives the attention and
           support they need. Has a minimum of 4 persons.
-        image: /images/magic-ball-sun.jpg
+        image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
   - type: text_only
     section_type: text_only
     main_menu:
