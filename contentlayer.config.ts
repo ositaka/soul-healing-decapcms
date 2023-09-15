@@ -40,6 +40,10 @@ const SECTION = defineNestedType(() => ({
       type: 'string',
       required: false,
     },
+    items: {
+      type: 'list',
+      of: { type: 'string' },
+    },
   },
 }))
 
@@ -62,7 +66,7 @@ const Page = defineDocumentType(() => ({
     },
     image: {
       type: 'string',
-      required: false
+      required: false,
     },
     // gallery: {
     //   type: 'list',
@@ -113,8 +117,6 @@ const News = defineDocumentType(() => ({
     },
   },
 }))
-
-
 
 export default makeSource({
   contentDirPath: 'data',

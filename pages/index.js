@@ -38,15 +38,42 @@ export default function Home({ home }) {
 
         {home.section.map(section => {
           return (
-            <section key={section.title} id={section.main_menu?.name} className={'section--' + section.section_type}>
-              <br />
-              <br />
-              <h2>{section.title}</h2>
-              <div>
-                <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
-              </div>
-              {section.image && <Image width={1200} height={1200} src={section.image} alt="..." />}
-            </section>
+            section.section_type === "section_repeatable_content" ?
+              <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
+                <div className='section__content'>
+                  <h2>{section.title}</h2>
+
+                  {section.items && section.items.map((item, index) => {
+                    return (
+                      <div key={index} className='section__item'>
+                        <figure>
+                          <Image width={280} height={186} src={item.image} alt="..." />
+                        </figure>
+
+                        <div class="section__item-content">
+                          <h3>{item.title}</h3>
+                          <p>{item.text}</p>
+                        </div>
+                      </div>
+                    )
+                  })}
+
+                </div>
+              </section>
+              :
+              <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
+                <div className='section__content'>
+
+                  <h2>{section.title}</h2>
+                  <div>
+                    <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
+                  </div>
+                </div>
+                {section.image &&
+                  <div className='section__image'>
+                    <Image width={1200} height={1200} src={section.image} alt="..." />
+                  </div>}
+              </section>
           )
         })}
 

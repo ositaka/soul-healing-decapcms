@@ -212,9 +212,9 @@ collections:
               'bold',
               'italic',
               'link',
-              'heading-one',
               'heading-two',
               'heading-three',
+              'quote',
             ],
           modes: ['rich_text'],
         }

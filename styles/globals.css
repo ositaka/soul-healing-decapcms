@@ -1,13 +1,13 @@
-html,
+/* html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+} */
 
 #__next {
-  min-height: 100dvh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -51,7 +51,7 @@ header {
 
 /* to review */
 :root {
-  --header-height: 55px;
+  --header-height: 60px;
 }
 main {
   scroll-behavior: smooth;
@@ -59,16 +59,15 @@ main {
   /* scroll-snap-type: y proximity; */
   /* position: absolute; */
   /* overflow-y: auto; */
-  min-height: calc(100vh - var(--header-height));
+  min-height: calc(100vh);
   /* top: var(--header-height); */
 }
 
 section {
-  min-height: calc(100vh - var(--header-height));
+  min-height: calc(100vh);
   scroll-snap-align: center;
   position: relative;
   /* overflow: auto; */
-  background-color: #f4f4f4;
 }
 
 * {
@@ -137,7 +136,7 @@ p {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 17px 25px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -173,11 +172,12 @@ p {
 }
 
 .section {
-  min-height: 50vh;
   display: grid;
   grid-template-areas: 'content image';
   grid-template-columns: 1fr 1fr;
   /* border: 100px solid white; */
+  max-height: calc(100vh);
+  overflow: hidden;
 }
 
 .section:nth-child(odd) {
@@ -188,6 +188,8 @@ p {
 .section__content {
   padding: 10vw;
   grid-area: content;
+  max-height: 100vh;
+  overflow-y: scroll;
 }
 
 .section__image {
@@ -196,11 +198,13 @@ p {
   display: flex;
 }
 
-.section.section--full {
-  display: block;
+.section--text_only,
+.section--section_repeatable_content {
+  display: flex;
 }
 
-.section.section--full .section__content {
+.section--text_only .section__content,
+.section--section_repeatable_content .section__content {
   max-width: 1200px;
   margin: auto;
 }

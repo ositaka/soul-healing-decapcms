@@ -42,7 +42,7 @@ section:
     section_type: text_only
     main_menu:
       show: true
-      name: Soul Healing
+      name: What is?
     title: What is Soul Healing?
     text: >-
       Soul healing is a type of trance healing that focuses on healing the soul
@@ -108,7 +108,7 @@ section:
     main_menu:
       show: true
       name: Testimonials
-    title: What People Says
+    title: What People Say
     text: >-
       Words can be like X-rays, if you use them properly—they'll go through
       anything. You read and you're pierced. Words can be like X-rays, if you

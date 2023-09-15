@@ -29,9 +29,9 @@ export default function Header({ }) {
             </Link>
             )
           })}
-        <Link href="/bookings" className=''>Bookings</Link>
+        {/* <Link href="/bookings" className=''>Bookings</Link> */}
         <Link href="/news" className=''>News</Link>
-        <Link href="/contact" className=''>Contact</Link>
+        {/* <Link href="/contact" className=''>Contact</Link> */}
       </div>
     </header>
   </>

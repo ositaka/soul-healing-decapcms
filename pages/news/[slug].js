@@ -47,14 +47,13 @@ export default function NewsPage({ news }) {
         <div className="container my-5">
           <div className="row">
             <div className="col-lg-10 m-auto">
-              <button type="button" onClick={() => router.back()}>&larr; Back</button>
-              <div className='card card-page'>
-                <h1 className='post-title mt-2 p-2'>{news.title}</h1>
-                <div className='post-date m-1 p-2'>
-                  <div><h6>{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`} </h6>  </div>
-                </div>
-                <ReactMarkdown className='post-body p-5 m-auto' remarkPlugins={[gfm]} children={news.body?.raw} />
-              </div>
+              <button type="button" style={{ "padding": "10px 20px" }} onClick={() => router.back()}>&larr; Back to News</button>
+              <br></br>
+              <br></br>
+              <br></br>
+              <h1>{news.title}</h1>
+              <h6>Date: {`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`} </h6>
+              <ReactMarkdown className='' remarkPlugins={[gfm]} children={news.body?.raw} />
             </div>
           </div>
         </div>
