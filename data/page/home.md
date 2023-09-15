@@ -130,10 +130,4 @@ section:
 
 
       Email, whatsApp, etc.
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-    title: test
-    text: tst
 ---
