@@ -3,23 +3,6 @@ title: Home
 slug: home
 image: /images/magic-ball-sun.jpg
 section:
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-      name: Home
-    title: Welcome to Soul Healing
-    text: >-
-      Unlock your spiritual and emotional healing with the transformative power
-      of soul healing. Our experienced facilitator combines ancient techniques
-      with modern practices to create a safe and nurturing space for you to
-      connect with your soul and heal from within.
-
-
-      Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
-
-
-      Schedule your session today and discover the power of Soul Healing.
   - type: text_image
     section_type: text_image
     main_menu:
@@ -38,6 +21,23 @@ section:
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
     image: /images/portrait-of-tiago.jpeg
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+      name: Home
+    title: Welcome to Soul Healing
+    text: >-
+      Unlock your spiritual and emotional healing with the transformative power
+      of soul healing. Our experienced facilitator combines ancient techniques
+      with modern practices to create a safe and nurturing space for you to
+      connect with your soul and heal from within.
+
+
+      Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
+
+
+      Schedule your session today and discover the power of Soul Healing.
   - type: text_only
     section_type: text_only
     main_menu:
@@ -91,15 +91,13 @@ section:
     title: Soul Healing Sessions
     items:
       - title: One-on-One
-        text:
-          Our one-on-one sessions are personalized to your unique needs and goals.
+        text: Our one-on-one sessions are personalized to your unique needs and goals.
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
         image: /images/one-on-one.jpg
       - title: Small Groups
-        text:
-          His small group sessions offer the opportunity to connect with others who
+        text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
           and nurturing environment for healing and growth. He limit the size of
           our groups to ensure that each individual receives the attention and
