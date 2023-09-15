@@ -175,8 +175,6 @@ p {
   grid-template-areas: 'content image';
   grid-template-columns: 1fr 1fr;
   /* border: 100px solid white; */
-  max-height: calc(100dvh);
-  overflow: hidden;
 }
 
 .section:nth-child(odd) {
@@ -249,7 +247,8 @@ p {
 
 @media screen and (max-width: 800px) {
   .section {
-    min-height: calc(100dvh);
+    max-height: calc(100dvh);
+    overflow: hidden;
   }
 }
 
