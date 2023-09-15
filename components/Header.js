@@ -1,23 +1,25 @@
 import Link from 'next/link'
 import { allPages } from "./../.contentlayer/generated";
-import Image from 'next/image';
 
 export default function Header({ }) {
   let menu = allPages.find((home) => {
     return home.slug === "home"
   })
 
-  let heroImage = menu.image
-
   menu = menu.section
+
+  // const myFunction = () => {
+  //   var x = document.getElementById("myTopnav");
+  //   if (x.className === "navigation") {
+  //     x.className += " responsive";
+  //   } else {
+  //     x.className = "navigation";
+  //   }
+  // }
 
   return (<>
 
     <header className="header">
-      {/* <div className='hero-image'>
-        <Image fill priority src={heroImage} alt="..." />
-      </div> */}
-
       <div className="navigation" id="myTopnav">
         <Link href="/#Home" className='active'>Soul Healing</Link>
 
@@ -32,6 +34,13 @@ export default function Header({ }) {
         {/* <Link href="/bookings" className=''>Bookings</Link> */}
         <Link href="/news" className=''>News</Link>
         {/* <Link href="/contact" className=''>Contact</Link> */}
+        <a href="javascript:void(0);" class="icon">
+          <div class="icon__menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </a>
       </div>
     </header>
   </>
