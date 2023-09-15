@@ -15,10 +15,10 @@ const Layout = ({ children, criteria, heroImage }) => (
   >
     {criteria ? //ternary operator
       <>
+        <Header />
         <div className='hero-image'>
           <Image fill priority src={heroImage} alt="..." />
         </div>
-        <Header />
       </>
       : <Header />
     }
