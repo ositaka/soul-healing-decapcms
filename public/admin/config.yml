@@ -19,7 +19,7 @@ local_backend:
 editor:
   preview: false
 
-display_url: https://b-on.netlify.app # This url will display in the top-right of the CMS
+display_url: https://soul-healing.netlify.app # This url will display in the top-right of the CMS
 media_folder: 'public/images' # Media files will be stored in the repo under static/images/uploads
 public_folder: '/images' # The src attribute for uploaded media will begin with /images/uploads
 collections:
@@ -208,13 +208,6 @@ collections:
           widget: 'markdown',
           sanitize_preview: true,
           buttons:
-            [
-              'bold',
-              'italic',
-              'link',
-              'heading-two',
-              'heading-three',
-              'quote',
-            ],
+            ['bold', 'italic', 'link', 'heading-two', 'heading-three', 'quote'],
           modes: ['rich_text'],
         }

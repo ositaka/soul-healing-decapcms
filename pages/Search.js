@@ -36,7 +36,7 @@ export default function Search() {
         title="Search the page"
         description="Find the search result page"
         openGraph={{
-          url: 'http://b-on.netlify.app',
+          url: 'http://soul-healing.netlify.app',
           title: 'Search the page',
           description: 'Find the search result page',
           images: [

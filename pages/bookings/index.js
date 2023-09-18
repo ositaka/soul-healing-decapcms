@@ -12,7 +12,7 @@ export default function Bookings({ bookings }) {
         title="Bookings page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO bookings"
         openGraph={{
-          url: 'http://b-on.netlify.app',
+          url: 'http://soul-healing.netlify.app',
           title: 'Bookings page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO bookings',
           images: [

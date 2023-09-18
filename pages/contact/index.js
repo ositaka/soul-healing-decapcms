@@ -12,7 +12,7 @@ export default function Contact({ contact }) {
         title="Contact page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact"
         openGraph={{
-          url: 'http://b-on.netlify.app',
+          url: 'http://soul-healing.netlify.app',
           title: 'Contact page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact',
           images: [

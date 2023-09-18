@@ -12,7 +12,7 @@ export default function Home({ home }) {
         title="Home page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home"
         openGraph={{
-          url: 'http://b-on.netlify.app',
+          url: 'http://soul-healing.netlify.app',
           title: 'Home page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home',
           images: [
