@@ -48,7 +48,6 @@ export async function getStaticProps() {
   })
 
 
-  // console.log(home.section[1])
   return {
     props: {
       home,

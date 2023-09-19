@@ -50,7 +50,7 @@ export default function Home({ home }) {
                           <Image width={280} height={186} src={item.image} alt="..." />
                         </figure>
 
-                        <div class="section__item-content">
+                        <div className="section__item-content">
                           <h3>{item.title}</h3>
                           <p>{item.text}</p>
                         </div>
@@ -98,7 +98,6 @@ export async function getStaticProps() {
   })
 
 
-  console.log(home.section[1])
   return {
     props: {
       home,

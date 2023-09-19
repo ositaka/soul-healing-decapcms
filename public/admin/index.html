@@ -19,6 +19,62 @@
 
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
+  <script>
+    CMS.registerPreviewStyle("./admin.css");
+
+    var HomePagePreview = createClass({
+      render: function () {
+        var entry = this.props.entry;
+        var data = entry.getIn(['data']).toJS();
+
+        console.log(data, '----- data')
+
+        var heroImage = data.image;
+        var sections = data.section;
+
+        return h('div', {},
+          h('img', { src: heroImage }),
+
+          sections.map(section => {
+            return h('section', { key: section.title, id: section.main_menu?.name, class: 'section section--' + section.section_type },
+              h('h2', {}, section.title),
+              h('div', {}, section.text?.raw),
+            )
+          })
+
+          // h('h1', {}, title),
+          //   h('p', {}, description),
+        );
+      }
+    });
+    CMS.registerPreviewTemplate("index", HomePagePreview);
+
+
+    // var WorkPagePreview = createClass({
+    //   render: function () {
+    //     var entry = this.props.entry;
+    //     var data = entry.getIn(['data']).toJS();
+
+    //     var title = data.title;
+    //     var description = data.description;
+    //     var director = data.director;
+    //     var video = data.video.desktop;
+
+
+    //     return h('div', {},
+    //       h('h1', {}, title),
+    //       h('p', {}, description),
+    //       h('p', {}, director),
+    //       h('video', { controls: true, key: video },
+    //         h('source', { src: video, type: 'video/mp4' })
+    //       )
+    //     );
+    //   }
+    // });
+
+    // CMS.registerPreviewTemplate("work", WorkPagePreview);
+  </script>
 </body>
 
 </html>

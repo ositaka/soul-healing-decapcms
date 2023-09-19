@@ -16,8 +16,8 @@ local_backend:
 
 # publish_mode: editorial_workflow
 
-editor:
-  preview: false
+# editor:
+#   preview: false
 
 display_url: https://soul-healing.netlify.app # This url will display in the top-right of the CMS
 media_folder: 'public/images' # Media files will be stored in the repo under static/images/uploads

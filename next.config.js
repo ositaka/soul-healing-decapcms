@@ -6,6 +6,7 @@ const nextconfig = {
   trailingSlash: true,
   // disableImportAliasWarning: true,
   images: {
+    formats: ['image/webp'],
     remotePatterns: [
       {
         protocol: 'https',
