@@ -47,7 +47,7 @@ export default function Home({ home }) {
                     return (
                       <div key={index} className='section__item'>
                         <figure>
-                          <Image width={280} height={186} src={item.image} alt="..." />
+                          <Image width={280} height={186} src={item.image} alt="..." sizes="100vw" />
                         </figure>
 
                         <div className="section__item-content">
@@ -71,7 +71,7 @@ export default function Home({ home }) {
                 </div>
                 {section.image &&
                   <div className='section__image'>
-                    <Image width={1200} height={1200} src={section.image} alt="..." />
+                    <Image width={1200} height={1200} src={section.image} alt="..." sizes="100vw" />
                   </div>}
               </section>
           )

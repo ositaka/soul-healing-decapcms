@@ -17,7 +17,7 @@ const Layout = ({ children, criteria, heroImage }) => (
       <>
         <Header />
         <div className='hero-image'>
-          <Image fill priority src={heroImage} alt="..." />
+          <Image fill priority src={heroImage} sizes="100vw" alt="..." />
         </div>
       </>
       : <Header />

@@ -17,9 +17,13 @@
 <body>
   <!-- <script src="./decap-cms.js"></script> -->
 
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    console.log(marked.parse('# Marked in browser\n\nRendered by **marked**.'));
+  </script>
+
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-
   <script>
     CMS.registerPreviewStyle("./admin.css");
 
@@ -28,23 +32,45 @@
         var entry = this.props.entry;
         var data = entry.getIn(['data']).toJS();
 
-        console.log(data, '----- data')
+        // console.log(data, '----- data')
 
         var heroImage = data.image;
         var sections = data.section;
+
+        const repeatableContent = (section) => {
+          return h('div', { class: 'section__content' },
+            h('h2', {}, section.title),
+
+            section.items && section.items.map((item, index) => {
+              return h('div', { key: index, class: 'section__item', },
+                h('figure', {},
+                  h('img', { src: item.image },),
+                ),
+                h('div', { class: 'section__item-content', },
+                  h('h3', {}, item.title),
+                  h('p', {}, item.text),
+                ),
+              );
+            }),
+          );
+        }
 
         return h('div', {},
           h('img', { src: heroImage }),
 
           sections.map(section => {
             return h('section', { key: section.title, id: section.main_menu?.name, class: 'section section--' + section.section_type },
-              h('h2', {}, section.title),
-              h('div', {}, section.text?.raw),
+              section.section_type === "section_repeatable_content" ? repeatableContent(section) :
+
+                h('div', { class: 'section__content' },
+                  h('h2', {}, section.title),
+                  h('div', {}, marked.parse(section.text)),
+                ),
+              h('div', { class: 'section__image' },
+                h('img', { src: section.image }),
+              ),
             )
           })
-
-          // h('h1', {}, title),
-          //   h('p', {}, description),
         );
       }
     });
