@@ -7,19 +7,25 @@ section:
     section_type: text_only
     main_menu:
       show: false
-      name: Home
-    title: Welcome to Soul Healing
+      name: Welcome
+    title: Welcome to The Golden Healing
     text: >-
       Unlock your spiritual and emotional healing with the transformative power
-      of soul healing. Our experienced facilitator combines ancient techniques
-      with modern practices to create a safe and nurturing space for you to
-      connect with your soul and heal from within.
+      of The Golden Healing. Tiago and Karen combine ancient techniques with
+      modern practices to create a safe and nurturing space for you to connect
+      with your soul and heal from within.
 
 
       Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
 
 
-      Schedule your session today and discover the power of Soul Healing.
+      Schedule your session today and discover the power of The Golden Healing.
+
+
+      \------
+
+
+      Within the heart of the cosmos, an eternal fire burns—the Central Sun. It radiates an essence of pure Golden Light energy that transcends time and space, carrying with it the wisdom of the Universe. We create a safe and nurturing space where we tap into this cosmic reservoir to infuse you with transformative light, rekindling your inner radiance and realigning you.
   - type: text_image
     section_type: text_image
     main_menu:
@@ -43,12 +49,12 @@ section:
     main_menu:
       show: true
       name: What is?
-    title: What is Soul Healing?
+    title: What is The Golden Healing?
     text: >-
-      Soul healing is a type of trance healing that focuses on healing the soul
-      or spirit. It involves connecting with the deeper parts of the self and
-      working to release any blockages or negative energy that may be holding
-      you back.
+      The Golden Healing is a type of trance healing that focuses on healing the
+      soul or spirit. It involves connecting with the deeper parts of the self
+      and working to release any blockages or negative energy that may be
+      holding you back.
 
 
       During a soul healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
@@ -87,8 +93,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Sessions
-    title: Soul Healing Sessions
+      name: Healing Sessions
+    title: The Golden Healing Sessions
     items:
       - title: One-on-One
         text: Our one-on-one sessions are personalized to your unique needs and goals.
@@ -123,7 +129,7 @@ section:
     main_menu:
       show: true
       name: Contact
-    title: Connect with Soul Healing
+    title: Connect with The Golden Healing
     text: >-
       Contact Tiago today to learn more about our services or to schedule a Soul
       Healing session. We are here to support you on your journey to wholeness.
