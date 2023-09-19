@@ -11,15 +11,21 @@ section:
     title: Welcome to The Golden Healing
     text: >-
       Unlock your spiritual and emotional healing with the transformative power
-      of soul healing. Our experienced facilitator combines ancient techniques
-      with modern practices to create a safe and nurturing space for you to
-      connect with your soul and heal from within.
+      of The Golden Healing. Tiago and Karen combine ancient techniques with
+      modern practices to create a safe and nurturing space for you to connect
+      with your soul and heal from within.
 
 
       Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
 
 
-      Schedule your session today and discover the power of Soul Healing.
+      Schedule your session today and discover the power of The Golden Healing.
+
+
+      \------
+
+
+      Within the heart of the cosmos, an eternal fire burns—the Central Sun. It radiates an essence of pure Golden Light energy that transcends time and space, carrying with it the wisdom of the Universe. We create a safe and nurturing space where we tap into this cosmic reservoir to infuse you with transformative light, rekindling your inner radiance and realigning you.
   - type: text_image
     section_type: text_image
     main_menu:
