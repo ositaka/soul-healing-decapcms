@@ -7,7 +7,7 @@ body {
 } */
 
 #__next {
-  min-height: 100dvh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -51,23 +51,15 @@ header {
 
 /* to review */
 :root {
-  --header-height: 60px;
+  --header-height: 52px;
 }
 main {
   scroll-behavior: smooth;
-  /* scroll-snap-type: y mandatory; */
-  /* scroll-snap-type: y proximity; */
-  /* position: absolute; */
-  /* overflow-y: auto; */
-  min-height: calc(100dvh);
-  /* top: var(--header-height); */
 }
 
 section {
   scroll-snap-align: center;
   position: relative;
-  /* overflow: auto; */
-  min-height: calc(100dvh);
 }
 
 * {
@@ -121,30 +113,40 @@ p {
 }
 
 .header {
-  /* position: fixed;
-    width: 100%;
-    top: 0; */
-  background-color: #333;
+  color: #222;
+  background-color: white;
+  width: 100%;
+  padding: 0 5%;
+  box-shadow: ;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background: rgba(251, 251, 253, 0.8);
+}
+
+.header__wrapper {
+  max-width: 980px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
 }
 
 .navigation {
   overflow: hidden;
-  background-color: #333;
 }
 
 .navigation a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #555;
   text-align: center;
-  padding: 17px 25px;
+  padding: 12px 20px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 12px;
 }
 
 .navigation a:hover {
-  background-color: #ddd;
-  color: black;
+  color: #000;
 }
 
 .navigation a.active {
@@ -177,7 +179,6 @@ p {
   grid-template-areas: 'content image';
   grid-template-columns: 1fr 1fr;
   /* border: 100px solid white; */
-  max-height: calc(100dvh);
   overflow: hidden;
 }
 
@@ -219,7 +220,7 @@ p {
   height: 100%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 980px) {
   .navigation a:not(:first-child) {
     display: none;
   }
@@ -252,11 +253,6 @@ p {
     padding-bottom: 10vh;
   }
 
-  .section,
-  .section__content {
-    max-height: unset !important;
-  }
-
   .section__item {
     grid-template-columns: 1fr;
   }
@@ -267,5 +263,5 @@ p {
 }
 
 .hero-image {
-  min-height: calc(100dvh - var(--header-height));
+  min-height: calc(100vh - var(--header-height));
 }
