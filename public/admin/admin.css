@@ -189,8 +189,6 @@ p {
 .section__content {
   padding: 10vw;
   grid-area: content;
-  max-height: 100dvh;
-  overflow-y: scroll;
 }
 
 .section__image {

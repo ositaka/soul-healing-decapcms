@@ -118,7 +118,7 @@ section:
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/portrait-of-tiago.jpeg
+    image: /images/portrait-of-tiago-expanded.jpg
   - type: text_only
     section_type: text_only
     main_menu:
