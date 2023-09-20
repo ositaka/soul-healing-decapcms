@@ -6,7 +6,7 @@ section:
   - type: text_only
     section_type: text_only
     main_menu:
-      show: false
+      show: true
       name: Welcome
     title: Welcome to The Golden Healing
     text: >-
@@ -26,35 +26,12 @@ section:
 
 
       Within the heart of the cosmos, an eternal fire burns—the Central Sun. It radiates an essence of pure Golden Light energy that transcends time and space, carrying with it the wisdom of the Universe. We create a safe and nurturing space where we tap into this cosmic reservoir to infuse you with transformative light, rekindling your inner radiance and realigning you.
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: About
-    title: About
-    text: >-
-      **About Tiago Araújo**
 
 
-      Tiago Araújo is an intuitive facilitator of trance healing with experience in the healing. He have studied with renowned teachers and healers from around the world and have developed a unique approach to trance healing that combines traditional wisdom with contemporary techniques.
+      \---
 
 
-      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
-
-
-      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/portrait-of-tiago.jpeg
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: true
-      name: What is?
-    title: What is The Golden Healing?
-    text: >-
-      The Golden Healing is a type of trance healing that focuses on healing the
-      soul or spirit. It involves connecting with the deeper parts of the self
-      and working to release any blockages or negative energy that may be
-      holding you back.
+      The Golden Healing is a type of trance healing that focuses on healing the soul or spirit. It involves connecting with the deeper parts of the self and working to release any blockages or negative energy that may be holding you back.
 
 
       During a soul healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
@@ -109,6 +86,24 @@ section:
           our groups to ensure that each individual receives the attention and
           support they need. Has a minimum of 4 persons.
         image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Who?
+    title: Who?
+    text: >-
+      **About Tiago Araújo**
+
+
+      Tiago Araújo is an intuitive facilitator of trance healing with experience in the healing. He have studied with renowned teachers and healers from around the world and have developed a unique approach to trance healing that combines traditional wisdom with contemporary techniques.
+
+
+      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+
+
+      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
+    image: /images/portrait-of-tiago.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
@@ -130,10 +125,6 @@ section:
       show: true
       name: Contact
     title: Connect with The Golden Healing
-    text: >-
-      Contact Tiago today to learn more about our services or to schedule a Soul
+    text: Contact Tiago today to learn more about our services or to schedule a Soul
       Healing session. We are here to support you on your journey to wholeness.
-
-
-      Email, whatsApp, etc.
 ---
