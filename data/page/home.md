@@ -90,8 +90,8 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: Who?
-    title: Who?
+      name: About
+    title: About
     text: >-
       **About Tiago Araújo**
 
