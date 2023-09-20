@@ -6,7 +6,7 @@ section:
   - type: text_only
     section_type: text_only
     main_menu:
-      show: true
+      show: false
       name: Welcome
     title: Welcome to The Golden Healing
     text: >-
