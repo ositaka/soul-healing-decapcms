@@ -41,6 +41,26 @@ section:
 
 
       Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
+  - type: section_repeatable_content
+    section_type: section_repeatable_content
+    main_menu:
+      show: true
+      name: Healing Sessions
+    title: The Golden Healing Sessions
+    items:
+      - title: One-on-One
+        text: Our one-on-one sessions are personalized to your unique needs and goals.
+          Whether you're seeking relief from physical pain, emotional trauma, or
+          spiritual disconnection, the facilitator will work with you to create
+          a safe and nurturing space for you to explore and heal.
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
+      - title: Small Groups
+        text: His small group sessions offer the opportunity to connect with others who
+          share your experiences and goals. These sessions provide a supportive
+          and nurturing environment for healing and growth. He limit the size of
+          our groups to ensure that each individual receives the attention and
+          support they need. Has a minimum of 4 persons.
+        image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
   - type: text_image
     section_type: text_image
     main_menu:
@@ -81,26 +101,6 @@ section:
 
 
       — Aldous Huxley, *Brave New World*
-  - type: section_repeatable_content
-    section_type: section_repeatable_content
-    main_menu:
-      show: true
-      name: Healing Sessions
-    title: The Golden Healing Sessions
-    items:
-      - title: One-on-One
-        text: Our one-on-one sessions are personalized to your unique needs and goals.
-          Whether you're seeking relief from physical pain, emotional trauma, or
-          spiritual disconnection, the facilitator will work with you to create
-          a safe and nurturing space for you to explore and heal.
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Small Groups
-        text: His small group sessions offer the opportunity to connect with others who
-          share your experiences and goals. These sessions provide a supportive
-          and nurturing environment for healing and growth. He limit the size of
-          our groups to ensure that each individual receives the attention and
-          support they need. Has a minimum of 4 persons.
-        image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
   - type: text_image
     section_type: text_image
     main_menu:
