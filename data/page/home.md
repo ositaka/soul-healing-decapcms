@@ -66,24 +66,6 @@ section:
 
       **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
     image: /images/magic-ball-sun.jpg
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: About
-    title: About
-    text: >-
-      **About Tiago Araújo**
-
-
-      Tiago Araújo is an intuitive facilitator of trance healing with experience in the healing. He have studied with renowned teachers and healers from around the world and have developed a unique approach to trance healing that combines traditional wisdom with contemporary techniques.
-
-
-      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
-
-
-      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/portrait-of-tiago.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
@@ -119,6 +101,24 @@ section:
           our groups to ensure that each individual receives the attention and
           support they need. Has a minimum of 4 persons.
         image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Tiago
+    title: About
+    text: >-
+      **About Tiago Araújo**
+
+
+      Tiago Araújo is an intuitive facilitator of trance healing with experience in the healing. He have studied with renowned teachers and healers from around the world and have developed a unique approach to trance healing that combines traditional wisdom with contemporary techniques.
+
+
+      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+
+
+      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
+    image: /images/portrait-of-tiago.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
