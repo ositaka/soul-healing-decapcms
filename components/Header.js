@@ -12,7 +12,7 @@ export default function Header({ }) {
 
     <header className="header">
       <div className="header__wrapper">
-        <Link href="/#Home">Soul Healing</Link>
+        <Link href="/#Home">The Golden Healing</Link>
 
         <div className="navigation">
           {menu
