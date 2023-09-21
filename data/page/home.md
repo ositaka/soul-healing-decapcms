@@ -34,13 +34,20 @@ section:
       The Golden Healing is a type of trance healing that focuses on healing the soul or spirit. It involves connecting with the deeper parts of the self and working to release any blockages or negative energy that may be holding you back.
 
 
-      During a soul healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
+      During an healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
 
 
-      Soul healing can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
+      The Golden Haling can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
 
 
       Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: true
+      name: Vision and Mission
+    title: Vision and Mission
+    text: V S
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -53,7 +60,7 @@ section:
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
-        image: /images/img_1538.jpg
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
       - title: Groups
         text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
@@ -85,7 +92,7 @@ section:
 
 
       **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
-    image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
+    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
   - type: text_only
     section_type: text_only
     main_menu:
@@ -93,39 +100,41 @@ section:
       name: Testimonials
     title: What People Say
     text: >-
-      Words can be like X-rays, if you use them properly—they'll go through
-      anything. You read and you're pierced. Words can be like X-rays, if you
-      use them properly—they'll go through anything. You read and you're
-      pierced. Words can be like X-rays, if you use them properly—they'll go
-      through anything. You read and you're pierced.
+      Tiago is very good in presence and distance healing sessions. He taught me
+      the Trance Healing. Which forever transformed certain aspects of my life.
+      It has a specific signature and makes the energy tangible. It is one of
+      the important encounters of my life. He will guide you with respect and
+      compassion. Highly recommended. 
 
 
-      — Aldous Huxley, *Brave New World*
+      www.suzannecerutti.com
+
+
+      — Suzanne Cerutti, Switzerland
   - type: text_image
     section_type: text_image
     main_menu:
       show: true
-      name: Tiago
+      name: Who
     title: About
     text: >-
-      **Tiago Araújo** is an intuitive facilitator of trance healing with
-      experience in the healing. He have studied with renowned teachers and
-      healers from around the world and have developed a unique approach to
-      trance healing that combines traditional wisdom with contemporary
-      techniques.
+      **Tiago** is an intuitive facilitator of healing whose synergy comes from
+      various modalities of energy healing. He is a channel for Divine
+      connection from the center of the heart, the place of unconditional love
+      and Divine light. 
 
 
-      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+      At The Golden Healing, the philosophy is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/portrait-of-tiago-expanded.jpg
+    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
   - type: text_only
     section_type: text_only
     main_menu:
       show: true
       name: Contact
     title: Connect
-    text: Contact Tiago today to learn more about our services or to schedule a Soul
+    text: Contact Tiago today to learn more about our services or to schedule an
       Healing session. We are here to support you on your journey to wholeness.
 ---
