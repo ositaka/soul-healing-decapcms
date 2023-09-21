@@ -101,14 +101,17 @@ section:
       name: Testimonials
     title: What People Say
     text: >-
-      Words can be like X-rays, if you use them properly—they'll go through
-      anything. You read and you're pierced. Words can be like X-rays, if you
-      use them properly—they'll go through anything. You read and you're
-      pierced. Words can be like X-rays, if you use them properly—they'll go
-      through anything. You read and you're pierced.
+      Tiago is very good in presence and distance healing sessions. He taught me
+      the Trance Healing. Which forever transformed certain aspects of my life.
+      It has a specific signature and makes the energy tangible. It is one of
+      the important encounters of my life. He will guide you with respect and
+      compassion. Highly recommended. 
 
 
-      — Aldous Huxley, *Brave New World*
+      www.suzannecerutti.com
+
+
+      — Suzanne Cerutti, Switzerland
   - type: text_image
     section_type: text_image
     main_menu:
