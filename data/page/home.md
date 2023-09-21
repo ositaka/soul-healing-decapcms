@@ -44,7 +44,7 @@ section:
   - type: text_only
     section_type: text_only
     main_menu:
-      show: false
+      show: true
       name: Vision and Mission
     title: Vision and Mission
     text: V S
