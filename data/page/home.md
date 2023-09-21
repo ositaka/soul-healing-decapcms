@@ -3,6 +3,14 @@ title: Home
 slug: home
 image: /images/design-sem-nome.jpg
 section:
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Vision and Mission
+    title: Vision and Mission
+    text: "**Vision and Mission**"
+    image: /images/img_2262.jpg
   - type: text_only
     section_type: text_only
     main_menu:
@@ -105,7 +113,7 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: Tiago
+      name: Who
     title: About
     text: >-
       **Tiago Araújo** is an intuitive facilitator of trance healing with
