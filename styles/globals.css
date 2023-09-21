@@ -44,6 +44,12 @@ header {
 }
 
 @media screen and (max-width: 767px) {
+  .section__item figure,
+  .section__item img {
+    height: 100%;
+    width: 100%;
+  }
+
   .gallery {
     grid-template-columns: 1fr;
   }
@@ -77,7 +83,7 @@ html {
 }
 
 body {
-  font-family: 'Asap', -apple-system, system-ui, Roboto, sans-serif;
+  font-family: -apple-system, system-ui, Roboto, sans-serif;
   font-size: 18px;
   line-height: 26px;
   -webkit-font-smoothing: antialiased;
@@ -127,11 +133,11 @@ p {
 }
 
 .header__wrapper {
-  max-width: 980px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: auto;
+  padding: 0 5.5%;
 }
 
 .navigation {
@@ -181,18 +187,20 @@ p {
   display: grid;
   grid-template-areas: 'content image';
   grid-template-columns: 1fr 1fr;
-  /* border: 100px solid white; */
-  overflow: hidden;
+  min-height: 100vh;
+  /* padding-top: var(--header-height); */
 }
 
-.section:nth-child(odd) {
+.section--text_image:nth-of-type(3n) {
   grid-template-areas: 'image content';
-  /* background-color: #eee; */
 }
 
 .section__content {
   padding: 10vw;
   grid-area: content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .section__image {
@@ -283,4 +291,8 @@ p {
 #WhatsApp span {
   visibility: hidden;
   font-size: 0;
+}
+
+footer {
+  position: relative;
 }

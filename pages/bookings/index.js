@@ -29,12 +29,12 @@ export default function Bookings({ bookings }) {
       />
 
       <Layout>
-        <div className="container">
-          <div className="text-center my-5">
-            <h1 className="fw-bolder">{bookings.title}</h1>
-            <p className="lead mb-0">{bookings.description}</p>
+        <section className="section section--text_only">
+          <div className="section__content">
+            <h1>{bookings.title}</h1>
+            <p>{bookings.description}</p>
           </div>
-        </div>
+        </section>
       </Layout>
     </>
   )

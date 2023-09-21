@@ -12,7 +12,7 @@ export default function Header({ }) {
 
     <header className="header">
       <div className="header__wrapper">
-        <Link href="/#Home">The Golden Healing</Link>
+        <Link href="/#Welcome">The Golden Healing</Link>
 
         <div className="navigation">
           {menu
@@ -23,7 +23,7 @@ export default function Header({ }) {
               </Link>
               )
             })}
-          {/* <Link href="/bookings" className=''>Bookings</Link> */}
+          <Link href="/bookings" className=''>Bookings</Link>
           <Link href="/news" className=''>News</Link>
           {/* <Link href="/contact" className=''>Contact</Link> */}
           <a href="javascript:void(0);" className="icon">
