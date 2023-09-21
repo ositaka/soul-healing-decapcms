@@ -61,7 +61,7 @@ section:
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
-        image: /images/img_1538.jpg
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
       - title: Groups
         text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
@@ -93,7 +93,7 @@ section:
 
 
       **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
-    image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
+    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
   - type: text_only
     section_type: text_only
     main_menu:
@@ -130,13 +130,13 @@ section:
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/portrait-of-tiago-expanded.jpg
+    image: /images/design-sem-nome-1-.jpg
   - type: text_only
     section_type: text_only
     main_menu:
       show: true
       name: Contact
     title: Connect
-    text: Contact Tiago today to learn more about our services or to schedule a Soul
+    text: Contact Tiago today to learn more about our services or to schedule an
       Healing session. We are here to support you on your journey to wholeness.
 ---
