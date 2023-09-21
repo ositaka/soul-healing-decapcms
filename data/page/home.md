@@ -8,7 +8,7 @@ section:
     main_menu:
       show: false
       name: Welcome
-    title: Welcome to The Golden Healing
+    title: The Golden Healing
     text: >-
       Unlock your spiritual and emotional healing with the transformative power
       of The Golden Healing. Tiago and Karen combine ancient techniques with
@@ -46,21 +46,21 @@ section:
     main_menu:
       show: true
       name: Healing Sessions
-    title: The Golden Healing Sessions
+    title: Healing Sessions
     items:
       - title: One-on-One
         text: Our one-on-one sessions are personalized to your unique needs and goals.
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Small Groups
+        image: /images/img_1538.jpg
+      - title: Groups
         text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
           and nurturing environment for healing and growth. He limit the size of
           our groups to ensure that each individual receives the attention and
           support they need. Has a minimum of 4 persons.
-        image: /images/roos_a_healing_circle._participants_are_lying_on_their_backs_on_ba249ef7-8a34-4804-b6ca-c2900ebbbfee.png
+        image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: text_image
     section_type: text_image
     main_menu:
@@ -85,7 +85,7 @@ section:
 
 
       **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
-    image: /images/magic-ball-sun.jpg
+    image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
   - type: text_only
     section_type: text_only
     main_menu:
@@ -108,10 +108,11 @@ section:
       name: Tiago
     title: About
     text: >-
-      **About Tiago Araújo**
-
-
-      Tiago Araújo is an intuitive facilitator of trance healing with experience in the healing. He have studied with renowned teachers and healers from around the world and have developed a unique approach to trance healing that combines traditional wisdom with contemporary techniques.
+      **Tiago Araújo** is an intuitive facilitator of trance healing with
+      experience in the healing. He have studied with renowned teachers and
+      healers from around the world and have developed a unique approach to
+      trance healing that combines traditional wisdom with contemporary
+      techniques.
 
 
       At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
@@ -124,7 +125,7 @@ section:
     main_menu:
       show: true
       name: Contact
-    title: Connect with The Golden Healing
+    title: Connect
     text: Contact Tiago today to learn more about our services or to schedule a Soul
       Healing session. We are here to support you on your journey to wholeness.
 ---
