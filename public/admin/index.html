@@ -19,7 +19,8 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    console.log(marked.parse('# Marked in browser\n\nRendered by **marked**.'));
+    document.getElementById('content').innerHTML =
+      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
   </script>
 
   <!-- Include the script that builds the page and powers Decap CMS -->
