@@ -34,10 +34,10 @@ section:
       The Golden Healing is a type of trance healing that focuses on healing the soul or spirit. It involves connecting with the deeper parts of the self and working to release any blockages or negative energy that may be holding you back.
 
 
-      During a soul healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
+      During an healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
 
 
-      Soul healing can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
+      The Golden Haling can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
 
 
       Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
