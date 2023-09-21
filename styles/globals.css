@@ -60,6 +60,9 @@ main {
 section {
   scroll-snap-align: center;
   position: relative;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background: rgba(251, 251, 253, 0.8);
 }
 
 * {
@@ -184,7 +187,7 @@ p {
 
 .section:nth-child(odd) {
   grid-template-areas: 'image content';
-  background-color: #eee;
+  /* background-color: #eee; */
 }
 
 .section__content {
@@ -264,6 +267,10 @@ p {
 
 .hero-image {
   min-height: calc(100vh - var(--header-height));
+}
+
+.hero-image img {
+  position: fixed !important;
 }
 
 #WhatsApp {
