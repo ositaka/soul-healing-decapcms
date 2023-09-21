@@ -47,7 +47,7 @@ section:
       show: true
       name: Vision and Mission
     title: Vision and Mission
-    text: "**Vision and Mission**"
+    text: "**VS**"
     image: /images/img_2262.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
