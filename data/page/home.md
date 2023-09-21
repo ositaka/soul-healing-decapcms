@@ -41,14 +41,13 @@ section:
 
 
       Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
-  - type: text_image
-    section_type: text_image
+  - type: text_only
+    section_type: text_only
     main_menu:
-      show: true
+      show: false
       name: Vision and Mission
     title: Vision and Mission
-    text: "**VS**"
-    image: /images/img_2262.jpg
+    text: V S
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -119,18 +118,17 @@ section:
       name: Who
     title: About
     text: >-
-      **Tiago Araújo** is an intuitive facilitator of trance healing with
-      experience in the healing. He have studied with renowned teachers and
-      healers from around the world and have developed a unique approach to
-      trance healing that combines traditional wisdom with contemporary
-      techniques.
+      **Tiago** is an intuitive facilitator of healing whose synergy comes from
+      various modalities of energy healing. He is a channel for Divine
+      connection from the center of the heart, the place of unconditional love
+      and Divine light. 
 
 
-      At Soul Healing, his philosophy is that true healing comes from within. Thes facilitator works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+      At The Golden Healing, the philosophy is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/design-sem-nome-1-.jpg
+    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
   - type: text_only
     section_type: text_only
     main_menu:
