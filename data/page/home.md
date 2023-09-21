@@ -3,14 +3,6 @@ title: Home
 slug: home
 image: /images/design-sem-nome.jpg
 section:
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Vision and Mission
-    title: Vision and Mission
-    text: "**Vision and Mission**"
-    image: /images/img_2262.jpg
   - type: text_only
     section_type: text_only
     main_menu:
@@ -49,6 +41,14 @@ section:
 
 
       Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Vision and Mission
+    title: Vision and Mission
+    text: "**Vision and Mission**"
+    image: /images/img_2262.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
