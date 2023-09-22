@@ -53,7 +53,7 @@ section:
     main_menu:
       show: true
       name: Healing Sessions
-    title: "Trance Healing "
+    title: "Golden Healing "
     items:
       - title: One-on-One
         text: Our one-on-one sessions are personalized to your unique needs and goals.
