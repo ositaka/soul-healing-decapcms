@@ -47,7 +47,18 @@ section:
       show: true
       name: Vision and Mission
     title: Vision and Mission
-    text: V S
+    text: >-
+      Our **Vision** is to be a radiant source of healing, compassion and unity
+      that touches the hearts and souls of people worldwide. We envision a world
+      where the transformative power of golden light shines brightly, bringing
+      solace, rejuvenation, and unity to individuals and communities, fostering
+      a more harmonious and enlightened global society. 
+
+
+      Our **Mission** is to share and amplify the golden light within each individual and extend it to the farthest corners of the world. We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support that help individuals connect with their inner light. We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence. 
+
+
+      The Vision and Mission emphasis the universal and inclusive nature of Golden Healing, aiming to create a global movement that brings healing, unity, and well-being to all of humanity.
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
