@@ -63,7 +63,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Healing
+      name: Golden Light
     title: "Golden Healing "
     items:
       - title: One-on-One
