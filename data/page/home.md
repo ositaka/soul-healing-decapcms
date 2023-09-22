@@ -63,7 +63,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Healing Sessions
+      name: Golden Healing
     title: "Golden Healing "
     items:
       - title: One-on-One
