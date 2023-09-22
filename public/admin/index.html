@@ -16,15 +16,8 @@
 
 <body>
   <!-- <script src="./decap-cms.js"></script> -->
-
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    document.getElementById('content').innerHTML =
-      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
-  </script>
-
-  <!-- Include the script that builds the page and powers Decap CMS -->
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script crossorigin src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script crossorigin src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
     CMS.registerPreviewStyle("./admin.css");
 
@@ -60,12 +53,19 @@
           h('img', { src: heroImage }),
 
           sections.map(section => {
+
+            const getMarkdownText = () => {
+              var rawMarkup = marked.parse(section.text);
+              return { __html: rawMarkup };
+            }
+
             return h('section', { key: section.title, id: section.main_menu?.name, class: 'section section--' + section.section_type },
               section.section_type === "section_repeatable_content" ? repeatableContent(section) :
 
                 h('div', { class: 'section__content' },
                   h('h2', {}, section.title),
-                  h('div', {}, marked.parse(section.text)),
+                  // h('div', {}, marked.parse(section.text)),
+                  h('div', { dangerouslySetInnerHTML: getMarkdownText() },),
                 ),
               h('div', { class: 'section__image' },
                 h('img', { src: section.image }),

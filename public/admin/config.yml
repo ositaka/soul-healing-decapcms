@@ -187,6 +187,16 @@ collections:
                           name: 'name',
                           widget: 'string',
                         }
+
+      - file: 'data/page/bookings.md'
+        label: 'Bookings'
+        name: 'bookings'
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+
       # - file: 'data/page/contact.md'
       #   label: 'Contact'
       #   name: 'contact'
