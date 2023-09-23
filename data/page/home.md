@@ -48,17 +48,21 @@ section:
       name: Vision and Mission
     title: Vision and Mission
     text: >-
-      Our **Vision** is to be a radiant source of healing, compassion and unity
-      that touches the hearts and souls of people worldwide. We envision a world
-      where the transformative power of golden light shines brightly, bringing
-      solace, rejuvenation, and unity to individuals and communities, fostering
-      a more harmonious and enlightened global society. 
+      At The Golden Healing, our vision is to serve as an illuminating source of
+      healing, compassion, and unity, touching the hearts and souls of people
+      worldwide.
 
 
-      Our **Mission** is to share and amplify the golden light within each individual and extend it to the farthest corners of the world. We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support that help individuals connect with their inner light. We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence. 
+      We envision a world where the transformative power of golden light radiates brilliantly, offering solace, rejuvenation, and unity to individuals and communities, thereby nurturing a more harmonious and enlightened global society.
 
 
-      The Vision and Mission emphasis the universal and inclusive nature of Golden Healing, aiming to create a global movement that brings healing, unity, and well-being to all of humanity.
+      Our mission is to propagate and amplify the golden light innate within every individual, extending its radiance to the farthest reaches of the world.
+
+
+      We are dedicated to fostering healing, well-being, and unity by providing accessible resources, practices, and support that aid individuals in connecting with their inner light. We aspire to unite humanity through shared experiences of healing, compassion, and the recognition of our shared essence.
+
+
+      Our vision and mission underscore the universal and all-encompassing nature of The Golden Healing, with the goal of spearheading a global movement that brings healing, unity, and well-being to all of humanity.
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
