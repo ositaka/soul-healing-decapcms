@@ -63,6 +63,33 @@ section:
 
 
       Our vision and mission underscore the universal and all-encompassing nature of The Golden Healing, with the goal of spearheading a global movement that brings healing, unity, and well-being to all of humanity.
+
+
+      \-------------------------------------
+
+
+      The Golden Healing is proud to be a beacon of healing, compassion, and unity, touching hearts and souls worldwide.
+
+
+      We envision a world where the transformative power of golden light brings solace, rejuvenation, and unity to individuals and communities, fostering a harmonious and enlightened global society.
+
+
+      Our mission is to share and amplify the golden light within each individual, extending it to every corner of the world.
+
+
+      We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support, enabling individuals to connect with their inner light.
+
+
+      We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence.
+
+
+      Join us in	is Global movement toward a brighter, more harmonious future.
+
+
+      With Love
+
+
+      Tiago & Karen
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
