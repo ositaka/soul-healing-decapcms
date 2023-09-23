@@ -10,37 +10,25 @@ section:
       name: Welcome
     title: The Golden Healing
     text: >-
-      Unlock your spiritual and emotional healing with the transformative power
-      of The Golden Healing. Tiago and Karen combine ancient techniques with
-      modern practices to create a safe and nurturing space for you to connect
-      with your soul and heal from within.
+      Welcome to The Golden Healing!
 
 
-      Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
+      Unlock Your Inner Healing:
 
 
-      Schedule your session today and discover the power of The Golden Healing.
+      Discover profound spiritual and emotional healing through a unique blend of ancient wisdom and modern practices.
 
 
-      \------
+      Our dedicated team, led by Tiago and Karen, provides a safe and nurturing space for you to connect with your soul and embark on a transformative journey from within.
 
 
-      Within the heart of the cosmos, an eternal fire burns—the Central Sun. It radiates an essence of pure Golden Light energy that transcends time and space, carrying with it the wisdom of the Universe. We create a safe and nurturing space where we tap into this cosmic reservoir to infuse you with transformative light, rekindling your inner radiance and realigning you.
+      Are You Seeking Clarity and Joy? Feeling stuck, overwhelmed, or disconnected?
 
 
-      \---
+      Our Soul Healing sessions are tailored to your individual needs.
 
 
-      The Golden Healing is a type of trance healing that focuses on healing the soul or spirit. It involves connecting with the deeper parts of the self and working to release any blockages or negative energy that may be holding you back.
-
-
-      During an healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
-
-
-      The Golden Haling can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
-
-
-      Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
+      Whether you prefer one-on-one sessions or the support of a small group, we are here physical health, enhance emotional well- being, increase spiritual awareness, and improve relationships.
   - type: text_only
     section_type: text_only
     main_menu:
@@ -50,16 +38,13 @@ section:
     text: >-
       At The Golden Healing, our vision is to serve as an illuminating source of
       healing, compassion, and unity, touching the hearts and souls of people
-      worldwide.
+      worldwide. We envision a world where the transformative power of golden
+      light radiates brilliantly, offering solace, rejuvenation, and unity to
+      individuals and communities, thereby nurturing a more harmonious and
+      enlightened global society.
 
 
-      We envision a world where the transformative power of golden light radiates brilliantly, offering solace, rejuvenation, and unity to individuals and communities, thereby nurturing a more harmonious and enlightened global society.
-
-
-      Our mission is to propagate and amplify the golden light innate within every individual, extending its radiance to the farthest reaches of the world.
-
-
-      We are dedicated to fostering healing, well-being, and unity by providing accessible resources, practices, and support that aid individuals in connecting with their inner light. We aspire to unite humanity through shared experiences of healing, compassion, and the recognition of our shared essence.
+      Our mission is to propagate and amplify the golden light innate within every individual, extending its radiance to the farthest reaches of the world. We are dedicated to fostering healing, well-being, and unity by providing accessible resources, practices, and support that aid individuals in connecting with their inner light. We aspire to unite humanity through shared experiences of healing, compassion, and the recognition of our shared essence.
 
 
       Our vision and mission underscore the universal and all-encompassing nature of The Golden Healing, with the goal of spearheading a global movement that brings healing, unity, and well-being to all of humanity.
@@ -68,19 +53,10 @@ section:
       \-------------------------------------
 
 
-      The Golden Healing is proud to be a beacon of healing, compassion, and unity, touching hearts and souls worldwide.
+      The Golden Healing is proud to be a beacon of healing, compassion, and unity, touching hearts and souls worldwide. We envision a world where the transformative power of golden light brings solace, rejuvenation, and unity to individuals and communities, fostering a harmonious and enlightened global society.
 
 
-      We envision a world where the transformative power of golden light brings solace, rejuvenation, and unity to individuals and communities, fostering a harmonious and enlightened global society.
-
-
-      Our mission is to share and amplify the golden light within each individual, extending it to every corner of the world.
-
-
-      We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support, enabling individuals to connect with their inner light.
-
-
-      We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence.
+      Our mission is to share and amplify the golden light within each individual, extending it to every corner of the world. We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support, enabling individuals to connect with their inner light. We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence.
 
 
       Join us in	is Global movement toward a brighter, more harmonious future.
