@@ -8,25 +8,26 @@ section:
     main_menu:
       show: false
       name: Welcome to The Golden Healing
-    title: Welcome to The Golden Healing
+    title: Welcome to The Golden Healing!
     text: >-
-      A sacred sanctuary where the radiant essence of Golden Light and the
-      transformative power of Energy Healing converge to embrace you with open
-      arms. Our mission is to illuminate your path with the warmth of Love, the
-      brilliance of Wisdom, and the purity of Clarity, guiding you toward a life
-      filled with boundless Joy.
+      A radiant source of golden light where you'll discover the transformative
+      power of energy healing. Here, we embrace you with open hearts and open
+      minds, sharing the boundless gifts of love, wisdom, and clarity.
 
 
-      At Golden Healing, we believe that true Healing stems from within, ignited by the gentle touch of divine Light that brings forth Harmony in every facet of your being. We invite you to explore the depths of self-discovery and Embodiment, to rise in Ascension to a Higher Vibration, and to awaken the dormant energies, such as Kundalini, that reside within you.
+      Our mission is to illuminate your unique journey with the radiant warmth of joy, guiding you toward profound healing and inner light. Within these pages, you'll find the resonance of harmony and the essence of embodiment as you ascend to a higher vibration.
 
 
-      As you journey through these sacred digital halls, may you unlock the radiant wisdom of Christ Consciousness, bask in the luminance of Enlightenment, and feel the loving presence of your personal Spirit Team and wise Ancestors who walk with you.
+      As you explore the depths of your spirit, the serpentine energy of kundalini awakens, leading you toward the luminous realm of Christ Consciousness and the path of enlightenment. You are not alone; your spirit team and wise ancestors walk beside you.
 
 
-      We invite you to open your heart to the boundless love of the Cosmic Heart, to bask in the radiant warmth of the Cosmic Sun, and to embark on a transformational journey where your spirit soars, and your soul dances to the harmonious rhythm of the universe.
+      In this sacred space, the rhythmic beat of the Cosmic Heart harmonizes with the radiant warmth of the Cosmic Sun, all guided by Divine Intelligence. Here, we celebrate the profound art of holistic healing, where the 12 Chakras align and super consciousness expands your horizons into the boundless realms of the infinite.
 
 
-      Welcome to a space where the golden healing light of your soul meets the cosmic heart of the universe.
+      May your journey be filled with boundless inspiration, as you explore the realms of spirit art and experience the healing with Colors. Welcome to a place where you'll discover the secret of zero limits, where your potential knows no boundaries.
+
+
+      Within The Golden Healing community, we honor the unique path of every soul, embracing the healing power of the golden light within. Welcome to a place where your journey of healing and awakening begins anew with each visit.
   - type: text_only
     section_type: text_only
     main_menu:
