@@ -13,7 +13,7 @@ section:
       Welcome to The Golden Healing!
 
 
-      Asacred sanctuary where the radiant essence of Golden Light and the transformative power of Energy Healing converge to embrace you with open arms. Our mission is to illuminate your path with the warmth of Love, the brilliance of Wisdom, and the purity of Clarity, guiding you toward a life filled with boundless Joy.
+      A sacred sanctuary where the radiant essence of Golden Light and the transformative power of Energy Healing converge to embrace you with open arms. Our mission is to illuminate your path with the warmth of Love, the brilliance of Wisdom, and the purity of Clarity, guiding you toward a life filled with boundless Joy.
 
 
       At Golden Healing, we believe that true Healing stems from within, ignited by the gentle touch of divine Light that brings forth Harmony in every facet of your being. We invite you to explore the depths of self-discovery and Embodiment, to rise in Ascension to a Higher Vibration, and to awaken the dormant energies, such as Kundalini, that reside within you.
