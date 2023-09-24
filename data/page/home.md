@@ -52,6 +52,15 @@ section:
 
 
       Tiago & Karen
+
+
+      ———-
+
+
+      At The Golden Healing, our vision is to foster a world where the radiant essence of Golden Light illuminates the collective consciousness of Humanity. We see a planet where the journey of Healing extends like a warm embrace, touching hearts, minds, and souls across the World. Our dream is a globe in which the brilliance of Cosmic Sun shines upon the spirit of every individual, guiding them on a path of Ascending towards inner Enlightenment. We envision a harmonious existence where the inner Radiance of each being contributes to the greater well-being of Worldwide communities.
+
+
+      Our mission at The Golden Healing is to facilitate the profound journey of self-discovery and healing on both personal and planetary levels. We aspire to be a beacon of wisdom and light, guiding humanity towards its innate radiance. Through holistic practices, spiritual guidance, and a global community, we aim to ignite the transformative power of golden light within every individual. Our commitment is to spread this healing light worldwide, fostering an environment where ascending towards enlightenment is a shared and harmonious experience. By nurturing the radiance within, we collectively contribute to the healing and evolution of our precious World.
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
