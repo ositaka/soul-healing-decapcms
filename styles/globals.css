@@ -154,6 +154,11 @@ p {
   grid-template-areas: 'image content';
 }
 
+.section--text_image:nth-of-type(3n) img {
+  -webkit-mask-position: right;
+  mask-position: right;
+}
+
 .section__content {
   padding: 10vw;
   grid-area: content;
@@ -186,8 +191,23 @@ p {
   margin-top: 2vw;
 }
 
+.section img {
+  width: 100%;
+  height: 100%;
+
+  -webkit-mask-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5OC4wMiA5Mi4zMyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAwcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0ibTgyLjMxLDEyLjEyYzguMSw2LjQ4LDEzLjcsMTYuMzIsMTUuMTksMjYuNjUsMS42MiwxMC4zNC0uNjIsMjEuMy02LjEsMjkuODlzLTE0LjIsMTQuOTUtMjQuMDQsMTkuMDVjLTkuODQsNC4yMy0yMS4wNSw2LjEtMzEuMjYsMy4yNC0xMC4wOS0yLjg2LTE5LjE4LTEwLjQ2LTI1LjktMjAuM0MzLjQ4LDYwLjgxLS43Niw0OC43My4xMSwzNi40Ljk5LDI0LjIsNi45NiwxMS43NCwxNi41NSw1LjUyLDI2LjI3LS43MSwzOS41OS0uNzEsNTEuNTUuOTFjMTIuMDgsMS42MiwyMi42Nyw0LjczLDMwLjc2LDExLjIxWiIvPgo8L3N2Zz4=');
+  -webkit-mask-size: cover;
+  -webkit-mask-repeat: no-repeat;
+  mask-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5OC4wMiA5Mi4zMyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAwcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0ibTgyLjMxLDEyLjEyYzguMSw2LjQ4LDEzLjcsMTYuMzIsMTUuMTksMjYuNjUsMS42MiwxMC4zNC0uNjIsMjEuMy02LjEsMjkuODlzLTE0LjIsMTQuOTUtMjQuMDQsMTkuMDVjLTkuODQsNC4yMy0yMS4wNSw2LjEtMzEuMjYsMy4yNC0xMC4wOS0yLjg2LTE5LjE4LTEwLjQ2LTI1LjktMjAuM0MzLjQ4LDYwLjgxLS43Niw0OC43My4xMSwzNi40Ljk5LDI0LjIsNi45NiwxMS43NCwxNi41NSw1LjUyLDI2LjI3LS43MSwzOS41OS0uNzEsNTEuNTUuOTFjMTIuMDgsMS42MiwyMi42Nyw0LjczLDMwLjc2LDExLjIxWiIvPgo8L3N2Zz4=');
+  mask-size: cover;
+  mask-repeat: no-repeat;
+}
+
 .section__item img {
   height: 100%;
+  width: 100%;
+  -webkit-mask-size: 100%;
+  mask-size: 100%;
 }
 
 @media screen and (max-width: 980px) {
@@ -200,6 +220,11 @@ p {
     min-height: unset;
     padding-top: 10vh;
     padding-bottom: 10vh;
+  }
+
+  .section__content img {
+    -webkit-mask-size: contain;
+    mask-size: contain;
   }
 
   .section__item {
