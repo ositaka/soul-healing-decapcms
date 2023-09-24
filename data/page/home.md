@@ -13,22 +13,19 @@ section:
       Welcome to The Golden Healing!
 
 
-      Unlock Your Inner Healing:
+      Asacred sanctuary where the radiant essence of Golden Light and the transformative power of Energy Healing converge to embrace you with open arms. Our mission is to illuminate your path with the warmth of Love, the brilliance of Wisdom, and the purity of Clarity, guiding you toward a life filled with boundless Joy.
 
 
-      Discover profound healing through a unique blend of ancient wisdom and modern practices.
+      At Golden Healing, we believe that true Healing stems from within, ignited by the gentle touch of divine Light that brings forth Harmony in every facet of your being. We invite you to explore the depths of self-discovery and Embodiment, to rise in Ascension to a Higher Vibration, and to awaken the dormant energies, such as Kundalini, that reside within you.
 
 
-      Our dedicated team, led by Tiago and Karen, provides a safe and nurturing space for you to connect with your soul and embark on a transformative journey from within.
+      As you journey through these sacred digital halls, may you unlock the radiant wisdom of Christ Consciousness, bask in the luminance of Enlightenment, and feel the loving presence of your personal Spirit Team and wise Ancestors who walk with you.
 
 
-      Are you seeking love, light and wisdom?
+      We invite you to open your heart to the boundless love of the Cosmic Heart, to bask in the radiant warmth of the Cosmic Sun, and to embark on a transformational journey where your spirit soars, and your soul dances to the harmonious rhythm of the universe.
 
 
-      Our Golden Healing sessions are tailored to your individual needs.
-
-
-      Whether you prefer one-on-one sessions or the support of a group, online or on a distance, we are here to promote physical health, enhance emotional well-being, increase spiritual awareness, and improve relationships.
+      Welcome to a space where the golden healing light of your soul meets the cosmic heart of the universe.
   - type: text_only
     section_type: text_only
     main_menu:
