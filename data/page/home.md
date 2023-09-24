@@ -7,53 +7,66 @@ section:
     section_type: text_only
     main_menu:
       show: false
-      name: Welcome
-    title: The Golden Healing
+      name: Welcome to The Golden Healing
+    title: Welcome to The Golden Healing!
     text: >-
-      Unlock your spiritual and emotional healing with the transformative power
-      of The Golden Healing. Tiago and Karen combine ancient techniques with
-      modern practices to create a safe and nurturing space for you to connect
-      with your soul and heal from within.
+      A radiant source of golden light where you'll discover the transformative
+      power of energy healing. Here, we embrace you with open hearts and open
+      minds, sharing the boundless gifts of love, wisdom, and clarity.
 
 
-      Are you feeling stuck, overwhelmed, or disconnected? Do you want to experience deep inner peace, clarity, and joy? Then, Soul Healing is for you. Whether you're looking for one-on-one sessions or small group sessions, he is here to support you on your journey to wholeness.
+      Our mission is to illuminate your unique journey with the radiant warmth of joy, guiding you toward profound healing and inner light. Within these pages, you'll find the resonance of harmony and the essence of embodiment as you ascend to a higher vibration.
 
 
-      Schedule your session today and discover the power of The Golden Healing.
+      As you explore the depths of your spirit, the serpentine energy of kundalini awakens, leading you toward the luminous realm of Christ Consciousness and the path of enlightenment. You are not alone; your spirit team and wise ancestors walk beside you.
 
 
-      \------
+      In this sacred space, the rhythmic beat of the Cosmic Heart harmonizes with the radiant warmth of the Cosmic Sun, all guided by Divine Intelligence. Here, we celebrate the profound art of holistic healing, where the 12 Chakras align and super consciousness expands your horizons into the boundless realms of the infinite.
 
 
-      Within the heart of the cosmos, an eternal fire burns—the Central Sun. It radiates an essence of pure Golden Light energy that transcends time and space, carrying with it the wisdom of the Universe. We create a safe and nurturing space where we tap into this cosmic reservoir to infuse you with transformative light, rekindling your inner radiance and realigning you.
+      May your journey be filled with boundless inspiration, as you explore the realms of spirit art and experience the healing with Colors. Welcome to a place where you'll discover the secret of zero limits, where your potential knows no boundaries.
 
 
-      \---
-
-
-      The Golden Healing is a type of trance healing that focuses on healing the soul or spirit. It involves connecting with the deeper parts of the self and working to release any blockages or negative energy that may be holding you back.
-
-
-      During an healing session, the facilitator will work with you to help you connect with your higher self and gain a deeper understanding of your spiritual journey. Through guided meditation and visualization, you will be able to explore your inner landscape and work towards releasing any negative emotions or beliefs that may be weighing you down.
-
-
-      The Golden Haling can be a powerful tool for individuals who are looking to deepen their spiritual practice or gain a greater understanding of their purpose in life. It can help you to connect with your true self and live a more authentic and fulfilling life.
-
-
-      Whether you are struggling with emotional pain, feeling disconnected from your spirituality, or simply looking for a way to deepen your understanding of yourself and the world around you, soul healing can help. It is a safe and supportive space where you can explore your inner world and work towards healing and transformation.
+      Within The Golden Healing community, we honor the unique path of every soul, embracing the healing power of the golden light within. Welcome to a place where your journey of healing and awakening begins anew with each visit.
   - type: text_only
     section_type: text_only
     main_menu:
       show: true
       name: Vision and Mission
     title: Vision and Mission
-    text: V S
+    text: >-
+      The Golden Healing is proud to be a beacon of healing, compassion, and
+      unity, touching hearts and souls worldwide. We envision a world where the
+      transformative power of golden light brings solace, rejuvenation, and
+      unity to individuals and communities, fostering a harmonious and
+      enlightened global society.
+
+
+      Our mission is to share and amplify the golden light within each individual, extending it to every corner of the world. We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support, enabling individuals to connect with their inner light. We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence.
+
+
+      Join us in is Global movement toward a brighter, more harmonious future.
+
+
+      With Love
+
+
+      Tiago & Karen
+
+
+      ———-
+
+
+      At The Golden Healing, our vision is to foster a world where the radiant essence of Golden Light illuminates the collective consciousness of Humanity. We see a planet where the journey of Healing extends like a warm embrace, touching hearts, minds, and souls across the World. Our dream is a globe in which the brilliance of Cosmic Sun shines upon the spirit of every individual, guiding them on a path of Ascending towards inner Enlightenment. We envision a harmonious existence where the inner Radiance of each being contributes to the greater well-being of Worldwide communities.
+
+
+      Our mission at The Golden Healing is to facilitate the profound journey of self-discovery and healing on both personal and planetary levels. We aspire to be a beacon of wisdom and light, guiding humanity towards its innate radiance. Through holistic practices, spiritual guidance, and a global community, we aim to ignite the transformative power of golden light within every individual. Our commitment is to spread this healing light worldwide, fostering an environment where ascending towards enlightenment is a shared and harmonious experience. By nurturing the radiance within, we collectively contribute to the healing and evolution of our precious World.
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Healing Sessions
-    title: Healing Sessions
+      name: Golden Light
+    title: "Golden Healing "
     items:
       - title: One-on-One
         text: Our one-on-one sessions are personalized to your unique needs and goals.
@@ -135,6 +148,7 @@ section:
       show: true
       name: Contact
     title: Connect
-    text: Contact Tiago today to learn more about our services or to schedule an
-      Healing session. We are here to support you on your journey to wholeness.
+    text: Contact with Tiago today to learn more about our services or to schedule
+      an healing session. We are here to support you on your journey to
+      wholeness.
 ---
