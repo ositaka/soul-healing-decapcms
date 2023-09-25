@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/photo_2023-09-25-15.56.48.jpeg
+image: /images/magic-ball-sun.jpg
 section:
   - type: text_only
     section_type: text_only
