@@ -61,8 +61,9 @@ export default function Header({ }) {
                     </li>
                   )
                 })}
-              <li><Link href="/bookings" className=''>Bookings</Link></li>
-              {/* <li><Link href="/news" className=''>News</Link></li> */}
+              <li><Link href="/news" className=''>News</Link></li>
+              <li><Link href="/appointments" className='button' style={{ padding: "1.3ch 1.9ch", border: '1px solid #666', borderRadius: "40px", maxWidth: '80%', margin: 'auto' }}>Appointments
+              </Link></li>
               {/* <li><Link href="/contact" className=''>Contact</Link></li> */}
             </ul>
           </nav>

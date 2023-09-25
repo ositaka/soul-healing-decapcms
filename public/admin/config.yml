@@ -188,9 +188,9 @@ collections:
                           widget: 'string',
                         }
 
-      - file: 'data/page/bookings.md'
-        label: 'Bookings'
-        name: 'bookings'
+      - file: 'data/page/appointments.md'
+        label: 'Appointments'
+        name: 'appointments'
         editor:
           preview: false
         fields:
