@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/magic-ball-sun.jpg
+image: /images/design-sem-nome.jpg
 section:
   - type: text_only
     section_type: text_only
