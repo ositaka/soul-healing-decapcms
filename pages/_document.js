@@ -9,9 +9,9 @@ class MyDocument extends Document {
 
     render() {
         return (
-            <Html>
+            <Html lang='en'>
                 <Head>
-                <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+                    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
                 </Head>
                 <body>
                     <Main />

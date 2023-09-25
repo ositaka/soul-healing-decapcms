@@ -46,24 +46,23 @@ export default function Home({ home }) {
                 <div className='section__content'>
                   <h2>{section.title}</h2>
 
-                  {section.items && section.items.map((item, index) => {
-                    return (
-                      <div key={index} className='section__item'>
-                        <figure>
-                          <Image width={280} height={186} src={item.image} alt="..." sizes="100vw" />
-                        </figure>
+                  <div className='section__items'>
+                    {section.items && section.items.map((item, index) => {
+                      return (
+                        <div key={index} className='section__item'>
+                          <figure>
+                            <Image width={280} height={186} src={item.image} alt="..." sizes="100vw" />
+                          </figure>
 
-                        <div className="section__item-content">
-                          <h3>{item.title}</h3>
-                          <p>{item.text}</p>
-                          <a href="javascript:alert('Page will be available soon.')">Read more &rarr;</a>
+                          <div className="section__item-content">
+                            <h3>{item.title}</h3>
+                            <p>{item.text}</p>
+                            <a href="javascript:alert('Page will be available soon.')">Read more &rarr;</a>
+                          </div>
                         </div>
-
-                      </div>
-
-                    )
-                  })}
-
+                      )
+                    })}
+                  </div>
                 </div>
               </section>
               :
