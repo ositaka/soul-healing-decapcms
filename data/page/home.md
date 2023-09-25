@@ -7,7 +7,7 @@ section:
     section_type: text_only
     main_menu:
       show: false
-      name: Welcome to The Golden Healing
+      name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
       A radiant source of golden light where you'll discover the transformative
@@ -63,7 +63,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: "Golden Healing "
+      name: "Golden Healing"
     title: Golden Hour
     items:
       - title: One-on-One

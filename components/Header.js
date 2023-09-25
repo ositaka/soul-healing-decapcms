@@ -62,7 +62,7 @@ export default function Header({ }) {
                   )
                 })}
               <li><Link href="/bookings" className=''>Bookings</Link></li>
-              <li><Link href="/news" className=''>News</Link></li>
+              {/* <li><Link href="/news" className=''>News</Link></li> */}
               {/* <li><Link href="/contact" className=''>Contact</Link></li> */}
             </ul>
           </nav>

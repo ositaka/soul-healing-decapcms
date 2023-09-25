@@ -30,14 +30,12 @@ export default function Bookings({ bookings }) {
 
       <Layout>
         <section className="section section--text_only">
-          <div className="section__content">
+          <div className="section__content" style={{ width: '100%', textAlign: 'center' }}>
             <h1>{bookings.title}</h1>
             <p>{bookings.description}</p>
-          </div>
-        </section>
-        <section className="section section--text_only">
-          <div className="section__content">
-
+            <div style={{ minHeight: '60vh' }}>
+              <script src="https://embed.ycb.me" async data-domain="thegoldenhealing"></script>
+            </div>
           </div>
         </section>
       </Layout>
