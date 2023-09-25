@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/design-sem-nome.jpg
+image: /images/photo_2023-09-25-15.56.48.jpeg
 section:
   - type: text_only
     section_type: text_only
