@@ -27,19 +27,14 @@ section:
       May your journey be filled with boundless inspiration, as you explore the realms of spirit art and experience the healing with Colors. Welcome to a place where you'll discover the secret of zero limits, where your potential knows no boundaries.
 
 
-      Within The Golden Healing community, we honor the unique path of every soul, embracing the healing power of the golden light within. Welcome to a place where your journey of healing and awakening begins anew with each visit.
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: true
-      name: Vision and Mission
-    title: Vision and Mission
-    text: >-
-      The Golden Healing is proud to be a beacon of healing, compassion, and
-      unity, touching hearts and souls worldwide. We envision a world where the
-      transformative power of golden light brings solace, rejuvenation, and
-      unity to individuals and communities, fostering a harmonious and
-      enlightened global society.
+      Within The Golden Healing community, we honor the unique path of every soul, embracing the healing power of the golden light within. Welcome to a place where your journey of healing and awakening begins anew with each visit.\
+
+      \
+
+      Read More:
+
+
+      The Golden Healing is proud to be a beacon of healing, compassion, and unity, touching hearts and souls worldwide. We envision a world where the transformative power of golden light brings solace, rejuvenation, and unity to individuals and communities, fostering a harmonious and enlightened global society.
 
 
       Our mission is to share and amplify the golden light within each individual, extending it to every corner of the world. We are committed to promoting healing, well-being, and unity by providing accessible resources, practices, and support, enabling individuals to connect with their inner light. We aspire to unite humanity through the shared experience of healing, compassion, and recognition of our common essence.
@@ -55,6 +50,9 @@ section:
 
 
       ———-
+
+
+      Vision Mission
 
 
       At The Golden Healing, our vision is to foster a world where the radiant essence of Golden Light illuminates the collective consciousness of Humanity. We see a planet where the journey of Healing extends like a warm embrace, touching hearts, minds, and souls across the World. Our dream is a globe in which the brilliance of Cosmic Sun shines upon the spirit of every individual, guiding them on a path of Ascending towards inner Enlightenment. We envision a harmonious existence where the inner Radiance of each being contributes to the greater well-being of Worldwide communities.
