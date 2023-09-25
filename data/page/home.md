@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/design-sem-nome.jpg
+image: /images/magic-ball-sun.jpg
 section:
   - type: text_only
     section_type: text_only
@@ -65,7 +65,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Light
+      name: "Golden Hour "
     title: "Golden Healing "
     items:
       - title: One-on-One
@@ -74,7 +74,7 @@ section:
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Groups
+      - title: Groups/Circles
         text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
           and nurturing environment for healing and growth. He limit the size of
