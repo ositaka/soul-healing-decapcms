@@ -63,8 +63,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: "Golden Hour "
-    title: "Golden Healing "
+      name: "Golden Healing "
+    title: Golden Hour
     items:
       - title: One-on-One
         text: Our one-on-one sessions are personalized to your unique needs and goals.
