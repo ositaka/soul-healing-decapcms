@@ -35,6 +35,11 @@ export default function Bookings({ bookings }) {
             <p>{bookings.description}</p>
           </div>
         </section>
+        <section className="section section--text_only">
+          <div className="section__content">
+
+          </div>
+        </section>
       </Layout>
     </>
   )
