@@ -22,15 +22,15 @@ export default function Home({ home }) {
           url: 'http://soul-healing.netlify.app',
           title: 'Welcome to my blog home page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO support',
-          images: [
-            {
-              url: `${ImageUrl('banner.png')}`,
-              width: 1224,
-              height: 724,
-              alt: 'banner',
-              type: 'image/jpeg',
-            },
-          ],
+          // images: [
+          //   {
+          //     url: `${ImageUrl('banner.png')}`,
+          //     width: 1224,
+          //     height: 724,
+          //     alt: 'banner',
+          //     type: 'image/jpeg',
+          //   },
+          // ],
           site_name: 'Soul Healing',
         }}
       />

@@ -22,14 +22,14 @@ export default function NewsPage({ news }) {
         title={news.title}
         description={news.description}
         openGraph={{
-          url: 'https://soul-healing.netlify.app',
+          url: 'https://soul-healing-new.netlify.app',
           title: news.title,
           description: news.description,
           type: 'article',
           article: {
             publishedTime: news.date,
             directors: [
-              'https://soul-healing.netlify.app/',
+              'https://soul-healing-new.netlify.app/',
             ],
             tags: news.tags,
           },

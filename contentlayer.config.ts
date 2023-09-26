@@ -89,6 +89,39 @@ const Page = defineDocumentType(() => ({
   },
 }))
 
+const SubPage = defineDocumentType(() => ({
+  name: 'SubPage',
+  filePathPattern: `page/subpage/*.md`,
+  contentType: 'markdown',
+  fields: {
+    title: {
+      type: 'string',
+      required: false,
+    },
+    slug: {
+      type: 'string',
+    },
+    date: {
+      type: 'date',
+      required: false,
+    },
+    description: {
+      type: 'string',
+      required: false,
+    },
+    image: {
+      type: 'string',
+      required: false,
+    },
+  },
+  computedFields: {
+    slug: {
+      type: 'string',
+      resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ''),
+    },
+  },
+}))
+
 const News = defineDocumentType(() => ({
   name: 'News',
   filePathPattern: `news/*.md`,
@@ -120,5 +153,5 @@ const News = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirPath: 'data',
-  documentTypes: [Page, News],
+  documentTypes: [Page, SubPage, News],
 })
