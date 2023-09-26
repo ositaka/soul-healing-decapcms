@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/magic-ball-sun.jpg
+image: /images/design-sem-nome.jpg
 section:
   - type: text_only
     section_type: text_only
@@ -63,7 +63,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: "Golden Healing"
+      name: Golden Healing
     title: Golden Hour
     items:
       - title: One-on-One
@@ -103,7 +103,7 @@ section:
 
 
       **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
-    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
+    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
     main_menu:
@@ -139,7 +139,7 @@ section:
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/roos_no_prompt_d407e09d-c48b-42be-ac79-2dc3c8a7b25d.png
+    image: /images/saharasunset-2.jpg
   - type: text_only
     section_type: text_only
     main_menu:
