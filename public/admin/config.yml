@@ -171,6 +171,14 @@ collections:
                           required: true,
                           choose_url: false,
                         }
+                      - {
+                          label: Link to Page,
+                          name: link,
+                          widget: relation,
+                          collection: subpage,
+                          searchFields: [subpage, title],
+                          valueField: slug,
+                        }
                   - label: 'Main Menu'
                     name: 'main_menu'
                     widget: 'object'

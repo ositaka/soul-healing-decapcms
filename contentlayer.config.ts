@@ -40,6 +40,10 @@ const SECTION = defineNestedType(() => ({
       type: 'string',
       required: false,
     },
+    link: {
+      type: 'string',
+      required: false,
+    },
     items: {
       type: 'list',
       of: { type: 'string' },

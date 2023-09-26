@@ -57,7 +57,7 @@ export default function Home({ home }) {
                           <div className="section__item-content">
                             <h3>{item.title}</h3>
                             <p>{item.text}</p>
-                            <a href="javascript:alert('Page will be available soon.')">Read more &rarr;</a>
+                            <a href={`/${item.link}`}>Read more &rarr;</a>
                           </div>
                         </div>
                       )
