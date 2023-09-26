@@ -16,7 +16,10 @@ class MyDocument extends Document {
                 <body>
                     <Main />
                     <NextScript />
+
                 </body>
+                {/* Polyfill for CSS scroll-timeline */}
+                <script src="/scroll-timeline-polyfill.js" defer></script>
             </Html>
         )
     }
