@@ -50,31 +50,6 @@ section:
           support they need. Has a minimum of 4 persons.
         link: groups-circles
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Benefits
-    title: Benefits
-    text: >-
-      Trance healing can provide a variety of benefits for both the mind and
-      body. Some of the potential benefits of trance healing include:
-
-
-      **Reduced stress and anxiety**: Trance healing can help to calm the mind and reduce feelings of stress and anxiety. This can lead to a greater sense of relaxation and inner peace.
-
-
-      **Improved physical health**: Trance healing may help to improve physical health by reducing pain and inflammation in the body. It may also help to boost the immune system and improve overall energy levels.
-
-
-      **Enhanced emotional well-being**: Trance healing can help to release emotional blockages and promote a greater sense of emotional well-being. It can help individuals to feel more connected to their emotions and develop a deeper understanding of themselves.
-
-
-      **Increased spiritual awareness**: Trance healing can help individuals to connect with their spirituality and gain a deeper understanding of their place in the universe. It can promote feelings of interconnectedness and oneness with all beings.
-
-
-      **Improved relationships**: Trance healing can help individuals to develop a greater sense of empathy and understanding towards others, leading to improved relationships and communication.
-    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
     main_menu:
