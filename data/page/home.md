@@ -23,7 +23,7 @@ section:
       As you delve deeper into the healing embrace of the golden light, you'll find yourself feeling supremely relaxed, heart-centered, and in perfect alignment with your soul purpose. This harmonious resonance will begin to enhance your intuitive abilities and grant you heightened awareness of the world around you.
 
 
-      With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. Infusing your life with its radiant, transformative power. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with love, happiness, and Divine joy.\
+      With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with love, happiness, and Divine joy.\
 
       \
 
