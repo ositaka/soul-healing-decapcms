@@ -10,24 +10,20 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      A radiant source of golden light where you'll discover the transformative
-      power of energy healing. Here, we embrace you with open hearts and open
-      minds, sharing the boundless gifts of love, wisdom, and clarity.
+      Embark on a transformative journey into the heart of The Golden Healing,
+      where you'll unlock the ancient wisdom concealed within the secret of the
+      golden flower. As you step onto this path illuminated by the radiant
+      golden light, you'll connect with the infinite, guiding force of Divine
+      Intelligence.
 
 
-      Our mission is to illuminate your unique journey with the radiant warmth of joy, guiding you toward profound healing and inner light. Within these pages, you'll find the resonance of harmony and the essence of embodiment as you ascend to a higher vibration.
+      This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
 
 
-      As you explore the depths of your spirit, the serpentine energy of kundalini awakens, leading you toward the luminous realm of Christ Consciousness and the path of enlightenment. You are not alone; your spirit team and wise ancestors walk beside you.
+      As you delve deeper into the healing embrace of the golden light, you'll find yourself feeling supremely relaxed, heart-centered, and in perfect alignment with your soul purpose. This harmonious resonance will begin to enhance your Intuitive abilities and grant you heightened awareness of the world around you.
 
 
-      In this sacred space, the rhythmic beat of the Cosmic Heart harmonizes with the radiant warmth of the Cosmic Sun, all guided by Divine Intelligence. Here, we celebrate the profound art of holistic healing, where the 12 Chakras align and super consciousness expands your horizons into the boundless realms of the infinite.
-
-
-      May your journey be filled with boundless inspiration, as you explore the realms of spirit art and experience the healing with Colors. Welcome to a place where you'll discover the secret of zero limits, where your potential knows no boundaries.
-
-
-      Within The Golden Healing community, we honor the unique path of every soul, embracing the healing power of the golden light within. Welcome to a place where your journey of healing and awakening begins anew with each visit.\
+      With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. This is The Golden Healing at work, infusing your life with its radiant, transformative power. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with Love, happiness, and Divine joy.\
 
       \
 
