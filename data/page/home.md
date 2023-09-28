@@ -20,7 +20,7 @@ section:
       This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
 
 
-      As you delve deeper into the healing embrace of the golden light, you'll find yourself feeling supremely relaxed, heart-centered, and in perfect alignment with your soul purpose. This harmonious resonance will begin to enhance your Intuitive abilities and grant you heightened awareness of the world around you.
+      As you delve deeper into the healing embrace of the golden light, you'll find yourself feeling supremely relaxed, heart-centered, and in perfect alignment with your soul purpose. This harmonious resonance will begin to enhance your intuitive abilities and grant you heightened awareness of the world around you.
 
 
       With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. This is The Golden Healing at work, infusing your life with its radiant, transformative power. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with Love, happiness, and Divine joy.\
