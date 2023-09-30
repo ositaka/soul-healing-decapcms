@@ -7,4 +7,4 @@ At The Golden Healing, our vision is to foster a world where the radiant essence
 
 Our mission at The Golden Healing is to facilitate the profound journey of self-discovery and healing on both personal and planetary levels. We aspire to be a beacon of wisdom and light, guiding humanity towards its innate radiance. Through holistic practices, spiritual guidance, and a global community, we aim to ignite the transformative power of golden light within every individual. Our commitment is to spread this healing light worldwide, fostering an environment where ascending towards enlightenment is a shared and harmonious experience. By nurturing the radiance within, we collectively contribute to the healing and evolution of our precious World.
 
-![Test]()
+![Test](/images/a48fbec8-ef18-4c71-86e2-68c988e33200.jpg)
