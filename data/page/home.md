@@ -98,7 +98,7 @@ section:
       and Divine light. 
 
 
-      At The Golden Healing, the philosophy is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
 
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
