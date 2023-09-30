@@ -79,6 +79,14 @@ section:
 
 
       — Suzanne Cerutti, Switzerland
+
+
+      \
+
+      The healing sessions I have received have been powerful. I felt super relaxed and held during each session, and they clearly opened up my system, opened up my heart and infused me with a lot of light. Tiago uses a technique that goes to the core of healing. So using himself as a vessel, he was able to bring me to my essence. It is subtle, but powerful. And Tiago is a wonderful facilitator!
+
+
+      \- Karen Maessen, the Netherlands
   - type: text_image
     section_type: text_image
     main_menu:
