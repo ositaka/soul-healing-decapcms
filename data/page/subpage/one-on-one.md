@@ -1,5 +1,5 @@
 ---
-title: "Individual "
+title: Individual
 date: 2023-09-26T21:01:18.500Z
 ---
 
