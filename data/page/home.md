@@ -37,7 +37,7 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Healing
+      name: Golden Hour
     title: Golden Hour
     items:
       - title: "Individual "
