@@ -1,5 +1,5 @@
 ---
-title: One-on-One
+title: "Individual "
 date: 2023-09-26T21:01:18.500Z
 ---
 
