@@ -38,16 +38,16 @@ section:
     main_menu:
       show: true
       name: Golden Healing
-    title: Golden Healing Time
+    title: Golden Hour
     items:
-      - title: One-on-One
+      - title: "Individual "
         text: Our one-on-one sessions are personalized to your unique needs and goals.
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
         link: one-on-one
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Groups/Circles
+      - title: Group
         text: His small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
           and nurturing environment for healing and growth. He limit the size of
