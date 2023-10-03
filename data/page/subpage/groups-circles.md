@@ -1,5 +1,5 @@
 ---
-title: Golden Circle
+title: "Group "
 date: 2023-09-26T21:09:58.866Z
 ---
 His small group sessions offer the opportunity to connect with others who share your experiences and goals. These sessions provide a supportive and nurturing environment for healing and growth. He limit the size of our groups to ensure that each individual receives the attention and support they need. Has a minimum of 4 persons.
