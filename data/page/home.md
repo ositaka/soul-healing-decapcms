@@ -25,11 +25,6 @@ section:
       With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with love, happiness, and Divine joy.
 
 
-      - - -
-
-
-      \
-
       \
 
       [Read More →](/vision-and-mission/)
