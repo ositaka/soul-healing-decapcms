@@ -36,7 +36,7 @@ section:
     title: Golden Hour
     items:
       - title: "Individual "
-        text: Our one-on-one sessions are personalized to your unique needs and goals.
+        text: Our individual sessions are personalised to your unique needs and goals.
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
