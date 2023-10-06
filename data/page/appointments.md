@@ -1,5 +1,6 @@
 ---
 slug: appointments
-title: 'Appointments'
-description: This is the appointments page. Is it possible to have a Form to book a session.
+title: "Golden Transmissions "
+description: This is the transmissions page. Is it possible to have a Form to
+  book a Golden Transmission.
 ---
