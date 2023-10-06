@@ -1,4 +1,4 @@
-import SITE_URL, { show_per_page }  from "../config";
+import SITE_URL, { show_per_page } from "./../config";
 
 
 //  array sortByDate
@@ -13,15 +13,15 @@ export function slugify(title) {
 
 // count the page number
 export function pageCount(number) {
-  
-  return Math.ceil(number/show_per_page);
-  
+
+  return Math.ceil(number / show_per_page);
+
 }
 
 // convert the image url
 export function ImageUrl(url) {
-  
+
   return SITE_URL + url
-  
+
 }
 

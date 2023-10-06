@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { slugify } from '../utils'
+import { slugify } from '../../utils'
 
 export default function ItemPost({ post }) {
 

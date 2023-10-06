@@ -1,8 +1,8 @@
-import Work from '../components/Work'
+import Work from '../../components/Work'
 import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
 import { allNews } from "/.contentlayer/generated";
-import { ImageUrl, slugify } from '../utils'
+import { ImageUrl, slugify } from '../../utils'
 import Link from 'next/link';
 
 

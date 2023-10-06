@@ -3,13 +3,16 @@ import { NextSeo } from 'next-seo';
 import Image from 'next/image';
 
 import { allSubPages } from "/.contentlayer/generated";
-import Layout from '../components/Layout';
+import Layout from '../../components/Layout';
 
 import ReactMarkdown from "react-markdown";
 import gfm from 'remark-gfm';
 
 export default function NewsPage({ page }) {
   const router = useRouter()
+  const { locale, locales, defaultLocale } = router
+
+  console.log(locales, 'locales from routerr -----------------------')
 
   // debugger
   const date = new Date(page.date)
@@ -59,7 +62,30 @@ export default function NewsPage({ page }) {
 
 
 
-export async function getStaticPaths() {
+// export async function getStaticPaths({ locales }) {
+export async function getStaticPaths({ locales }) {
+
+
+  // get all the post slug
+  // const publish = allPages.map((page) => ({ params: { slug: page.slug } }))
+
+
+  const testPage = allSubPages.filter(
+    (page, i) => {
+      return page.slug === page.slug
+    }
+  )
+  console.log(testPage, 'pathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspaths')
+
+  // const paths = testPage.flatMap((page) => {
+  //   return locales.map((locale) => ({
+  //     params: {
+  //       slug: page.slug,
+  //     },
+  //     locale,
+  //   }));
+  // });
+  // const paths = []
 
   //  filter the post and get the publish post.
   // const page = allSubPages.filter(
@@ -68,12 +94,26 @@ export async function getStaticPaths() {
   //   }
   // )
 
-  // get all the post slug
-  const publish = allSubPages.map((page) => ({ params: { slug: page.slug } }))
+  // for (const locale of locales) {
+  //   publish.push({ params: { slug: page.slug }, locale })
+  // }
 
+
+  const paths = allSubPages.flatMap((page) => {
+    return locales.map((locale) => ({
+      params: {
+        slug: page.slug,
+      },
+      locale,
+    }));
+  });
+  // get all the post slug
+  // const publish = allSubPages.map((page) => ({ params: { slug: page.slug } }))
+
+  console.log(paths, '========SSSSSLLLLLLUUUUUUGGGGGG=========== allSubPages new test')
 
   return {
-    paths: publish,
+    paths,
     fallback: false,
   }
 }

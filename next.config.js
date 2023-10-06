@@ -1,5 +1,5 @@
 
-const { withContentlayer } = require('next-contentlayer')
+// const { withContentlayer } = require('next-contentlayer')
 
 const nextconfig = {
   reactStrictMode: true,
@@ -16,12 +16,17 @@ const nextconfig = {
       },
     ],
   },
-  // i18n: {
-  //   locales: ['nl-be', 'en'],
-  //   defaultLocale: 'nl-be',
-  //   localeDetection: false,
-  // },
+  i18n: {
+    locales: ['en', 'pt'],
+    defaultLocale: 'en',
+    localeDetection: false,
+  },
 }
 
+const withNextIntl = require("next-intl/plugin")("./i18n.js");
 
-module.exports = withContentlayer(nextconfig)
+const { withContentlayer } = require("next-contentlayer");
+
+module.exports = withNextIntl(withContentlayer(nextconfig));
+
+// module.exports = withContentlayer(nextconfig)

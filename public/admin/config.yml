@@ -9,10 +9,10 @@ local_backend:
   url: http://localhost:8082/api/v1
   allowed_hosts: ['192.168.0.1']
 
-# i18n:
-#   structure: multiple_folders
-#   locales: [be, en]
-#   default_locale: be
+i18n:
+  structure: multiple_files
+  locales: [en, pt]
+  default_locale: en
 
 # publish_mode: editorial_workflow
 
@@ -25,10 +25,13 @@ public_folder: '/images' # The src attribute for uploaded media will begin with 
 collections:
   - name: 'page'
     label: 'Pages'
+    i18n:
+      structure: single_file
     files:
-      - file: 'data/page/home.md'
+      - file: 'data/page/home-test.md'
         label: 'Home'
         name: 'index'
+        i18n: true
         fields:
           - {
               label: 'Hero Image',
@@ -36,10 +39,12 @@ collections:
               widget: image,
               required: false,
               choose_url: false,
+              i18n: duplicate,
             }
           - label: 'Section'
             name: 'section'
             widget: 'list'
+            i18n: true
             types:
               - label: 'Text only'
                 name: 'text_only'
@@ -51,7 +56,12 @@ collections:
                       widget: 'hidden',
                       default: 'text_only',
                     }
-                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - {
+                      label: 'Title',
+                      name: 'title',
+                      widget: 'string',
+                      i18n: duplicate,
+                    }
                   - {
                       label: 'Text',
                       name: 'text',
@@ -176,8 +186,8 @@ collections:
                           name: link,
                           widget: relation,
                           collection: subpage,
-                          searchFields: [subpage, title],
-                          valueField: slug,
+                          value_field: '{{slug}}',
+                          search_fields: ['title'],
                         }
                   - label: 'Main Menu'
                     name: 'main_menu'

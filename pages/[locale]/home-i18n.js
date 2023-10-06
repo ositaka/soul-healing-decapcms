@@ -1,22 +1,17 @@
 import { NextSeo } from 'next-seo';
-import Layout from '../components/Layout';
-import { sortByDate, ImageUrl, pageCount } from '../utils'
+import Layout from '../../components/Layout';
+import { sortByDate, ImageUrl, pageCount } from '../../utils'
 import { allPages } from "/.contentlayer/generated"
 import { pick } from "@contentlayer/client";
-import Pagnation from '../components/Pagnation';
-import { show_per_page } from "../config"
+import Pagnation from '../../components/Pagnation';
+import { show_per_page } from "../../config"
 import Image from 'next/image';
 
 import ReactMarkdown from "react-markdown";
 import gfm from 'remark-gfm';
 import Link from 'next/link';
 
-import { useRouter } from 'next/router'
-import LocaleSwitcher from '../components/locale-switcher'
-
 export default function Home({ home }) {
-  const router = useRouter()
-  const { locale, locales, defaultLocale } = router
 
   return (
     <>
@@ -41,11 +36,12 @@ export default function Home({ home }) {
       />
 
       <Layout>
-        <LocaleSwitcher />
         <div className='hero-image'>
           <Image fill priority src={home.image} sizes="100vw" alt="..." />
         </div>
-        {home.section.map(section => {
+        {JSON.stringify(home)}
+
+        {home.section?.map(section => {
           return (
             section.section_type === "section_repeatable_content" ?
               <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
@@ -105,7 +101,7 @@ export default function Home({ home }) {
 export async function getStaticProps() {
 
   const home = await allPages.find((home) => {
-    return home.slug === "home"
+    return home.slug === "home-test"
   })
 
 

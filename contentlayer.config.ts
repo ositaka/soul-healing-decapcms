@@ -4,6 +4,11 @@ import {
   makeSource,
 } from 'contentlayer/source-files'
 
+const getLocale = (path) => {
+  const pathArray = path.split('.')
+  return pathArray.length > 2 ? pathArray.slice(-2)[0] : 'en'
+}
+
 const MAIN_MENU = defineNestedType(() => ({
   name: 'MAIN_MENU',
   fields: {
@@ -56,10 +61,10 @@ const Page = defineDocumentType(() => ({
   filePathPattern: `page/*.md`,
   contentType: 'markdown',
   fields: {
-    slug: {
-      type: 'string',
-      required: false,
-    },
+    // slug: {
+    //   type: 'string',
+    //   required: false,
+    // },
     title: {
       type: 'string',
       required: false,
@@ -90,6 +95,12 @@ const Page = defineDocumentType(() => ({
       type: 'string',
       resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ''),
     },
+    locale: {
+      type: 'string',
+      resolve: (doc) => {
+        return getLocale(doc._raw.sourceFilePath)
+      },
+    },
   },
 }))
 
@@ -102,9 +113,9 @@ const SubPage = defineDocumentType(() => ({
       type: 'string',
       required: false,
     },
-    slug: {
-      type: 'string',
-    },
+    // slug: {
+    //   type: 'string',
+    // },
     date: {
       type: 'date',
       required: false,
@@ -121,7 +132,13 @@ const SubPage = defineDocumentType(() => ({
   computedFields: {
     slug: {
       type: 'string',
-      resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ''),
+      resolve: (doc) => doc._raw.sourceFileName.replace(/\.pt\.md$/, '.md').replace(/\.md$/, ''),
+    },
+    locale: {
+      type: 'string',
+      resolve: (doc) => {
+        return getLocale(doc._raw.sourceFilePath)
+      },
     },
   },
 }))
@@ -151,6 +168,12 @@ const News = defineDocumentType(() => ({
     slug: {
       type: 'string',
       resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ''),
+    },
+    locale: {
+      type: 'string',
+      resolve: (doc) => {
+        return getLocale(doc._raw.sourceFilePath)
+      },
     },
   },
 }))

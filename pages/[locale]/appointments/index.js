@@ -1,7 +1,7 @@
 import { NextSeo } from 'next-seo';
-import { ImageUrl } from '../../utils'
+import { ImageUrl } from '../../../utils'
 import { allPages } from "/.contentlayer/generated";
-import Layout from '../../components/Layout';
+import Layout from '../../../components/Layout';
 
 
 export default function Appointments({ appointments }) {
