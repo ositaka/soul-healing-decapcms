@@ -32,8 +32,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Hour
-    title: Golden Hour
+      name: Golden Light
+    title: Golden Light
     items:
       - title: "Individual "
         text: Our individual sessions are personalised to your unique needs and goals.
