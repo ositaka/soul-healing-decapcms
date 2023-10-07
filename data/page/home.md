@@ -10,7 +10,7 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      Embark on a transformative journey into the heart of The Golden Healing,
+      Embark on a transformative journey into the heart of The Golden Light,
       where you'll unlock the ancient wisdom concealed within the secret of the
       golden flower. As you step onto this illuminated path, you'll connect with
       the infinite, guiding force of Divine Intelligence.
@@ -43,11 +43,11 @@ section:
         link: one-on-one
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
       - title: Group
-        text: His small group sessions offer the opportunity to connect with others who
+        text: Our small group sessions offer the opportunity to connect with others who
           share your experiences and goals. These sessions provide a supportive
-          and nurturing environment for healing and growth. He limit the size of
+          and nurturing environment for healing and growth. We limit the size of
           our groups to ensure that each individual receives the attention and
-          support they need. Has a minimum of 4 persons.
+          support they need.
         link: groups-circles
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: text_only
