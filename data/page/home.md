@@ -13,7 +13,7 @@ section:
       Embark on a transformative journey into the heart of The Golden Light,
       where you'll unlock the ancient wisdom concealed within the secret of the
       golden flower. As you step onto this illuminated path, you'll connect with
-      the infinite, guiding force of Divine Intelligence.
+      the infinite, guiding force of Divine Infinite.
 
 
       This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
