@@ -25,8 +25,6 @@ section:
       As you journey deeper into the Golden Light, you will find that it carries with it a sense of peace and serenity. It is a sanctuary for the soul, a place where you can find solace and healing. It is a reminder that amidst the chaos and noise of the world, there is always a tranquil haven.
 
 
-
-
       In the presence of the Golden Light, you will find that your mind becomes clear and your heart open. The Golden Light is a transmission of wisdom that eases your burdens and soothes your worries. It is a journey into the heart of the divine, a sacred pilgrimage that reminds you of your own inner light and the boundless potential that resides within you.
 
 
