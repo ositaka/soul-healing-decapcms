@@ -12,7 +12,7 @@ export default function Home({ home }) {
         title="Home page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://soul-healing.netlify.app',
           title: 'Home page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home',
           images: [
@@ -24,7 +24,7 @@ export default function Home({ home }) {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'The Golden Healing',
+          site_name: 'Soul Healing',
         }}
       />
 

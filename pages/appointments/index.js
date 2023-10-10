@@ -12,7 +12,7 @@ export default function Appointments({ appointments }) {
         title="Appointments page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO appointments"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://soul-healing.netlify.app',
           title: 'Appointments page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO appointments',
           images: [
@@ -24,7 +24,7 @@ export default function Appointments({ appointments }) {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'The Golden Healing',
+          site_name: 'Soul Healing',
         }}
       />
 

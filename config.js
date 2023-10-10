@@ -1,4 +1,4 @@
-const SITE_URL = 'https://the-golden-healing.com'
+const SITE_URL = 'https://soul-healing-new.netlify.app'
 // const SITE_URL= 'http://localhost:3000'
 // const SITE_URL= process.env.SITE_URL  // it not work
 

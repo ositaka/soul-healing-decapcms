@@ -11,7 +11,7 @@ const nextconfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'the-golden-healing.com',
+        hostname: 'soul-healing-decapcms.vercel.app/',
         port: '',
         pathname: '/images/',
       },
