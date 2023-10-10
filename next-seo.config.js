@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en',
-    url: 'https://soul-healing-new.netlify.app',
+    url: 'https://the-golden-healing.com',
     site_name: 'The Golden Healing',
   }
 };
