@@ -2,8 +2,6 @@ backend:
   name: git-gateway
   # name: test-repo
   branch: main
-  identity_url: 'https://soul-healing-new.netlify.com/.netlify/identity'
-  gateway_url: 'https://soul-healing-new.netlify.com/.netlify/git'
 
 # local_backend: true
 

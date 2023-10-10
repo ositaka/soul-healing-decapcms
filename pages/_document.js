@@ -11,23 +11,7 @@ class MyDocument extends Document {
         return (
             <Html lang='en'>
                 <Head>
-                    {/* <script async src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script> */}
-                    <script async src='https://identity.netlify.com/v1/netlify-identity.js'></script>
-                    <script async>
-                        {`
-                            if (document.readyState === 'loading') {
-                                document.addEventListener('DOMContentLoaded', function () {
-                                    netlifyIdentity.init({
-                                        APIUrl: 'https://soul-healing-new.netlify.com/.netlify/identity'
-                                });
-                            });
-                            } else {
-                                netlifyIdentity.init({
-                                    APIUrl: 'https://soul-healing-new.netlify.com/.netlify/identity'
-                            });
-                            }
-                        `}
-                    </script>
+                    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
                 </Head>
                 <body>
                     <Main />
@@ -35,7 +19,7 @@ class MyDocument extends Document {
 
                 </body>
                 {/* Polyfill for CSS scroll-timeline */}
-                <script src='/scroll-timeline-polyfill.js' defer></script>
+                <script src="/scroll-timeline-polyfill.js" defer></script>
             </Html>
         )
     }
