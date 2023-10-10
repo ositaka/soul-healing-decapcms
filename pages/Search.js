@@ -36,7 +36,7 @@ export default function Search() {
         title="Search the page"
         description="Find the search result page"
         openGraph={{
-          url: 'http://soul-healing.netlify.app',
+          url: 'http://the-golden-healing.com',
           title: 'Search the page',
           description: 'Find the search result page',
           images: [
@@ -48,7 +48,7 @@ export default function Search() {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'Soul Healing',
+          site_name: 'The Golden Healing',
         }}
       />
       <div className="container">
