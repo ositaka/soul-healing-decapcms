@@ -13,6 +13,21 @@ class MyDocument extends Document {
                 <Head>
                     {/* <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> */}
                     <script async src="https://identity.netlify.com/v1/netlify-identity.js"></script>
+                    <script async>
+                        {`
+                            if (document.readyState === "loading") {
+                                document.addEventListener("DOMContentLoaded", function () {
+                                    netlifyIdentity.init({
+                                        APIUrl: "https://soul-healing-new.netlify.com/.netlify/identity"
+                                });
+                            });
+                            } else {
+                                netlifyIdentity.init({
+                                    APIUrl: "https://soul-healing-new.netlify.com/.netlify/identity"
+                            });
+                            }
+                        `}
+                    </script>
                 </Head>
                 <body>
                     <Main />
