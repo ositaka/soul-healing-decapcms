@@ -12,7 +12,7 @@ export default function NewsPage({ page }) {
   const router = useRouter()
 
   // debugger
-  const date = new Date(page.date)
+  // const date = new Date(page.date)
 
   return (
     <>

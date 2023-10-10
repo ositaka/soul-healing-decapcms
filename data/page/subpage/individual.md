@@ -2,6 +2,7 @@
 title: Individual
 date: 2023-10-04T18:48:23.926Z
 ---
+
 Embarking on an individual Golden Light Journey
 
 Envision embarking on a personal journey where the golden light involves your body and spirit:

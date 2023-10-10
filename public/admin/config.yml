@@ -185,7 +185,50 @@ collections:
                           widget: relation,
                           collection: subpage,
                           searchFields: [subpage, title],
-                          valueField: slug,
+                          valueField: '{{filename}}',
+                        }
+                  - label: 'Main Menu'
+                    name: 'main_menu'
+                    widget: 'object'
+                    collapsed: true
+                    fields:
+                      - {
+                          label: 'Show on Main Menu',
+                          name: 'show',
+                          widget: 'boolean',
+                          default: false,
+                        }
+                      - {
+                          label: 'Name on Main Menu',
+                          name: 'name',
+                          widget: 'string',
+                        }
+              - label: 'Testimonials'
+                name: 'testimonials'
+                widget: 'object'
+                fields:
+                  - {
+                      label: 'Section Type',
+                      name: 'section_type',
+                      widget: 'hidden',
+                      default: 'testimonials',
+                    }
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - label: 'Testimonials'
+                    name: 'testimonials'
+                    widget: 'list'
+                    fields:
+                      - {
+                          label: 'Testimonial',
+                          name: 'testimonial',
+                          widget: 'text',
+                        }
+                      - { label: 'Author', name: 'author', widget: 'string' }
+                      - {
+                          label: 'Website/Link',
+                          name: 'link',
+                          widget: 'string',
+                          required: false,
                         }
                   - label: 'Main Menu'
                     name: 'main_menu'

@@ -48,6 +48,22 @@
             }),
           );
         }
+        const repeatableTestimonials = (section) => {
+          return h('div', { class: 'section__content' },
+            h('h2', {}, section.title),
+
+            section.testimonials && section.testimonials.map((testimonial, index) => {
+              return h('div', { key: index, class: 'section__item', },
+                h('div', { class: 'section__item-content', },
+                  h('blockquote', {},
+                    h('p', {}, '"' + testimonial.testimonial + '"'),
+                    h('footer', {}, '– ' + testimonial.author),
+                  ),
+                ),
+              );
+            }),
+          );
+        }
 
         return h('div', {},
           h('img', { src: heroImage }),
@@ -60,13 +76,16 @@
             }
 
             return h('section', { key: section.title, id: section.main_menu?.name, class: 'section section--' + section.section_type },
-              section.section_type === "section_repeatable_content" ? repeatableContent(section) :
+              section.section_type === "section_repeatable_content"
+                ? repeatableContent(section) :
+                section.section_type === "testimonials"
+                  ? repeatableTestimonials(section) :
 
-                h('div', { class: 'section__content' },
-                  h('h2', {}, section.title),
-                  // h('div', {}, marked.parse(section.text)),
-                  h('div', { dangerouslySetInnerHTML: getMarkdownText() },),
-                ),
+                  h('div', { class: 'section__content' },
+                    h('h2', {}, section.title),
+                    // h('div', {}, marked.parse(section.text)),
+                    h('div', { dangerouslySetInnerHTML: getMarkdownText() },),
+                  ),
               h('div', { class: 'section__image' },
                 h('img', { src: section.image }),
               ),

@@ -466,7 +466,7 @@ footer {
   }
 }
 
-p,
+p:not(footer p),
 h2,
 h3 {
   animation: auto ease fade both;

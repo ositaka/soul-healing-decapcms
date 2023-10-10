@@ -65,21 +65,48 @@ export default function Home({ home }) {
                   </div>
                 </div>
               </section>
-              :
-              <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
-                <div className='section__content'>
+              : section.section_type === "testimonials" ?
+                <section key={section.title} id={section.main_menu?.name} className={'section section--text_only'}>
+                  <div className='section__content'>
 
-                  <h2>{section.title}</h2>
-                  <div>
-                    <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
+                    <h2>{section.title}</h2>
+                    <div className='section__testimonials'>
+                      {section.testimonials && section.testimonials.map((testimonial, index) => {
+                        return (
+                          <div key={index} className='section__testimonial'>
+                            <div className="section__testimonial-content">
+                              <blockquote>
+                                {testimonial.testimonial}
+                                <footer>
+                                  {testimonial.link !== undefined
+                                    ? <>&mdash; &nbsp;<a href={`${testimonial.link}`}>{testimonial.author}</a></>
+                                    : <>&mdash; &nbsp;{testimonial.author}</>
+                                  }
+                                </footer>
+                              </blockquote>
+                            </div>
+                          </div>
+                        )
+                      })}
+                    </div>
                   </div>
-                </div>
-                {section.image &&
-                  <div className='section__image'>
-                    <Image width={1200} height={1800} src={section.image} alt="..." sizes="(min-width: 1000px) calc(39vw + 30px), 92.06vw" placeholder="blur" blurDataURL={`${section.image}?w=64&q=60`}
-                    />
-                  </div>}
-              </section>
+                </section>
+                :
+                <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
+                  <div className='section__content'>
+
+                    <h2>{section.title}</h2>
+                    <div>
+                      <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
+                    </div>
+                  </div>
+                  {section.image &&
+                    <div className='section__image'>
+                      <Image width={1200} height={1800} src={section.image} alt="..." sizes="(min-width: 1000px) calc(39vw + 30px), 92.06vw" placeholder="blur" blurDataURL={`${section.image}? w = 64 & q= 60`}
+                      />
+                    </div>}
+                </section>
+
           )
         })}
 

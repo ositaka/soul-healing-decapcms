@@ -12,14 +12,12 @@ class MyDocument extends Document {
             <Html lang='en'>
                 <Head>
                     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+                    <script defer src="https://the-golden-healing.com/scroll-timeline-polyfill.js"></script>
                 </Head>
                 <body>
                     <Main />
                     <NextScript />
-
                 </body>
-                {/* Polyfill for CSS scroll-timeline */}
-                <script src="/scroll-timeline-polyfill.js" defer></script>
             </Html>
         )
     }
