@@ -12,7 +12,7 @@ export default function Contact({ contact }) {
         title="Contact page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact"
         openGraph={{
-          url: 'http://soul-healing.netlify.app',
+          url: 'http://the-golden-healing.com',
           title: 'Contact page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact',
           images: [
@@ -24,7 +24,7 @@ export default function Contact({ contact }) {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'Soul Healing',
+          site_name: 'The Golden Healing',
         }}
       />
 

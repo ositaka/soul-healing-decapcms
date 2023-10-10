@@ -22,14 +22,14 @@ export default function NewsPage({ news }) {
         title={news.title}
         description={news.description}
         openGraph={{
-          url: 'https://soul-healing-new.netlify.app',
+          url: 'https://the-golden-healing.com',
           title: news.title,
           description: news.description,
           type: 'article',
           article: {
             publishedTime: news.date,
             directors: [
-              'https://soul-healing-new.netlify.app/',
+              'https://the-golden-healing.com/',
             ],
             tags: news.tags,
           },
@@ -40,7 +40,7 @@ export default function NewsPage({ news }) {
           //   alt: news.title,
           //   type: 'image/jpeg'
           // }],
-          site_name: 'Soul Healing'
+          site_name: 'The Golden Healing'
         }}
       />
       <Layout>
