@@ -6,11 +6,11 @@ const nextconfig = {
   trailingSlash: true,
   // disableImportAliasWarning: true,
   images: {
-    formats: ['image/webp'],
+    formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'soul-healing-new.netlify.app/',
+        hostname: 'soul-healing-decapcms.vercel.app/',
         port: '',
         pathname: '/images/',
       },
