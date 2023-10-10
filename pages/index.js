@@ -76,7 +76,8 @@ export default function Home({ home }) {
                 </div>
                 {section.image &&
                   <div className='section__image'>
-                    <Image width={1200} height={1200} src={section.image} alt="..." sizes="100vw" />
+                    <Image width={1200} height={1800} src={section.image} alt="..." sizes="(min-width: 1000px) calc(39vw + 30px), 92.06vw" placeholder="blur" blurDataURL={`${section.image}?w=64&q=60`}
+                    />
                   </div>}
               </section>
           )
