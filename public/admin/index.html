@@ -17,17 +17,17 @@
 <body>
 
   <!-- Update API url -->
-  <script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
+  <script crossorigin src="https://identity.netlify.com/v1/netlify-identity.js"></script>
   <script>
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", function () {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function () {
         netlifyIdentity.init({
-          APIUrl: "https://soul-healing-new.netlify.com/.netlify/identity"
+          APIUrl: 'https://soul-healing-new.netlify.com/.netlify/identity'
         });
       });
     } else {
       netlifyIdentity.init({
-        APIUrl: "https://soul-healing-new.netlify.com/.netlify/identity"
+        APIUrl: 'https://soul-healing-new.netlify.com/.netlify/identity'
       });
     }
   </script>
