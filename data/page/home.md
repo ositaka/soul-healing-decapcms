@@ -55,7 +55,7 @@ section:
       show: true
       name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Golden Path
+    title: The Path
     text: >-
       Now, let your mind wander as we embark on a journey through the path of
       The Golden Healing.
@@ -70,8 +70,8 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Golden Sphere "
-    title: The Golden Sphere
+      name: "The Sphere "
+    title: The Sphere
     text: >-
       Stepping into the golden healing sphere, imagine embarking on a journey
       towards a sanctuary of healing. This radiant sphere gleams with a
@@ -87,8 +87,8 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Golden Sanctuary "
-    title: "The Golden Sanctuary "
+      name: "The Sanctuary "
+    title: "The Sanctuary "
     text: >-
       You reach the sanctuary of healing, a space of profound tranquility and
       renewal. Here, you can find solace and rejuvenation as a golden aura
@@ -104,23 +104,15 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: The Golden Healing
-    title: The Golden Healing
+      name: The Healing
+    title: The Healing Journey
     items:
-      - title: "Individual "
+      - title: "The Healing "
         text: Our individual sessions are personalised to your unique needs and goals.
           Whether you're seeking relief from physical pain, emotional trauma, or
           spiritual disconnection, the facilitator will work with you to create
           a safe and nurturing space for you to explore and heal.
         link: individual
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Group
-        text: Our small group sessions offer the opportunity to connect with others who
-          share your experiences and goals. These sessions provide a supportive
-          and nurturing environment for healing and growth. We limit the size of
-          our groups to ensure that each individual receives the attention and
-          support they need.
-        link: group
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: text_image
     section_type: text_image
