@@ -65,7 +65,7 @@ section:
   - type: text_image
     section_type: text_image
     main_menu:
-      show: false
+      show: true
       name: Stairs
     title: "Stairs "
     text: To the Golden Light
@@ -73,7 +73,7 @@ section:
   - type: text_image
     section_type: text_image
     main_menu:
-      show: false
+      show: true
       name: "Sanctuary "
     title: "Sanctuary "
     text: From Sanctuary
