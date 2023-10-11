@@ -107,11 +107,8 @@ section:
       name: The Healing
     title: The Healing Journey
     items:
-      - title: "The Healing "
-        text: Our individual sessions are personalised to your unique needs and goals.
-          Whether you're seeking relief from physical pain, emotional trauma, or
-          spiritual disconnection, the facilitator will work with you to create
-          a safe and nurturing space for you to explore and heal.
+      - title: "Begins "
+        text: The Healing Journey
         link: individual
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: text_image
