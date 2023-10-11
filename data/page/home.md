@@ -53,9 +53,9 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: To the Path
+      name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: To the Path
+    title: The Golden Path
     text: |-
       Zero Limits / Divine Intelligence
 
@@ -63,25 +63,17 @@ section:
   - type: text_image
     section_type: text_image
     main_menu:
-      show: true
-      name: Through the Stairs
-    title: "Through the Stairs "
+      show: false
+      name: The Stairs
+    title: "The Stairs "
     text: To the Golden Light
     image: /images/istockphoto-1215549314-1024x1024.jpg
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: "From the Sanctuary "
-    title: "From the Sanctuary "
-    text: From Sanctuary
-    image: /images/photo_2023-09-25-15.56.48.jpeg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: "Golden Transmissions "
-    title: "Golden Transmissions "
+      name: "The Sanctuary "
+    title: The Golden Sanctuary
     items:
       - title: "Individual "
         text: Our individual sessions are personalised to your unique needs and goals.
