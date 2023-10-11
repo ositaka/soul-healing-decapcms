@@ -53,7 +53,7 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Golden Path
+      name: The Golden Beach
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Golden Beach
     text: >-
@@ -70,23 +70,24 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: The Stairs
-    title: "The Golden Healing "
+      name: "The Golden Sphere "
+    title: The Golden Sphere
     text: >-
-      These golden stairs invite you to ascend to a sanctuary of healing. They
-      shimmer with a warm, golden glow, as if they were sculpted from the very
-      essence of healing itself. Step onto the first stair and feel serenity
-      wrapping around you. With each step, you feel burdens and worries gently
-      slip away, leaving you lighter and more peaceful.
+      Stepping into the golden healing ball, imagine embarking on a journey
+      towards a sanctuary of healing. This radiant sphere gleams with a
+      comforting, golden light, as though it's made of pure healing energy. As
+      you enter, you'll feel serenity wrap around you, and with each passing
+      moment, your worries and burdens gently fade away, making you feel lighter
+      and more at peace.
 
 
-      Climb these golden stairs with a heart filled with hope and anticipation, knowing that you are ascending towards a place of deep healing and rejuvenation.
-    image: /images/istockphoto-1215549314-1024x1024.jpg
+      With a heart brimming with hope and anticipation, know that you are on a path leading to a place of profound healing and rejuvenation.
+    image: /images/design-sem-nome.jpg
   - type: text_image
     section_type: text_image
     main_menu:
       show: false
-      name: "The Sanctuary "
+      name: "The Golden Sanctuary "
     title: "The Golden Sanctuary "
     text: >-
       You reach the sanctuary of healing, a space of profound tranquility and
