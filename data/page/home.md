@@ -73,7 +73,7 @@ section:
       name: "The Golden Sphere "
     title: The Golden Sphere
     text: >-
-      Stepping into the golden healing ball, imagine embarking on a journey
+      Stepping into the golden healing sphere, imagine embarking on a journey
       towards a sanctuary of healing. This radiant sphere gleams with a
       comforting, golden light, as though it's made of pure healing energy. As
       you enter, you'll feel serenity wrap around you, and with each passing
