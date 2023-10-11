@@ -57,23 +57,45 @@ section:
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Golden Path
     text: >-
-      Zero Limits / Divine Intelligence
+      Now, let your mind wander as we embark on a journey through the path of
+      the Golden Healing.
 
 
-      To the Path
-
-
-
-
-      Now, let your mind wander as we embark on a journey through the path of the Golden Healing.
+      Visualize yourself at the edge of a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding light. With each step, you move deeper into the woods, following the softly glowing path.
   - type: text_image
     section_type: text_image
     main_menu:
       show: false
       name: The Stairs
-    title: "The Stairs "
-    text: To the Golden Light
+    title: The Stairs
+    text: >-
+      These golden stairs invite you to ascend to a sanctuary of healing. They
+      shimmer with a warm, golden glow, as if they were sculpted from the very
+      essence of healing itself. Step onto the first stair and feel serenity
+      wrapping around you. With each step, you feel burdens and worries gently
+      slip away, leaving you lighter and more peaceful.
+
+
+      Climb these golden stairs with a heart filled with hope and anticipation, knowing that you are ascending towards a place of deep healing and rejuvenation.
     image: /images/istockphoto-1215549314-1024x1024.jpg
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: false
+      name: "The Sanctuary "
+    title: "The Sanctuary "
+    text: >-
+      At the top of the stairs, you reach the sanctuary of healing, a space of
+      profound tranquility and renewal. Here, you can find solace and
+      rejuvenation as a golden aura surrounds you, offering healing energy for
+      your body, mind, and soul.
+
+
+      Take a moment to reflect on areas in your life that need healing and revitalization. Visualize the golden light within the sanctuary soothing and mending these aspects. Feel a profound sense of gratitude and peace as you connect with the sanctuary's healing energy.
+
+
+      Remember that you can return to this golden healing sanctuary whenever you need to find solace, regain your strength, and experience profound healing.
+    image: /images/roos_um_circulo_de_cura_energetica_com_luz_dourada_onde_a_pesso_f8841df5-2706-4d37-af2d-3c2ed01d1d76.png
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -144,12 +166,4 @@ section:
     text: Contact with Tiago today to learn more about our services or to schedule
       an healing session. We are here to support you on your journey to
       wholeness.
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: false
-      name: "The Sanctuary "
-    title: "The Sanctuary "
-    text: The Sanctuary
-    image: /images/roos_um_circulo_de_cura_energetica_com_luz_dourada_onde_a_pesso_f8841df5-2706-4d37-af2d-3c2ed01d1d76.png
 ---
