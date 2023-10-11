@@ -1,6 +1,7 @@
 ---
-title: Individual
+title: The Healing Journey
 date: 2023-10-04T18:48:23.926Z
+image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
 ---
 
 Embarking on an individual Golden Light Journey
