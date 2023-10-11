@@ -56,10 +56,16 @@ section:
       name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Golden Path
-    text: |-
+    text: >-
       Zero Limits / Divine Intelligence
 
+
       To the Path
+
+
+
+
+      Now, let your mind wander as we embark on a journey through the path of the Golden Healing.
   - type: text_image
     section_type: text_image
     main_menu:
@@ -138,4 +144,12 @@ section:
     text: Contact with Tiago today to learn more about our services or to schedule
       an healing session. We are here to support you on your journey to
       wholeness.
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: false
+      name: "The Sanctuary "
+    title: "The Sanctuary "
+    text: The Sanctuary
+    image: /images/roos_um_circulo_de_cura_energetica_com_luz_dourada_onde_a_pesso_f8841df5-2706-4d37-af2d-3c2ed01d1d76.png
 ---
