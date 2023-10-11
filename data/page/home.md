@@ -64,7 +64,7 @@ section:
       name: Golden Stairs
     title: "The Golden Stairs "
     text: Up Stairs
-    image: /images/istockphoto-1193964542-1024x1024.jpg
+    image: /images/istockphoto-1215549314-1024x1024.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
