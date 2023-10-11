@@ -34,7 +34,7 @@ section:
       .......
 
 
-      Embark on a transformative journey into the heart of The Golden Light, where you'll unlock the ancient wisdom concealed within the secret of the golden flower. As you step onto this illuminated path, you'll connect with the infinite, guiding force of Divine Infinite.
+      Embark on a transformative journey into the heart of The Golden Healing, where you'll unlock the ancient wisdom concealed within the secret of the golden flower. As you step onto this illuminated path, you'll connect with the infinite, guiding force of Divine Intelligence.
 
 
       This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
@@ -49,6 +49,14 @@ section:
       \
 
       [Read More →](/vision-and-mission/)
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: The Golden Path
+    image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
+    title: Golden Path
+    text: Zero Limits / Divine Intelligence
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
