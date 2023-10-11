@@ -78,28 +78,6 @@ section:
     title: "The Sanctuary "
     text: From Sanctuary
     image: /images/photo_2023-09-25-15.56.48.jpeg
-  - type: section_repeatable_content
-    section_type: section_repeatable_content
-    main_menu:
-      show: true
-      name: "Golden Transmissions "
-    title: "Golden Transmissions "
-    items:
-      - title: "Individual "
-        text: Our individual sessions are personalised to your unique needs and goals.
-          Whether you're seeking relief from physical pain, emotional trauma, or
-          spiritual disconnection, the facilitator will work with you to create
-          a safe and nurturing space for you to explore and heal.
-        link: individual
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-      - title: Group
-        text: Our small group sessions offer the opportunity to connect with others who
-          share your experiences and goals. These sessions provide a supportive
-          and nurturing environment for healing and growth. We limit the size of
-          our groups to ensure that each individual receives the attention and
-          support they need.
-        link: group
-        image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -139,6 +117,28 @@ section:
 
       His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
     image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
+  - type: section_repeatable_content
+    section_type: section_repeatable_content
+    main_menu:
+      show: true
+      name: "Golden Transmissions "
+    title: "Golden Transmissions "
+    items:
+      - title: "Individual "
+        text: Our individual sessions are personalised to your unique needs and goals.
+          Whether you're seeking relief from physical pain, emotional trauma, or
+          spiritual disconnection, the facilitator will work with you to create
+          a safe and nurturing space for you to explore and heal.
+        link: individual
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
+      - title: Group
+        text: Our small group sessions offer the opportunity to connect with others who
+          share your experiences and goals. These sessions provide a supportive
+          and nurturing environment for healing and growth. We limit the size of
+          our groups to ensure that each individual receives the attention and
+          support they need.
+        link: group
+        image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
   - type: text_only
     section_type: text_only
     main_menu:
