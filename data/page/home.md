@@ -70,15 +70,14 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Sphere "
-    title: The Sphere
+      name: "Golden Stairs "
+    title: Golden Stairs
     text: >-
-      Stepping into the golden healing sphere, imagine embarking on a journey
-      towards a sanctuary of healing. This radiant sphere gleams with a
-      comforting, golden light, as though it's made of pure healing energy. As
-      you enter, you'll feel serenity wrap around you, and with each passing
-      moment, your worries and burdens gently fade away, making you feel lighter
-      and more at peace.
+      Stepping into the golden stairs, imagine embarking on a journey towards a
+      sanctuary of healing. This radiant sphere gleams with a comforting, golden
+      light, as though it's made of pure healing energy. As you enter, you'll
+      feel serenity wrap around you, and with each passing moment, your worries
+      and burdens gently fade away, making you feel lighter and more at peace.
 
 
       With a heart brimming with hope and anticipation, know that you are on a path leading to a place of profound healing and rejuvenation.
