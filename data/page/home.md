@@ -111,24 +111,6 @@ section:
         text: The Healing Journey
         link: individual
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Who
-    title: About
-    text: >-
-      **Tiago** is an intuitive facilitator of healing whose synergy comes from
-      various modalities of energy healing. He is a channel for Divine
-      connection from the center of the heart, the place of unconditional love
-      and Divine light. 
-
-
-      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
-
-
-      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -150,6 +132,24 @@ section:
           himself as a vessel, he was able to bring me to my essence. It is
           subtle, but powerful. And Tiago is a wonderful facilitator!
         author: Karen Maessen, the Netherlands
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Who
+    title: About
+    text: >-
+      **Tiago** is an intuitive facilitator of healing whose synergy comes from
+      various modalities of energy healing. He is a channel for Divine
+      connection from the center of the heart, the place of unconditional love
+      and Divine light. 
+
+
+      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+
+
+      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
+    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
     main_menu:
