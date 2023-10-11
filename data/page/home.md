@@ -53,25 +53,30 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Golden Path
+      name: The Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Golden Path
-    text: Zero Limits / Divine Intelligence
+    title: The Path
+    text: |-
+      Zero Limits / Divine Intelligence
+
+
+
+      Through the Path
   - type: text_image
     section_type: text_image
     main_menu:
       show: false
-      name: Golden Stairs
-    title: "The Golden Stairs "
-    text: Up Stairs
+      name: The Stairs
+    title: "The Stairs "
+    text: To the Golden Light
     image: /images/istockphoto-1215549314-1024x1024.jpg
   - type: text_image
     section_type: text_image
     main_menu:
       show: false
-      name: "The Golden Sanctuary "
-    title: "The Golden Sanctuary "
-    text: Sanctuary
+      name: "The Sanctuary "
+    title: "The Sanctuary "
+    text: From Sanctuary
     image: /images/photo_2023-09-25-15.56.48.jpeg
   - type: section_repeatable_content
     section_type: section_repeatable_content
