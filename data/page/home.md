@@ -53,7 +53,7 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Path
+      name: The Healing Journey
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Path
     text: >-
@@ -104,8 +104,8 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Healing Journey "
-    title: "The Healing Journey "
+      name: "The Healing Space "
+    title: "The Healing Space "
     text: >-
       Embarking on an individual Golden Light Journey
 
