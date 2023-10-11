@@ -55,7 +55,7 @@ section:
       show: true
       name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Golden Path
+    title: The Golden Beach
     text: >-
       Now, let your mind wander as we embark on a journey through the path of
       The Golden Healing.
@@ -71,7 +71,7 @@ section:
     main_menu:
       show: false
       name: The Stairs
-    title: The Stairs
+    title: "The Golden Healing "
     text: >-
       These golden stairs invite you to ascend to a sanctuary of healing. They
       shimmer with a warm, golden glow, as if they were sculpted from the very
@@ -87,7 +87,7 @@ section:
     main_menu:
       show: false
       name: "The Sanctuary "
-    title: "The Sanctuary "
+    title: "The Golden Sanctuary "
     text: >-
       You reach the sanctuary of healing, a space of profound tranquility and
       renewal. Here, you can find solace and rejuvenation as a golden aura
@@ -103,8 +103,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: "The Sanctuary "
-    title: The Golden Sanctuary
+      name: The Golden Healing
+    title: The Golden Healing
     items:
       - title: "Individual "
         text: Our individual sessions are personalised to your unique needs and goals.
