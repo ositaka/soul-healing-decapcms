@@ -53,7 +53,7 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Golden Path
+      name: The Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Path
     text: >-
