@@ -70,8 +70,8 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Golden Steps "
-    title: "The Golden Steps "
+      name: "The Golden Sphere "
+    title: The Golden Sphere
     text: >-
       Stepping into the golden healing sphere, imagine embarking on a journey
       towards a sanctuary of healing. This radiant sphere gleams with a
