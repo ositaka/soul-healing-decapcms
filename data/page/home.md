@@ -78,27 +78,6 @@ section:
     title: "Sanctuary "
     text: From Sanctuary
     image: /images/photo_2023-09-25-15.56.48.jpeg
-  - type: testimonials
-    section_type: testimonials
-    main_menu:
-      show: true
-      name: Testimonials
-    title: What People Say
-    testimonials:
-      - testimonial: Tiago is very good in presence and distance healing sessions. He
-          taught me the Trance Healing. Which forever transformed certain
-          aspects of my life. It has a specific signature and makes the energy
-          tangible. It is one of the important encounters of my life. He will
-          guide you with respect and compassion. Highly recommended.
-        author: Suzanne Cerutti, Switzerland
-        link: https://www.suzannecerutti.com/
-      - testimonial: The healing sessions I have received have been powerful. I felt
-          super relaxed and held during each session, and they clearly opened up
-          my system, opened up my heart and infused me with a lot of light.
-          Tiago uses a technique that goes to the core of healing. So using
-          himself as a vessel, he was able to bring me to my essence. It is
-          subtle, but powerful. And Tiago is a wonderful facilitator!
-        author: Karen Maessen, the Netherlands
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -121,6 +100,27 @@ section:
           support they need.
         link: group
         image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
+  - type: testimonials
+    section_type: testimonials
+    main_menu:
+      show: true
+      name: Testimonials
+    title: What People Say
+    testimonials:
+      - testimonial: Tiago is very good in presence and distance healing sessions. He
+          taught me the Trance Healing. Which forever transformed certain
+          aspects of my life. It has a specific signature and makes the energy
+          tangible. It is one of the important encounters of my life. He will
+          guide you with respect and compassion. Highly recommended.
+        author: Suzanne Cerutti, Switzerland
+        link: https://www.suzannecerutti.com/
+      - testimonial: The healing sessions I have received have been powerful. I felt
+          super relaxed and held during each session, and they clearly opened up
+          my system, opened up my heart and infused me with a lot of light.
+          Tiago uses a technique that goes to the core of healing. So using
+          himself as a vessel, he was able to bring me to my essence. It is
+          subtle, but powerful. And Tiago is a wonderful facilitator!
+        author: Karen Maessen, the Netherlands
   - type: text_image
     section_type: text_image
     main_menu:
