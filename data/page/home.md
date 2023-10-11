@@ -53,9 +53,9 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Golden Beach
+      name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Golden Beach
+    title: The Golden Path
     text: >-
       Now, let your mind wander as we embark on a journey through the path of
       The Golden Healing.
@@ -70,8 +70,8 @@ section:
     section_type: text_image
     main_menu:
       show: false
-      name: "The Golden Sphere "
-    title: The Golden Sphere
+      name: "The Golden Steps "
+    title: "The Golden Steps "
     text: >-
       Stepping into the golden healing sphere, imagine embarking on a journey
       towards a sanctuary of healing. This radiant sphere gleams with a
