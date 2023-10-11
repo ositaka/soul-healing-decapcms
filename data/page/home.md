@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
 section:
   - type: text_only
     section_type: text_only
