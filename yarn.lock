@@ -5618,6 +5618,11 @@ react-select@^4.0.0:
     react-input-autosize "^3.0.0"
     react-transition-group "^4.3.0"
 
+react-simply-carousel@^9.0.5:
+  version "9.0.5"
+  resolved "https://registry.npmjs.org/react-simply-carousel/-/react-simply-carousel-9.0.5.tgz"
+  integrity sha512-5hegmcs73RLIyQURvOimft4Veg6zPyJGrsJ3nLTsmyDbzxwtCZGyY5w2W5uEqMdnh03k5jIqE7j1QEBUps40VA==
+
 react-split-pane@^0.1.85:
   version "0.1.92"
   resolved "https://registry.npmjs.org/react-split-pane/-/react-split-pane-0.1.92.tgz"

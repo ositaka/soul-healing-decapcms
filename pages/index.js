@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { NextSeo } from 'next-seo';
 import Layout from '../components/Layout';
 import { sortByDate, ImageUrl, pageCount } from '../utils'
@@ -11,7 +12,10 @@ import ReactMarkdown from "react-markdown";
 import gfm from 'remark-gfm';
 import Link from 'next/link';
 
+import ReactSimplyCarousel from 'react-simply-carousel';
+
 export default function Home({ home }) {
+  const [activeSlideIndex, setActiveSlideIndex] = useState(0);
 
   return (
     <>
@@ -70,11 +74,60 @@ export default function Home({ home }) {
                   <div className='section__content'>
 
                     <h2>{section.title}</h2>
-                    <div className='section__testimonials'>
-                      {section.testimonials && section.testimonials.map((testimonial, index) => {
-                        return (
-                          <div key={index} className='section__testimonial'>
-                            <div className="section__testimonial-content">
+
+                    <div>
+                      <ReactSimplyCarousel
+                        activeSlideIndex={activeSlideIndex}
+                        onRequestChange={setActiveSlideIndex}
+                        itemsToShow={1}
+                        itemsToScroll={1}
+                        forwardBtnProps={{
+                          //here you can also pass className, or any other button element attributes
+                          style: {
+                            alignSelf: 'center',
+                            background: 'black',
+                            border: 'none',
+                            borderRadius: '50%',
+                            color: 'white',
+                            cursor: 'pointer',
+                            fontSize: '20px',
+                            height: 30,
+                            lineHeight: 1,
+                            textAlign: 'center',
+                            width: 30,
+                          },
+                          children: <span>{`>`}</span>,
+                        }}
+                        backwardBtnProps={{
+                          //here you can also pass className, or any other button element attributes
+                          style: {
+                            alignSelf: 'center',
+                            background: 'black',
+                            border: 'none',
+                            borderRadius: '50%',
+                            color: 'white',
+                            cursor: 'pointer',
+                            fontSize: '20px',
+                            height: 30,
+                            lineHeight: 1,
+                            textAlign: 'center',
+                            width: 30,
+                          },
+                          children: <span>{`<`}</span>,
+                        }}
+                        responsiveProps={[
+                          {
+                            itemsToShow: 1,
+                            itemsToScroll: 1,
+                            minWidth: 768,
+                          },
+                        ]}
+                        speed={400}
+                        easing="ease"
+                      >
+                        {section.testimonials && section.testimonials.map((testimonial, index) => {
+                          return (
+                            <div key={index} style={{ minWidth: 320 }}>
                               <blockquote>
                                 {testimonial.testimonial}
                                 <footer>
@@ -85,9 +138,9 @@ export default function Home({ home }) {
                                 </footer>
                               </blockquote>
                             </div>
-                          </div>
-                        )
-                      })}
+                          )
+                        })}
+                      </ReactSimplyCarousel>
                     </div>
                   </div>
                 </section>
