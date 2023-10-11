@@ -58,10 +58,14 @@ section:
     title: The Golden Path
     text: >-
       Now, let your mind wander as we embark on a journey through the path of
-      the Golden Healing.
+      The Golden Healing.
 
 
-      Visualize yourself at the edge of a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding light. With each step, you move deeper into the woods, following the softly glowing path.
+      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding light. With each step, you move deeper into the woods, following the softly glowing path.\
+
+      \
+
+      You continue along the path, and the guiding light grows more brilliant, leading you toward an extraordinary radiance. Eventually, you reach the source of this light, and there, in front of you, appear golden stairs ascending towards the sky.
   - type: text_image
     section_type: text_image
     main_menu:
@@ -85,10 +89,9 @@ section:
       name: "The Sanctuary "
     title: "The Sanctuary "
     text: >-
-      At the top of the stairs, you reach the sanctuary of healing, a space of
-      profound tranquility and renewal. Here, you can find solace and
-      rejuvenation as a golden aura surrounds you, offering healing energy for
-      your body, mind, and soul.
+      You reach the sanctuary of healing, a space of profound tranquility and
+      renewal. Here, you can find solace and rejuvenation as a golden aura
+      surrounds you, offering healing energy for your body, mind, and soul.
 
 
       Take a moment to reflect on areas in your life that need healing and revitalization. Visualize the golden light within the sanctuary soothing and mending these aspects. Feel a profound sense of gratitude and peace as you connect with the sanctuary's healing energy.
