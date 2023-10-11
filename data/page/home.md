@@ -55,8 +55,16 @@ section:
       show: true
       name: The Golden Path
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: Golden Path
+    title: The Golden Path
     text: Zero Limits / Divine Intelligence
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: false
+      name: Golden Stairs
+    title: "The Golden Stairs "
+    text: Up Stairs
+    image: /images/istockphoto-1193964542-1024x1024.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
