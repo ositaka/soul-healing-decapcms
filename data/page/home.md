@@ -65,6 +65,14 @@ section:
     title: "The Golden Stairs "
     text: Up Stairs
     image: /images/istockphoto-1215549314-1024x1024.jpg
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: false
+      name: "The Golden Sanctuary "
+    title: "The Golden Sanctuary "
+    text: Sanctuary
+    image: /images/photo_2023-09-25-15.56.48.jpeg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
