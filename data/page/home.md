@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
+image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 section:
   - type: text_only
     section_type: text_only
@@ -53,8 +53,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Light
-    title: Golden Light
+      name: "Golden Transmissions "
+    title: "Golden Transmissions "
     items:
       - title: "Individual "
         text: Our individual sessions are personalised to your unique needs and goals.
