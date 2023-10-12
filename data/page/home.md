@@ -81,7 +81,7 @@ section:
 
 
       With a heart brimming with hope and anticipation, know that you are on a path leading to a place of profound healing and rejuvenation.
-    image: /images/roos_golden_stairs_going_up_to_heaven_with_a_big_golden_light_o_aed54804-2ccc-478e-b888-d36c8ce0dc6b.png
+    image: /images/roos_golden_stairs_going_up_to_heaven_with_a_big_golden_light_o_b8c45167-c2f3-4929-9a34-56cfa70a3c15.png
   - type: text_image
     section_type: text_image
     main_menu:
