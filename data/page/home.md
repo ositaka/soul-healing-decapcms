@@ -87,7 +87,7 @@ section:
     main_menu:
       show: false
       name: "The Sanctuary "
-    title: "The Sanctuary "
+    title: "The Healing Place "
     text: >-
       You reach the sanctuary of healing, a space of profound tranquility and
       renewal. Here, you can find solace and rejuvenation as a golden aura
@@ -98,14 +98,14 @@ section:
 
 
       Remember that you can return to this golden healing sanctuary whenever you need to find solace, regain your strength, and experience profound healing.
-    image: /images/roos_a_energetic_golden_sanctuary_cinematic_and_real_125cd852-ce9b-428c-a171-ee3c03498377.png
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: false
-      name: "The Healing Space "
-    title: "The Healing Space "
-    text: >-
+
+
+
+
+      \----\
+
+      \
+
       Embarking on an individual Golden Light Journey
 
 
@@ -153,7 +153,25 @@ section:
 
 
       Our one-on-one sessions are personalized to your unique needs and goals. Whether you're seeking relief from physical pain, emotional trauma, or spiritual disconnection, the facilitator will work with you to create a safe and nurturing space for you to explore and heal.
-    image: /images/roos_no_prompt_06ac507b-993d-4edc-9ce8-592f6b32c12e.png
+    image: /images/roos_no_prompt_8e9f8302-508a-4961-a50d-a98036618b3f.png
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Who
+    title: About
+    text: >-
+      **Tiago** is an intuitive facilitator of healing whose synergy comes from
+      various modalities of energy healing. He is a channel for Divine
+      connection from the center of the heart, the place of unconditional love
+      and Divine light. 
+
+
+      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
+
+
+      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
+    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -175,24 +193,6 @@ section:
           himself as a vessel, he was able to bring me to my essence. It is
           subtle, but powerful. And Tiago is a wonderful facilitator!
         author: Karen Maessen, the Netherlands
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Who
-    title: About
-    text: >-
-      **Tiago** is an intuitive facilitator of healing whose synergy comes from
-      various modalities of energy healing. He is a channel for Divine
-      connection from the center of the heart, the place of unconditional love
-      and Divine light. 
-
-
-      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
-
-
-      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
-    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
     main_menu:
