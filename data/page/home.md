@@ -71,7 +71,7 @@ section:
     main_menu:
       show: false
       name: "Golden Stairs "
-    title: Golden Stairs
+    title: The Stairs
     text: >-
       Stepping into the golden stairs, imagine embarking on a journey towards a
       sanctuary of healing. This radiant sphere gleams with a comforting, golden
