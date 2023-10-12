@@ -12,7 +12,7 @@ export default function Home({ home }) {
         title="Home page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://thegoldenhealing.online',
           title: 'Home page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO home',
           images: [

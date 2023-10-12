@@ -12,7 +12,7 @@ export default function Contact({ contact }) {
         title="Contact page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://thegoldenhealing.online',
           title: 'Contact page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO contact',
           images: [

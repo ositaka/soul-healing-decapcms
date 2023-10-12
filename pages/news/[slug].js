@@ -22,14 +22,14 @@ export default function NewsPage({ news }) {
         title={news.title}
         description={news.description}
         openGraph={{
-          url: 'https://the-golden-healing.com',
+          url: 'https://thegoldenhealing.online',
           title: news.title,
           description: news.description,
           type: 'article',
           article: {
             publishedTime: news.date,
             directors: [
-              'https://the-golden-healing.com/',
+              'https://thegoldenhealing.online/',
             ],
             tags: news.tags,
           },

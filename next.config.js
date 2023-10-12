@@ -11,7 +11,7 @@ const nextconfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'the-golden-healing.com',
+        hostname: 'thegoldenhealing.online',
         port: '',
         pathname: '/images/',
       },

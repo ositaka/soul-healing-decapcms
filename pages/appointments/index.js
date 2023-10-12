@@ -12,7 +12,7 @@ export default function Appointments({ appointments }) {
         title="Appointments page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO appointments"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://thegoldenhealing.online',
           title: 'Appointments page',
           description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO appointments',
           images: [

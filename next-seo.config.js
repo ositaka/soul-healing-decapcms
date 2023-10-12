@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en',
-    url: 'https://the-golden-healing.com',
+    url: 'https://thegoldenhealing.online',
     site_name: 'The Golden Healing',
   }
 };

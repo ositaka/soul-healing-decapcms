@@ -20,7 +20,7 @@ export default function NewsPage({ page }) {
         title={page.title}
         description={page.description}
         openGraph={{
-          url: 'https://the-golden-healing.com',
+          url: 'https://thegoldenhealing.online',
           title: page.title,
           description: page.description,
           // images: [{

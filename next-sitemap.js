@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 module.exports = {
-    siteUrl: 'https://the-golden-healing.com',
+    siteUrl: 'https://thegoldenhealing.online',
     generateRobotsTxt: true, // (optional)
     // Default transformation function
 }

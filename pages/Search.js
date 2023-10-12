@@ -36,7 +36,7 @@ export default function Search() {
         title="Search the page"
         description="Find the search result page"
         openGraph={{
-          url: 'http://the-golden-healing.com',
+          url: 'http://thegoldenhealing.online',
           title: 'Search the page',
           description: 'Find the search result page',
           images: [
