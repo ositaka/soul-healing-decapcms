@@ -104,7 +104,7 @@ section:
     main_menu:
       show: true
       name: Who
-    title: About
+    title: Tiago Araujo
     text: >-
       **Tiago** is an intuitive facilitator of healing whose synergy comes from
       various modalities of energy healing. He is a channel for Divine
