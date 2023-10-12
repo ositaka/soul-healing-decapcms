@@ -147,8 +147,7 @@ p {
 .section {
   display: grid;
   grid-template-areas: 'content image';
-  grid-template-columns: 1fr 1fr;
-  min-height: 100vh;
+  grid-template-columns: 1.2fr 1fr;
 }
 
 .section--text_image:nth-of-type(3n) {
@@ -309,7 +308,7 @@ footer {
     pointer-events: none;
     list-style: none;
     width: 100%;
-    min-height: 100vh;
+    min-height: 100lvh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -466,9 +465,10 @@ footer {
   }
 }
 
-p,
+p:not(footer p),
 h2,
-h3 {
+h3,
+blockquote {
   animation: auto ease fade both;
   animation-timeline: view();
   animation-range: entry 30% cover 60%;
