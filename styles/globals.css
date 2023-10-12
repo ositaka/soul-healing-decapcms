@@ -204,7 +204,8 @@ p {
 
 @media screen and (max-width: 980px) {
   .section {
-    display: block;
+    display: flex;
+    flex-direction: column-reverse;
     scroll-margin-top: var(--header-height);
   }
 
@@ -370,7 +371,7 @@ footer {
   }
 
   .section__content {
-    padding-top: 20vw;
+    padding-top: 10vw;
     padding-bottom: 20vw;
   }
 
