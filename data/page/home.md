@@ -71,7 +71,7 @@ section:
     main_menu:
       show: false
       name: "Golden Stairs "
-    title: Golden Stairs
+    title: The Stairs
     text: >-
       Stepping into the golden stairs, imagine embarking on a journey towards a
       sanctuary of healing. This radiant sphere gleams with a comforting, golden
@@ -81,7 +81,7 @@ section:
 
 
       With a heart brimming with hope and anticipation, know that you are on a path leading to a place of profound healing and rejuvenation.
-    image: /images/design-sem-nome.jpg
+    image: /images/roos_golden_stairs_going_up_to_heaven_with_a_big_golden_light_o_b8c45167-c2f3-4929-9a34-56cfa70a3c15.png
   - type: text_image
     section_type: text_image
     main_menu:
@@ -98,7 +98,7 @@ section:
 
 
       Remember that you can return to this golden healing sanctuary whenever you need to find solace, regain your strength, and experience profound healing.
-    image: /images/roos_um_circulo_de_cura_energetica_com_luz_dourada_onde_a_pesso_f8841df5-2706-4d37-af2d-3c2ed01d1d76.png
+    image: /images/roos_a_energetic_golden_sanctuary_cinematic_and_real_125cd852-ce9b-428c-a171-ee3c03498377.png
   - type: text_image
     section_type: text_image
     main_menu:
