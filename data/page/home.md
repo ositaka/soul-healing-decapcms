@@ -30,27 +30,24 @@ section:
       show: true
       name: The Healing Journey
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: What it is The Golden Healing?
+    title: The Healing Journey
     text: >-
-      Through an altered state of consciousness, Tiago accesses the Healers in
-      the Spiritual World and channels a Divine Intelligence that gives you what
-      you need at that moment. \
+      **How does The Golden Healing work?** 
 
-      \
 
-      **The Path**\
+      Through an altered state of consciousness, Tiago accesses the Healers in the Spiritual World and channels the Divine Intelligence, that gives you what you need at that moment. Let your mind wander as we embark on the Healing Journey.
 
-      \
 
-      Now, let your mind wander as we embark on a journey. Imagine yourself in a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows more brilliant. And then - Golden Light appears ascending towards the sky.\
+      **The Path**  
 
-      \
 
-      **The Healing Space**\
+      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. And then, Golden Light appears, ascending towards the sky.  
 
-      \
 
-      You reach the sanctuary of healing, a space of profound tranquility and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you. You reach the sanctuary of healing, a space of profound tranquility and renewal.
+      **The Healing Space**  
+
+
+      You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -71,7 +68,7 @@ section:
     main_menu:
       show: true
       name: Who
-    title: Tiago Araujo
+    title: "About Tiago "
     text: >-
       **Tiago** is an intuitive facilitator of healing whose synergy comes from
       various modalities of energy healing. He is a channel for Divine
