@@ -10,7 +10,6 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      Welcome to The Golden Healing, where your transformative journey begins.
       Step onto this illuminated path to connect deeply with the boundless
       wisdom of Divine Infinity.
 
