@@ -48,6 +48,14 @@ section:
 
 
       You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Benefits
+    title: Benefits
+    text: Benefits
+    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
