@@ -10,22 +10,19 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      Embark on a transformative journey into the heart of The Golden Healing,
-      where you'll unlock the ancient wisdom concealed within the secret of the
-      golden flower. As you step onto this illuminated path, you'll connect with
-      the infinite, guiding force of Divine Intelligence.
+      Embark on an extraordinary journey into the heart of The Golden Healing.
+      As you set foot on this radiant path, you'll forge a profound connection
+      with the boundless, guiding wisdom of Divine Intelligence.
 
 
-      This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
+      This sacred expedition serves as your gateway to infusing your life with deep-seated bliss and unadulterated delight. Envision yourself enveloped in the warm embrace of love, enveloped by the sweet symphony of laughter and the gentle resonance of harmony.
 
 
-      As you delve deeper into the healing embrace of the golden light, you'll find yourself feeling supremely relaxed, heart-centered, and in perfect alignment with your soul purpose. This harmonious resonance will begin to enhance your intuitive abilities and grant you heightened awareness of the world around you.
+      As you delve further into the nurturing embrace of the golden light, you'll discover an overwhelming sense of tranquility, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will empower your intuitive faculties and bestow upon you a heightened awareness of the world around you.
 
 
-      With each step along this luminous path, you'll experience a sense of lightness, as if you're carried by a current of ease and flow. So, embrace the journey, embrace the golden light, and let it lead you to a life overflowing with love, happiness, and Divine joy.
+      With each stride along this radiant path, you'll experience a sensation of weightlessness, as if you're carried by a current of effortlessness and grace. Embrace this journey, embrace the golden light, and allow it to guide you towards a life brimming with love, joy, and the essence of the Divine.
 
-
-      \
 
       [Read More →](/vision-and-mission/)
   - type: text_image
