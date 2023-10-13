@@ -103,9 +103,8 @@ section:
     section_type: text_only
     main_menu:
       show: true
-      name: Contact
-    title: Connect
-    text: Contact with Tiago today to learn more about our services or to schedule
-      an healing session. We are here to support you on your journey to
-      wholeness.
+      name: Connect
+    title: "Connect "
+    text: Contact Tiago today to learn more about his services or to schedule a
+      healing session. He is here to support you on your journey to wholeness.
 ---
