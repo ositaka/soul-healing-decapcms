@@ -32,11 +32,10 @@ section:
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Path
     text: >-
-      Now, let your mind wander as we embark on a journey through the path of
-      The Golden Healing.
-
-
-      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding light. With each step, you move deeper into the woods, following the softly glowing path.\
+      Now, let your mind wander as we embark on a journey. Imagine yourself at a
+      tranquil forest, where a path unfolds before you, bathed in a gentle,
+      guiding golden light. With each step, you move deeper into the woods and
+      the guiding light grows brilliant.\
 
       \
 
