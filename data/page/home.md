@@ -32,11 +32,17 @@ section:
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: What it is The Golden Healing?
     text: >-
+      Through an altered state of consciousness, Tiago accesses the Healers in
+      the Spiritual World and channels a Divine Intelligence that gives you what
+      you need at that moment. \
+
+      \
+
       **The Path**\
 
       \
 
-      Now, let your mind wander as we embark on a journey. Imagine yourself in a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. And then - Golden Light appears ascending towards the sky.\
+      Now, let your mind wander as we embark on a journey. Imagine yourself in a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows more brilliant. And then - Golden Light appears ascending towards the sky.\
 
       \
 
