@@ -48,6 +48,35 @@ section:
 
 
       You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Benefits
+    title: Benefits
+    text: Benefits
+    image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
+  - type: testimonials
+    section_type: testimonials
+    main_menu:
+      show: true
+      name: Testimonials
+    title: "Testimonials "
+    testimonials:
+      - testimonial: Tiago is very good in presence and distance healing sessions. He
+          taught me the Trance Healing. Which forever transformed certain
+          aspects of my life. It has a specific signature and makes the energy
+          tangible. It is one of the important encounters of my life. He will
+          guide you with respect and compassion. Highly recommended.
+        author: Suzanne Cerutti, Switzerland
+        link: https://www.suzannecerutti.com/
+      - testimonial: The healing sessions I have received have been powerful. I felt
+          super relaxed and held during each session, and they clearly opened up
+          my system, opened up my heart and infused me with a lot of light.
+          Tiago uses a technique that goes to the core of healing. So using
+          himself as a vessel, he was able to bring me to my essence. It is
+          subtle, but powerful. And Tiago is a wonderful facilitator!
+        author: Karen Maessen, the Netherlands
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -78,27 +107,6 @@ section:
 
       Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
     image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
-  - type: testimonials
-    section_type: testimonials
-    main_menu:
-      show: true
-      name: Testimonials
-    title: "Testimonials "
-    testimonials:
-      - testimonial: Tiago is very good in presence and distance healing sessions. He
-          taught me the Trance Healing. Which forever transformed certain
-          aspects of my life. It has a specific signature and makes the energy
-          tangible. It is one of the important encounters of my life. He will
-          guide you with respect and compassion. Highly recommended.
-        author: Suzanne Cerutti, Switzerland
-        link: https://www.suzannecerutti.com/
-      - testimonial: The healing sessions I have received have been powerful. I felt
-          super relaxed and held during each session, and they clearly opened up
-          my system, opened up my heart and infused me with a lot of light.
-          Tiago uses a technique that goes to the core of healing. So using
-          himself as a vessel, he was able to bring me to my essence. It is
-          subtle, but powerful. And Tiago is a wonderful facilitator!
-        author: Karen Maessen, the Netherlands
   - type: text_only
     section_type: text_only
     main_menu:
@@ -107,12 +115,4 @@ section:
     title: "Connect "
     text: Contact Tiago today to learn more about his services or to schedule a
       healing session. He is here to support you on your journey to wholeness.
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Benefits
-    title: Benefits
-    text: Benefits
-    image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
 ---
