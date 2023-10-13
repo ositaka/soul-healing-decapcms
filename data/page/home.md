@@ -30,50 +30,25 @@ section:
       show: true
       name: The Healing Journey
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Path
+    title: What it is?
     text: >-
-      Now, let your mind wander as we embark on a journey. Imagine yourself at a
-      tranquil forest, where a path unfolds before you, bathed in a gentle,
-      guiding golden light. With each step, you move deeper into the woods and
-      the guiding light grows brilliant. And then - Golden Light appears
-      ascending towards the sky.\
+      **The Path**\
 
-      \
+      Now, let your mind wander as we embark on a journey. Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. And then - Golden Light appears ascending towards the sky.\
 
-      You continue along the path, and the guiding light grows more brilliant, leading you toward an extraordinary radiance. Eventually, you reach the source of this light, and there, in front of you, appear golden stairs ascending towards the sky.
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: false
-      name: "Golden Stairs "
-    title: The Stairs
-    text: >-
-      Stepping into the golden stairs, imagine embarking on a journey towards a
-      sanctuary of healing. This radiant sphere gleams with a comforting, golden
-      light, as though it's made of pure healing energy. As you enter, you'll
-      feel serenity wrap around you, and with each passing moment, your worries
-      and burdens gently fade away, making you feel lighter and more at peace.
+      **The Healing Space**\
 
-
-      With a heart brimming with hope and anticipation, know that you are on a path leading to a place of profound healing and rejuvenation.
-    image: /images/roos_golden_stairs_going_up_to_heaven_with_a_big_golden_light_o_b8c45167-c2f3-4929-9a34-56cfa70a3c15.png
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: false
-      name: "The Sanctuary "
-    title: "The Healing Place "
-    text: >-
-      You reach the sanctuary of healing, a space of profound tranquility and
-      renewal. Here, you can find solace and rejuvenation as a golden aura
-      surrounds you, offering healing energy for your body, mind, and soul.
+      You reach the sanctuary of healing, a space of profound tranquility and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you, offering healing energy for your body, mind, and soul.
 
 
       Take a moment to reflect on areas in your life that need healing and revitalization. Visualize the golden light within the sanctuary soothing and mending these aspects. Feel a profound sense of gratitude and peace as you connect with the sanctuary's healing energy.
 
 
-      Remember that you can return to this golden healing sanctuary whenever you need to find solace, regain your strength, and experience profound healing.
-    image: /images/roos_no_prompt_8e9f8302-508a-4961-a50d-a98036618b3f.png
+      Remember that you can return to this golden healing sanctuary whenever you need to find solace, regain your strength, and experience profound healing.\
+
+      \
+
+      You continue along the path, and the guiding light grows more brilliant, leading you toward an extraordinary radiance. Eventually, you reach the source of this light, and there, in front of you, appear golden stairs ascending towards the sky.
   - type: text_image
     section_type: text_image
     main_menu:
