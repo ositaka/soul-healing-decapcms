@@ -35,7 +35,7 @@ section:
       Now, let your mind wander as we embark on a journey. Imagine yourself at a
       tranquil forest, where a path unfolds before you, bathed in a gentle,
       guiding golden light. With each step, you move deeper into the woods and
-      the guiding light grows brilliant. And then - Golden Stairs appear
+      the guiding light grows brilliant. And then - Golden Light appears
       ascending towards the sky.\
 
       \
