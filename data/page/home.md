@@ -70,23 +70,20 @@ section:
       name: Who
     title: "About Tiago "
     text: >-
-      **Tiago** is an intuitive facilitator of healing whose synergy comes from
-      various modalities of energy healing. He is a channel for Divine
-      connection from the center of the heart, the place of unconditional love
-      and Divine light. 
+      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
+      from various modalities of energy healing. He is a channel for Divine
+      connection from the centre of the heart, the place of unconditional love
+      and Divine light.
 
 
-      At The Golden Healing is that true healing comes from within and his works with individuals to help them unlock their inner wisdom, connect with their soul, and cultivate a deep sense of inner peace and joy.
-
-
-      His approach is rooted in love, compassion, and acceptance. He believe that everyone has the power to heal themselves and that he is simply here to facilitate and support you on your journey.
+      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
     image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: testimonials
     section_type: testimonials
     main_menu:
       show: true
       name: Testimonials
-    title: What People Say
+    title: Experiences
     testimonials:
       - testimonial: Tiago is very good in presence and distance healing sessions. He
           taught me the Trance Healing. Which forever transformed certain
