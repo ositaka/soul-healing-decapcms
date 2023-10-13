@@ -83,7 +83,7 @@ section:
     main_menu:
       show: true
       name: Testimonials
-    title: Experiences
+    title: "Testimonials "
     testimonials:
       - testimonial: Tiago is very good in presence and distance healing sessions. He
           taught me the Trance Healing. Which forever transformed certain
