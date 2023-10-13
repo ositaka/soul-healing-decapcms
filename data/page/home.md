@@ -10,31 +10,10 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      The Golden Light: A Transmission of Ease and Flow
-
-
-      Imagine, if you will, a radiant tapestry of light, a luminous cascade that weaves its way through the fabric of existence. This is the Golden Light, a phenomenon of ethereal beauty that invites us to embark on a journey unlike any other. It is a transmission of ease, a gentle nudge to explore.
-
-
-      As you enter the realm of the Golden Light, you will find that each beam of light is a stream of consciousness, a pathway to enlightenment that flows freely with effortless grace. It is as though the very universe itself is whispering its secrets to you, inviting you to join in a sacred dance of knowledge and wisdom.
-
-
-      The Golden Light is not a harsh or blinding force, but a soft and gentle embrace that wraps around your being like a warm, comforting hug. It bathes you in its radiance, allowing you to see and understand the world in a new and profound way. It is as if you are entering a sacred space, a place where all that is hidden becomes revealed.
-
-
-      As you journey deeper into the Golden Light, you will find that it carries with it a sense of peace and serenity. It is a sanctuary for the soul, a place where you can find solace and healing. It is a reminder that amidst the chaos and noise of the world, there is always a tranquil haven.
-
-
-      In the presence of the Golden Light, you will find that your mind becomes clear and your heart open. The Golden Light is a transmission of wisdom that eases your burdens and soothes your worries. It is a journey into the heart of the divine, a sacred pilgrimage that reminds you of your own inner light and the boundless potential that resides within you.
-
-
-      So, let yourself be carried away by the Golden Light, allow it to guide you on a journey of self-discovery and transformation. Embrace its ease and flow, and let it lead you into the sacred space of your own soul. For within the Golden Light, you will find a universe of wonder and a realm of infinite possibility, waiting to be explored.
-
-
-      .......
-
-
-      Embark on a transformative journey into the heart of The Golden Healing, where you'll unlock the ancient wisdom concealed within the secret of the golden flower. As you step onto this illuminated path, you'll connect with the infinite, guiding force of Divine Intelligence.
+      Embark on a transformative journey into the heart of The Golden Healing,
+      where you'll unlock the ancient wisdom concealed within the secret of the
+      golden flower. As you step onto this illuminated path, you'll connect with
+      the infinite, guiding force of Divine Intelligence.
 
 
       This sacred voyage is your key to anchoring profound happiness and pure joy into your life. Picture yourself basking in the warm glow of love, surrounded by the sweet melody of laughter and the gentle hum of harmony.
