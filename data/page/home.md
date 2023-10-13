@@ -10,18 +10,18 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing!
     text: >-
-      Embark on an extraordinary journey into the heart of The Golden Healing.
-      As you set foot on this radiant path, you'll forge a profound connection
-      with the boundless, guiding wisdom of Divine Intelligence.
+      Welcome to The Golden Healing, where your transformative journey begins.
+      Step onto this illuminated path to connect deeply with the boundless
+      wisdom of Divine Intelligence.
 
 
-      This sacred expedition serves as your gateway to infusing your life with deep-seated bliss and unadulterated delight. Envision yourself enveloped in the warm embrace of love, enveloped by the sweet symphony of laughter and the gentle resonance of harmony.
+      This sacred voyage is your portal to infuse your life with profound happiness and unfiltered joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony that envelops you.
 
 
-      As you delve further into the nurturing embrace of the golden light, you'll discover an overwhelming sense of tranquility, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will empower your intuitive faculties and bestow upon you a heightened awareness of the world around you.
+      As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
 
 
-      With each stride along this radiant path, you'll experience a sensation of weightlessness, as if you're carried by a current of effortlessness and grace. Embrace this journey, embrace the golden light, and allow it to guide you towards a life brimming with love, joy, and the essence of the Divine.
+      With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
 
 
       [Read More →](/vision-and-mission/)
