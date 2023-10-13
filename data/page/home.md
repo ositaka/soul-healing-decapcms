@@ -53,7 +53,7 @@ section:
     main_menu:
       show: true
       name: Golden Hour
-    title: "Golden Hour "
+    title: Golden Hours
     items:
       - title: Individual
         text: Individual
@@ -67,7 +67,7 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: Who
+      name: About Tiago
     title: "About Tiago "
     text: >-
       Tiago Araújo is an intuitive facilitator of healing whose synergy comes
