@@ -51,6 +51,21 @@ section:
       \
 
       You reach the sanctuary of healing, a space of profound tranquility and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you. You reach the sanctuary of healing, a space of profound tranquility and renewal.
+  - type: section_repeatable_content
+    section_type: section_repeatable_content
+    main_menu:
+      show: true
+      name: Golden Hour
+    title: "Golden Hour "
+    items:
+      - title: Individual
+        text: Individual
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
+        link: individual
+      - title: "Group "
+        text: Group
+        image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
+        link: group
   - type: text_image
     section_type: text_image
     main_menu:
@@ -99,19 +114,4 @@ section:
     text: Contact with Tiago today to learn more about our services or to schedule
       an healing session. We are here to support you on your journey to
       wholeness.
-  - type: section_repeatable_content
-    section_type: section_repeatable_content
-    main_menu:
-      show: true
-      name: Golden Hour
-    title: "Golden Hour "
-    items:
-      - title: Individual
-        text: Individual
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-        link: individual
-      - title: "Group "
-        text: Group
-        image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
-        link: group
 ---
