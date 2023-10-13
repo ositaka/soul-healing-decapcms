@@ -52,8 +52,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: Golden Hour
-    title: Golden Hours
+      name: The Golden Hour
+    title: The Golden Hours
     items:
       - title: Individual
         text: Individual
