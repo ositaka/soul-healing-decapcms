@@ -38,7 +38,9 @@ section:
 
       **The Healing Space**\
 
-      You reach the sanctuary of healing, a space of profound tranquility and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you, offering healing energy for your body, mind, and soul.
+      \
+
+      You reach the sanctuary of healing, a space of profound tranquility and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you. You reach the sanctuary of healing, a space of profound tranquility and renewal.
 
 
       Take a moment to reflect on areas in your life that need healing and revitalization. Visualize the golden light within the sanctuary soothing and mending these aspects. Feel a profound sense of gratitude and peace as you connect with the sanctuary's healing energy.
