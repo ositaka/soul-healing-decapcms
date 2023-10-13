@@ -12,7 +12,7 @@ section:
     text: >-
       Welcome to The Golden Healing, where your transformative journey begins.
       Step onto this illuminated path to connect deeply with the boundless
-      wisdom of Divine Intelligence.
+      wisdom of Divine Infinity.
 
 
       This sacred voyage is your portal to infuse your life with profound happiness and unfiltered joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony that envelops you.
