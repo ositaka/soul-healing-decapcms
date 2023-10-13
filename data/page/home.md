@@ -48,14 +48,6 @@ section:
 
 
       You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: Benefits
-    title: Benefits
-    text: Benefits
-    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -115,4 +107,12 @@ section:
     title: "Connect "
     text: Contact Tiago today to learn more about his services or to schedule a
       healing session. He is here to support you on your journey to wholeness.
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: Benefits
+    title: Benefits
+    text: Benefits
+    image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
 ---
