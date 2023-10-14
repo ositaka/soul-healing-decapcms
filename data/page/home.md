@@ -99,13 +99,14 @@ section:
       name: About Tiago
     title: "About Tiago "
     text: >-
-      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
-      from various modalities of energy healing. He is a channel for Divine
-      connection from the centre of the heart, the place of unconditional love
-      and Divine light.
+      Tiago works with individuals and groups to help them unlock their inner
+      wisdom, and ignite their inner light. He firmly believes that everyone has
+      the power to heal themselves and that his role is simply to facilitate and
+      support you on your journey. Tiago’s approach is rooted in love,
+      compassion, and acceptance.
 
 
-      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
+      Tiago Araújo is an intuitive facilitator of healing whose synergy comes from various modalities of energy healing. He is a channel for Divine connection from the centre of the heart, the place of unconditional love and Divine light.
     image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
