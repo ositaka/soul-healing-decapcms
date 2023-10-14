@@ -204,6 +204,8 @@ p {
 
 @media screen and (max-width: 980px) {
   .section {
+    width: 100vw;
+    overflow-x: hidden;
     display: flex;
     flex-direction: column-reverse;
     scroll-margin-top: var(--header-height);
