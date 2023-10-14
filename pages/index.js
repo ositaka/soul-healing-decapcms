@@ -127,7 +127,7 @@ export default function Home({ home }) {
                       >
                         {section.testimonials && section.testimonials.map((testimonial, index) => {
                           return (
-                            <div key={index} style={{ minWidth: 320 }}>
+                            <div key={index} style={{ minWidth: 280 }}>
                               <blockquote>
                                 {testimonial.testimonial}
                                 <footer>

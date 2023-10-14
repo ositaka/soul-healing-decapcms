@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { NextSeo } from 'next-seo';
 import { ImageUrl } from '../../utils'
 import { allPages } from "/.contentlayer/generated";
@@ -5,6 +6,13 @@ import Layout from '../../components/Layout';
 
 
 export default function Appointments({ appointments }) {
+  useEffect(() => {
+    const script = document.createElement('script');
+
+    script.src = 'https://embed.ycb.me';
+    script.setAttribute('data-domain', 'thegoldenhealing')
+    document.getElementById('embed').appendChild(script);
+  }, []); // The empty dependency array ensures this effect runs once on mount
 
   return (
     <>
@@ -33,9 +41,7 @@ export default function Appointments({ appointments }) {
           <div className="section__content" style={{ width: '100%', textAlign: 'center' }}>
             <h1>{appointments.title}</h1>
             <p>{appointments.description}</p>
-            <div style={{ minHeight: '60vh' }}>
-              <script src="https://embed.ycb.me" async data-domain="thegoldenhealing"></script>
-            </div>
+            <div id="embed" style={{ minHeight: '60vh' }} />
           </div>
         </section>
       </Layout>
