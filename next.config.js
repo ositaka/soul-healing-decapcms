@@ -7,7 +7,7 @@ const nextconfig = {
   // disableImportAliasWarning: true,
   images: {
     // formats: ['image/avif', 'image/webp'],
-    formats: ['image/webp'],
+    // formats: ['image/webp'],
     remotePatterns: [
       {
         protocol: 'https',
