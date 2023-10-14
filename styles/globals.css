@@ -16,7 +16,7 @@ img {
 
 header {
   position: fixed;
-  width: 100%;
+  width: 100vw !important;
   top: 0;
   z-index: 2;
   height: var(--header-height);
@@ -35,6 +35,10 @@ header {
 }
 
 @media screen and (max-width: 767px) {
+  main {
+    margin-top: 10vw;
+  }
+
   .section__item figure,
   .section__item img {
     height: 100%;
@@ -129,7 +133,9 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  line-height: var(--header-height);
   min-height: var(--header-height);
+  width: 100%;
   margin: auto;
 }
 
@@ -320,7 +326,7 @@ footer {
     left: 0;
     top: 0;
     padding-top: 4ch;
-    padding-bottom: 4ch;
+    padding-bottom: 6ch;
   }
   .navigation #menu a {
     text-decoration: none;
@@ -470,7 +476,7 @@ footer {
 p:not(footer p),
 h2,
 h3,
-#Testimonials {
+#Testimonials .section__content {
   animation: auto ease fade both;
   animation-timeline: view();
   animation-range: entry 30% cover 60%;
