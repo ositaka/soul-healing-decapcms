@@ -23,7 +23,7 @@ section:
       With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
 
 
-      [Vision and Mission →](/vision-and-mission/)
+      **[Vision and Mission →](/vision-and-mission/)**
   - type: text_image
     section_type: text_image
     main_menu:
