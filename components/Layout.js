@@ -3,7 +3,6 @@ import Header from './Header'
 
 const Layout = ({ children }) => (
   <>
-    <Header />
     <motion.main
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
@@ -14,6 +13,7 @@ const Layout = ({ children }) => (
         damping: 30,
       }}
     >
+      <Header />
       {children}
     </motion.main>
   </>

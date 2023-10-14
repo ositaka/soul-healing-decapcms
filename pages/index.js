@@ -1,16 +1,16 @@
 import { useState } from 'react';
 import { NextSeo } from 'next-seo';
 import Layout from '../components/Layout';
-import { sortByDate, ImageUrl, pageCount } from '../utils'
+// import { sortByDate, ImageUrl, pageCount } from '../utils'
 import { allPages } from "/.contentlayer/generated"
-import { pick } from "@contentlayer/client";
-import Pagnation from '../components/Pagnation';
-import { show_per_page } from "../config"
+// import { pick } from "@contentlayer/client";
+// import Pagnation from '../components/Pagnation';
+// import { show_per_page } from "../config"
 import Image from 'next/image';
 
 import ReactMarkdown from "react-markdown";
 import gfm from 'remark-gfm';
-import Link from 'next/link';
+// import Link from 'next/link';
 
 import ReactSimplyCarousel from 'react-simply-carousel';
 

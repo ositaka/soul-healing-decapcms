@@ -1,5 +1,6 @@
 #__next {
   min-height: 100vh;
+  max-width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -262,6 +263,24 @@ footer {
 }
 
 @media (max-width: 68rem) {
+  /* header, */
+  #WhatsApp {
+    opacity: 0;
+    animation: fade 4s ease forwards;
+  }
+
+  header {
+    /* animation-delay: 2s; */
+  }
+
+  #WhatsApp {
+    animation-delay: 5s;
+  }
+
+  .hero-image img {
+    animation: zoomOut 4s ease forwards;
+  }
+
   .navigation button {
     display: block;
     position: absolute;
@@ -326,7 +345,7 @@ footer {
     left: 0;
     top: 0;
     padding-top: 4ch;
-    padding-bottom: 6ch;
+    padding-bottom: 8ch;
   }
   .navigation #menu a {
     text-decoration: none;
@@ -443,6 +462,15 @@ footer {
 
   .section__image img {
     border-radius: 20vw;
+  }
+}
+
+@keyframes zoomOut {
+  from {
+    scale: 1.4 1.5;
+  }
+  to {
+    scale: 1;
   }
 }
 
