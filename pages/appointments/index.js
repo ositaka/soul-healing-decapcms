@@ -12,6 +12,7 @@ export default function Appointments({ appointments }) {
     script.src = 'https://embed.ycb.me';
     script.setAttribute('data-domain', 'thegoldenhealing')
     document.getElementById('embed').appendChild(script);
+
   }, []); // The empty dependency array ensures this effect runs once on mount
 
   return (
