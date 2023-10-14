@@ -23,7 +23,7 @@ section:
       With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
 
 
-      [Read More →](/vision-and-mission/)
+      **[Vision and Mission →](/vision-and-mission/)**
   - type: text_image
     section_type: text_image
     main_menu:
@@ -54,7 +54,72 @@ section:
       show: true
       name: Benefits
     title: Benefits
-    text: Benefits
+    text: >-
+      A trance healing session offers a wide array of potential benefits that
+      can positively impact your overall well-being and quality of life:
+
+
+      **Stress Reduction:** Trance healing helps induce deep relaxation, reducing stress levels and promoting a sense of calm.
+
+
+      **Emotional Release:** It provides a safe space to release and process pent-up emotions, fostering emotional well-being.
+
+
+      **Physical Healing:** Trance healing has been associated with pain relief, accelerated healing, and improved physical health.
+
+
+      **Enhanced Mental Clarity:** It can lead to mental clarity, helping you gain insight into challenging life situations and make informed decisions.
+
+
+      **Emotional Resilience:** Trance healing may improve your ability to cope with emotional challenges, making you more resilient.
+
+
+      **Balanced Energy Flow:** It can help balance your energy centers (chakras), ensuring a harmonious flow of vital life force energy.
+
+
+      **Enhanced Self-Esteem:** Trance healing can boost self-esteem and self-acceptance, helping you feel more confident and positive about yourself.
+
+
+      **Spiritual Growth:** It can deepen your spiritual connection, fostering a greater understanding of your inner self and your place in the universe.
+
+
+      **Release of Trauma:** Trance healing provides a space for the release and healing of emotional and psychological trauma, promoting inner peace.
+
+
+      **Improved Sleep:** Many individuals experience improved sleep patterns and better quality of sleep after trance healing sessions.
+
+
+      **Enhanced Intuition:** It can heighten your intuition and inner guidance, aiding in making more intuitive and spiritually aligned decisions.
+
+
+      **Self-Healing:** Trance healing often encourages and amplifies your innate self-healing abilities, assisting in the recovery from physical and emotional challenges.
+
+
+      **Reduced Anxiety:** It can reduce anxiety and provide tools for managing anxious thoughts and emotions.
+
+
+      **Cultivated Inner Peace:** Trance healing may help you find a sense of inner peace and tranquility, even in the face of life's challenges.
+
+
+      **Emotional Balance:** It supports emotional equilibrium, making it easier to navigate emotional ups and downs.
+
+
+      **Release of Limiting Beliefs:** Trance healing may help release limiting beliefs and thought patterns that no longer serve you, enabling personal growth.
+
+
+      **Alleviation of Pain:** It has been reported to reduce or alleviate chronic pain, providing relief from physical discomfort.
+
+
+      **Enhanced Creativity:** Many people find their creativity flourishes after trance healing sessions, as it frees the mind from constraints.
+
+
+      **Mind-Body Connection:** Trance healing can deepen your connection to the mind-body connection, promoting overall health.
+
+
+      **Positive Life Changes:** It often paves the way for personal transformation and positive changes in various aspects of life.
+
+
+      Remember that individual experiences can vary, and the specific benefits of a trance healing session may differ from person to person. It's essential to approach each session with an open heart and an understanding that healing is a unique and personal journey.
     image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
   - type: testimonials
     section_type: testimonials
@@ -84,7 +149,7 @@ section:
       name: The Golden Hour
     title: The Golden Hours
     items:
-      - title: Individual
+      - title: One-on-One
         text: Individual
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
