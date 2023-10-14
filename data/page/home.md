@@ -125,9 +125,11 @@ section:
         link: individual
       - title: "Group "
         text: >-
-          Silence or power down your electronic devices to create a
-          distraction-free environment. Ensure you won't be interrupted during
-          this sacred time.
+          Preparation for the session:\
+
+          \
+
+          Silence or power down your electronic devices to create a distraction-free environment. Ensure you won't be interrupted during this sacred time.
 
 
           Prior to the session, take a few moments to center your being. Engage in a brief meditation or deep breathing exercises to calm your mind and prepare for the transformative healing experience.
