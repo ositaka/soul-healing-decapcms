@@ -1,10 +1,8 @@
 ---
-title: "Individual "
+title: Preparation for the session
 date: 2023-10-13T19:06:14.829Z
 image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
 ---
-Preparation for the session:\
-\
 Arrange a serene, uncluttered area where you can fully relax. Consider using soft lighting, playing soothing music, or lighting incense to create an inviting atmosphere.
 
 Take a moment to reflect on your aspirations for the trance healing session. Whether you seek physical healing, emotional release, or spiritual growth, having well-defined intentions will serve as your guiding light.
