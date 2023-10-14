@@ -11,8 +11,9 @@ class MyDocument extends Document {
         return (
             <Html lang='en'>
                 <Head>
-                    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-                    <script defer src="https://thegoldenhealing.online/scroll-timeline-polyfill.js"></script>
+                    <script async src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
+                    {/* Scroll Timeline Polyfill */}
+                    <script src='https://thegoldenhealing.online/scroll-timeline-polyfill.js'></script>
                 </Head>
                 <body>
                     <Main />
