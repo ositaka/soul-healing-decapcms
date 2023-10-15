@@ -30,7 +30,7 @@ section:
       show: true
       name: The Healing Journey
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Healing Journey
+    title: The Journey
     text: >-
       **How does The Golden Healing work?** 
 
@@ -52,8 +52,8 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: The Healing Hour
-    title: The Healing Hour
+      name: The Healing
+    title: The Healing
     items:
       - title: Present
         text: Present Healing is referred to as in-person healing, is a form of healing
@@ -76,8 +76,8 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: The Healing Benefits
-    title: The Healing Benefits
+      name: The Benefits
+    title: The Benefits
     text: |-
       Less Stress
 
