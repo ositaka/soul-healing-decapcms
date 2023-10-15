@@ -143,17 +143,30 @@ section:
     section_type: section_repeatable_content
     main_menu:
       show: true
-      name: The Golden Hour
-    title: The Golden Hours
+      name: The Healing Hour
+    title: The Healing Hour
     items:
-      - title: One-on-One
-        text: Individual
+      - title: "Present Healing "
+        text: Present healing is when the healer and the person receiving healing are in
+          the same place. The healer uses touch and other healing methods to
+          help the person feel better right there. It's like a hands-on way of
+          bringing healing and comfort to someone in person.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
-      - title: "Group "
-        text: Group
+      - title: "Distant Healing "
+        text: Distant healing is a way of sending healing energy and good thoughts to
+          someone no matter where they are. It's like sending a healing hug
+          through the power of your thoughts and intentions, making people feel
+          better and supporting their well-being from afar.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
+      - title: "Absent Healing "
+        text: Absent healing, also known as remote healing, is a way of sending positive
+          energy and intentions to someone who's far away. It's like a heartfelt
+          message of healing and support that can make people feel better, even
+          when they can't be with the healer in person.
+        link: group
+        image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
     main_menu:
