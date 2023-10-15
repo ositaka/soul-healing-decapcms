@@ -118,6 +118,47 @@ section:
 
       Remember that individual experiences can vary, and the specific benefits of a trance healing session may differ from person to person. It's essential to approach each session with an open heart and an understanding that healing is a unique and personal journey.
     image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
+  - type: section_repeatable_content
+    section_type: section_repeatable_content
+    main_menu:
+      show: true
+      name: The Healing Hour
+    title: The Healing Hour
+    items:
+      - title: "Present Healing "
+        text: Present healing, also referred to as in-person healing, is a form of
+          healing that occurs when the healer and client are physically present
+          in the same location.
+        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
+        link: individual
+      - title: "Distant Healing "
+        text: Distance healing, similar to absent healing, is a method of healing that
+          can be conducted without the client and healer being physically
+          present in the same location.
+        image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
+        link: group
+      - title: "Absent Healing "
+        text: Absent healing, also known as distant or remote healing, is a powerful
+          practice that transcends physical boundaries to provide healing and
+          support to individuals who are not in the immediate presence of the
+          healer.
+        link: absent-healing
+        image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: About Tiago
+    title: "About Tiago "
+    text: >-
+      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
+      from various modalities of energy healing. He is a channel for Divine
+      connection from the centre of the heart, the place of unconditional love
+      and Divine light.
+
+
+      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
+    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -139,48 +180,6 @@ section:
           himself as a vessel, he was able to bring me to my essence. It is
           subtle, but powerful. And Tiago is a wonderful facilitator!
         author: Karen Maessen, the Netherlands
-  - type: section_repeatable_content
-    section_type: section_repeatable_content
-    main_menu:
-      show: true
-      name: The Healing Hour
-    title: The Healing Hour
-    items:
-      - title: "Present Healing "
-        text: Present healing, also referred to as in-person healing, is a form of
-          healing that occurs when the healer and client are physically present
-          in the same location. Here's a description of present healing.
-        image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
-        link: individual
-      - title: "Distant Healing "
-        text: Distance healing, similar to absent healing, is a method of healing that
-          can be conducted without the client and healer being physically
-          present in the same location. Here's a description of distance
-          healing.
-        image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
-        link: group
-      - title: "Absent Healing "
-        text: Absent healing, also known as distant or remote healing, is a powerful
-          practice that transcends physical boundaries to provide healing and
-          support to individuals who are not in the immediate presence of the
-          healer. Here's a description of absent healing.
-        link: absent-healing
-        image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: About Tiago
-    title: "About Tiago "
-    text: >-
-      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
-      from various modalities of energy healing. He is a channel for Divine
-      connection from the centre of the heart, the place of unconditional love
-      and Divine light.
-
-
-      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
-    image: /images/roos_no_prompt_6b9fa1d5-21f7-4f2e-9079-6243795f68bf.png
   - type: text_only
     section_type: text_only
     main_menu:
