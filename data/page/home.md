@@ -55,21 +55,21 @@ section:
       name: The Healing Hour
     title: The Healing Hour
     items:
-      - title: "Present Healing "
-        text: It's referred to as in-person healing, is a form of healing that occurs
-          when the healer and client are physically present in the same
-          location.
+      - title: Present
+        text: Present Healing is referred to as in-person healing, is a form of healing
+          that occurs when the healer and client are physically present in the
+          same location.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
-      - title: "Distant Healing "
-        text: It's a method of healing that can be conducted without the client and
-          healer being physically present in the same location.
+      - title: Distant
+        text: Distant healing is a method of healing that can be conducted without the
+          client and healer being physically present in the same location.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
-      - title: "Absent Healing "
-        text: It's a powerful practice that transcends physical boundaries to provide
-          healing and support to individuals who are not in the immediate
-          presence of the healer.
+      - title: Absent
+        text: Absent healing is a powerful practice that transcends physical boundaries
+          to provide healing and support to individuals who are not in the
+          immediate presence of the healer.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
