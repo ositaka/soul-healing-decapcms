@@ -79,16 +79,16 @@ section:
       name: The Benefits
     title: The Benefits
     text: >-
-      Trance healing is a holistic practice with many benefits. It helps reduce
-      stress, brings emotional relief, and supports physical healing. You'll
-      find it easier to think clearly, handle strong emotions, and have balanced
-      energy. This can boost your confidence and promote spiritual growth.
+      Spiritual healing is like embarking on a journey for your mind, body, and
+      soul. It reduces stress, soothes your emotions, and helps your body heal.
+      It also clears your thoughts, making you more confident and emotionally
+      strong.
 
 
-      For those dealing with tough times, it offers healing and inner peace, often leading to better sleep. Trance healing enhances your instincts and helps you manage anxiety. It also supports emotional balance and personal growth.
+      It balances your energy, boosting your self-esteem and promoting spiritual growth. It's a safe place to heal from past struggles and enjoy better sleep. Your instincts improve, and you become more self-assured, helping you manage anxiety.
 
 
-      This practice can relieve pain, spark creativity, and deepen the connection between your mind and body. Ultimately, it leads to positive life changes and a more fulfilling existence.
+      Letting go of negative thoughts and limiting beliefs leads to personal growth. You'll find relief from pain and experience a surge of creativity. The healing aligns you with your soul's purpose, enhances your intuition, and makes you more aware. It brings a sense of lightness, ease, and positive changes to your life, making your mind and body work together harmoniously.
     image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
   - type: text_image
     section_type: text_image
