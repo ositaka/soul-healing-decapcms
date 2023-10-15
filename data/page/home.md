@@ -78,46 +78,12 @@ section:
       show: true
       name: The Benefits
     title: The Benefits
-    text: |-
-      Less Stress
-
-      Emotional Relief
-
-      Healing Your Body
-
-      Clearer Thinking
-
-      Stronger Emotions
-
-      Balanced Energy
-
-      More Confidence
-
-      Spiritual Growth
-
-      Healing from Tough Times
-
-      Better Sleep
-
-      Better Instincts
-
-      Healing Yourself
-
-      Less Anxiety
-
-      Inner Peace
-
-      Balanced Emotions
-
-      Letting Go of Negative Thoughts
-
-      Pain Relief
-
-      More Creativity
-
-      Mind and Body Together
-
-      Positive Changes
+    text: Less stress, emotional relief, healing your body, clearer thinking,
+      stronger emotions, balanced energy, more confidence, spiritual growth,
+      healing from tough times, better sleep, better instincts, healing
+      yourself, less anxiety, inner peace, balanced emotions, letting go of
+      negative thoughts, pain relief, more creativity, mind and body together
+      and positive changes.
     image: /images/5e31baee-2644-407b-b507-ce6716abdefe.jpeg
   - type: text_image
     section_type: text_image
