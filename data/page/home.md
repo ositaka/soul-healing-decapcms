@@ -185,7 +185,7 @@ section:
 
 
           Absent healing is a testament to the interconnectedness of all living beings, demonstrating that healing energy can traverse space and time to reach those in need. It offers comfort, support, and healing to individuals who may be unable to attend an in-person session, highlighting the remarkable capabilities of intention and energy in the realm of healing."
-        link: group
+        link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
