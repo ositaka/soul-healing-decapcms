@@ -147,44 +147,23 @@ section:
     title: The Healing Hour
     items:
       - title: "Present Healing "
-        text: >-
-          Present healing, also referred to as in-person healing, is a form of
+        text: Present healing, also referred to as in-person healing, is a form of
           healing that occurs when the healer and client are physically present
-          in the same location. Here's a description of present healing:
-
-
-          "Present healing is a deeply personal and tangible form of healing that unfolds with the healer and recipient in the same physical space. In this setting, the healer engages with the client through direct interaction, often using touch, energy work, and various healing techniques. The practitioner creates a calming and healing environment, inducing a trance state, and offering emotional, physical, and spiritual support.
-
-
-          Present healing allows for immediate feedback, creating an intimate connection between the healer and the client. The use of physical modalities, such as touch or hands-on healing, is a common feature of present healing, facilitating an immediate and interactive healing experience. This form of healing emphasizes the power of the human connection, making it an ideal choice for those who seek hands-on guidance and a direct, personal healing journey."
+          in the same location. Here's a description of present healing.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
       - title: "Distant Healing "
-        text: >-
-          Distance healing, similar to absent healing, is a method of healing
-          that can be conducted without the client and healer being physically
+        text: Distance healing, similar to absent healing, is a method of healing that
+          can be conducted without the client and healer being physically
           present in the same location. Here's a description of distance
-          healing:
-
-
-          "Distance healing is a profound approach to healing that acknowledges the interconnectedness of energy and intention. In distance healing, the practitioner and the recipient are often separated by physical distance. Through the power of intention, focused energy, and the mind-body connection, the healer channels healing energy to the recipient, irrespective of their location. This practice transcends the confines of time and space, allowing the healer to induce a healing trance state, promote emotional and physical well-being, and support the client's healing journey.
-
-
-          Distance healing is a testament to the boundless potential of the human mind and spirit, affirming that healing can be accessible to anyone, regardless of where they are in the world. It underscores the influence of intention and energy in the healing process, offering hope, comfort, and support to those seeking healing, no matter the miles that separate them from the healer."
+          healing.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
-        text: >-
-          Absent healing, also known as distant or remote healing, is a powerful
+        text: Absent healing, also known as distant or remote healing, is a powerful
           practice that transcends physical boundaries to provide healing and
           support to individuals who are not in the immediate presence of the
-          healer. Here's a description of absent healing:
-
-
-          "In the realm of healing, absent healing is a profound and compassionate practice that defies the constraints of distance. In this mode of healing, the practitioner extends their healing intentions, energy, and focus to those who may be far away or unable to be physically present. Through the power of intention and energy transfer, the healer connects with the recipient's energy field, often facilitated by a photograph, name, or other personal identifier. This distant connection allows the healer to induce a healing trance state, release emotional or physical burdens, and promote well-being.
-
-
-          Absent healing is a testament to the interconnectedness of all living beings, demonstrating that healing energy can traverse space and time to reach those in need. It offers comfort, support, and healing to individuals who may be unable to attend an in-person session, highlighting the remarkable capabilities of intention and energy in the realm of healing."
+          healer. Here's a description of absent healing.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
