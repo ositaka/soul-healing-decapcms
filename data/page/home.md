@@ -76,8 +76,8 @@ section:
     section_type: text_image
     main_menu:
       show: true
-      name: Benefits
-    title: Benefits
+      name: The Healing Benefits
+    title: The Healing Benefits
     text: |-
       Less Stress
 
