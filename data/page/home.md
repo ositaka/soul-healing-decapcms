@@ -55,11 +55,8 @@ section:
       name: Benefits
     title: Benefits
     text: >-
-      A trance healing session offers a wide array of potential benefits that
-      can positively impact your overall well-being and quality of life:
-
-
-      **Stress Reduction:** Trance healing helps induce deep relaxation, reducing stress levels and promoting a sense of calm.
+      **Stress Reduction:** Trance healing helps induce deep relaxation,
+      reducing stress levels and promoting a sense of calm.
 
 
       **Emotional Release:** It provides a safe space to release and process pent-up emotions, fostering emotional well-being.
