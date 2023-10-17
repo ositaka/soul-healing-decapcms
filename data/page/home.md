@@ -56,12 +56,9 @@ section:
     title: The Healing
     items:
       - title: Present
-        text: Present healing, also known as in-person healing, involves a healing
-          practitioner providing hands-on or direct healing energy to an
-          individual in their immediate physical presence. This form of healing
-          focuses on promoting physical, emotional, and spiritual well-being
-          through direct contact, channeling positive energy, and fostering a
-          sense of connection and balance between the healer and the recipient.
+        text: In a present healing session, also known as in-person healing, the healing
+          practitioner provides hands-on or direct healing energy to the
+          individual in their immediate physical presence.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
       - title: Distant
