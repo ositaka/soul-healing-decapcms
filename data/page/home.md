@@ -41,7 +41,7 @@ section:
       **The Path**  
 
 
-      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. And then, Golden Light appears, ascending towards the sky.  
+      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. As the Golden Light appears, ascending towards the sky.  
 
 
       **The Healing Sanctuary**  
