@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { NextSeo } from 'next-seo';
 import Layout from '../components/Layout';
 // import { sortByDate, ImageUrl, pageCount } from '../utils'
-import { allPages } from "/.contentlayer/generated"
+import { allPages, allSettings } from "/.contentlayer/generated"
 // import { pick } from "@contentlayer/client";
 // import Pagnation from '../components/Pagnation';
 // import { show_per_page } from "../config"
@@ -17,15 +17,17 @@ import ReactSimplyCarousel from 'react-simply-carousel';
 export default function Home({ home }) {
   const [activeSlideIndex, setActiveSlideIndex] = useState(0);
 
+  const SEO = allSettings[0].seo
+
   return (
     <>
       <NextSeo
-        title="Welcome to my blog home page"
-        description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO support"
+        title={SEO.title}
+        description={SEO.description}
         openGraph={{
           url: 'http://thegoldenhealing.online',
-          title: 'Welcome to my blog home page',
-          description: 'Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO support',
+          title: `${SEO.title}`,
+          description: `${SEO.description}`,
           // images: [
           //   {
           //     url: `${ImageUrl('banner.png')}`,
@@ -145,7 +147,7 @@ export default function Home({ home }) {
                   </div>
                 </section>
                 :
-                <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
+                <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type + ' is-image-' + section.image_position}>
                   <div className='section__content'>
 
                     <h2>{section.title}</h2>

@@ -125,6 +125,13 @@ collections:
                       required: true,
                       choose_url: false,
                     }
+                  - {
+                      label: 'Image Position',
+                      name: 'image_position',
+                      widget: 'select',
+                      options: ['Left', 'Right'],
+                      default: ['Left'],
+                    }
                   - label: 'Main Menu'
                     name: 'main_menu'
                     widget: 'object'
@@ -298,3 +305,24 @@ collections:
             ['bold', 'italic', 'link', 'heading-two', 'heading-three', 'quote'],
           modes: ['rich_text'],
         }
+
+  - name: 'settings'
+    label: 'Settings'
+    files:
+      - file: 'data/settings.md'
+        label: 'Settings'
+        name: 'settings'
+        fields:
+          - label: 'SEO (Search Engine Optimization)'
+            name: 'seo'
+            widget: 'object'
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Description', name: 'description', widget: 'string' }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  required: false,
+                  choose_url: false,
+                }

@@ -4,6 +4,24 @@ import {
   makeSource,
 } from 'contentlayer/source-files'
 
+const SEO = defineNestedType(() => ({
+  name: 'SEO',
+  fields: {
+    title: {
+      type: 'string',
+      required: true,
+    },
+    description: {
+      type: 'string',
+      required: true,
+    },
+    image: {
+      type: 'string',
+      required: false,
+    },
+  },
+}))
+
 const MAIN_MENU = defineNestedType(() => ({
   name: 'MAIN_MENU',
   fields: {
@@ -39,6 +57,10 @@ const SECTION = defineNestedType(() => ({
     image: {
       type: 'string',
       required: false,
+    },
+    image_position: {
+      type: 'string',
+      required: true,
     },
     link: {
       type: 'string',
@@ -159,7 +181,19 @@ const News = defineDocumentType(() => ({
   },
 }))
 
+const Settings = defineDocumentType(() => ({
+  name: 'Settings',
+  filePathPattern: `settings.md`,
+  contentType: 'markdown',
+  fields: {
+    seo: {
+      type: 'nested',
+      of: SEO,
+    },
+  },
+}))
+
 export default makeSource({
   contentDirPath: 'data',
-  documentTypes: [Page, SubPage, News],
+  documentTypes: [Page, SubPage, News, Settings],
 })

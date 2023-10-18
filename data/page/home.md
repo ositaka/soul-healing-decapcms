@@ -48,6 +48,7 @@ section:
 
 
       You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
+    image_position: Right
   - type: section_repeatable_content
     section_type: section_repeatable_content
     main_menu:
@@ -96,6 +97,7 @@ section:
 
       Letting go of negative thoughts and limiting beliefs leads to personal growth. You'll find relief from pain and experience a surge of creativity. The healing aligns you with your soul's purpose, enhances your intuition, and makes you more aware. It brings a sense of lightness, ease, and positive changes to your life, making your mind and body work together harmoniously.
     image: /images/zac-durant-_6hzpu9hyfg-unsplash.jpg
+    image_position: Left
   - type: text_image
     section_type: text_image
     main_menu:
@@ -111,6 +113,7 @@ section:
 
       Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
     image: /images/img_0170.jpg
+    image_position: Right
   - type: testimonials
     section_type: testimonials
     main_menu:
