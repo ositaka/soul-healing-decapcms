@@ -74,11 +74,16 @@ section:
           When conducted via telephone, Skype, or Zoom, it establishes a direct connection between the healer and the recipient. The session commences with a conversation, followed by a relaxation period. Then, the healer aligns with healing energies and initiates the formal healing process. The session often concludes with additional conversation.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
-      - title: Absent
-        text: Absent healing sends energy from a distance to promote well-being in
+      - title: "Absent Healing "
+        text: >-
+          Absent healing sends energy from a distance to promote well-being in
           individuals not physically present. It transcends geographical
           boundaries, demonstrating the power of intention, energy, and
-          mind-body-spirit connections in the healing process.
+          mind-body-spirit connections in the healing process.\
+
+          \
+
+          Absent healing can be transmitted over any distance. Requests for distant healing for yourself, a loved one or even an animal may be made by letter, email or via our website and your message will be read by our healing team, who will ask for help to be given through the healing directive.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
