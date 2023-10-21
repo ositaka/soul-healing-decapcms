@@ -76,14 +76,13 @@ section:
         link: group
       - title: "Absent Healing "
         text: >-
-          Absent healing sends energy from a distance to promote well-being in
-          individuals not physically present. It transcends geographical
-          boundaries, demonstrating the power of intention, energy, and
-          mind-body-spirit connections in the healing process.\
+          Absent healing is a practice that sends healing energy to individuals
+          who are not physically present. It goes beyond geographical
+          limitations, highlighting the significance of intention, energy, and
+          the mind-body-spirit connection in the healing journey.
 
-          \
 
-          Absent healing can be transmitted over any distance. Requests for distant healing for yourself, a loved one or even an animal may be made by letter, email or via our website and your message will be read by our healing team, who will ask for help to be given through the healing directive.
+          This form of healing knows no boundaries, as it can be sent across any distance. You can request distant healing for yourself, a loved one, or even a pet through methods like letters, emails, or our website. Your message will be received by our healing team, who will then seek assistance through the healing directive.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
