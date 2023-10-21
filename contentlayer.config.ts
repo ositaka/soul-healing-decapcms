@@ -58,13 +58,17 @@ const SECTION = defineNestedType(() => ({
 
 const Page = defineDocumentType(() => ({
   name: 'Page',
-  filePathPattern: `page/*.md`,
+  filePathPattern: `page/**/*.md`,
   contentType: 'markdown',
   fields: {
-    // slug: {
-    //   type: 'string',
-    //   required: false,
-    // },
+    locale: {
+      type: 'string',
+      required: false,
+    },
+    slug: {
+      type: 'string',
+      required: false,
+    },
     title: {
       type: 'string',
       required: false,
@@ -77,29 +81,11 @@ const Page = defineDocumentType(() => ({
       type: 'string',
       required: false,
     },
-    // gallery: {
-    //   type: 'list',
-    //   of: { type: 'string' },
-    // },
-    section: {
-      type: 'list',
-      of: SECTION,
-    },
-    menu: {
-      type: 'nested',
-      of: MAIN_MENU,
-    },
   },
   computedFields: {
     slug: {
       type: 'string',
       resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ''),
-    },
-    locale: {
-      type: 'string',
-      resolve: (doc) => {
-        return getLocale(doc._raw.sourceFilePath)
-      },
     },
   },
 }))
@@ -109,6 +95,10 @@ const SubPage = defineDocumentType(() => ({
   filePathPattern: `page/subpage/*.md`,
   contentType: 'markdown',
   fields: {
+    locale: {
+      type: 'string',
+      required: false,
+    },
     title: {
       type: 'string',
       required: false,

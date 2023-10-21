@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { allPages } from "./../.contentlayer/generated";
+import { allPages } from "/.contentlayer/generated";
 import { useState } from 'react';
 
 export default function Header({ }) {
@@ -50,7 +50,7 @@ export default function Header({ }) {
 
             <ul id="menu" onClick={closeMenu}>
               {/* <ul id="menu" hidden={!isMenuOpen} onClick={closeMenu}> */}
-              {menu
+              {menu && menu
                 .filter(section => section.main_menu.show)
                 .map(section => {
                   return (

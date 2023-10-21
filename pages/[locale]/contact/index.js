@@ -1,7 +1,7 @@
 import { NextSeo } from 'next-seo';
-import { ImageUrl } from '../../utils'
+import { ImageUrl } from '../../../../utils'
 import { allPages } from "/.contentlayer/generated";
-import Layout from '../../components/Layout';
+import Layout from '../../../../components/Layout';
 
 
 export default function Contact({ contact }) {
@@ -42,8 +42,23 @@ export default function Contact({ contact }) {
 
 
 
+export async function getStaticPaths() {
+
+  // get all the post slug
+  const publish = allPages.map((contact) => ({ params: { slug: contact.slug, locale: 'pt' } }))
+
+
+  return {
+    paths: publish,
+    fallback: false,
+  }
+}
+
+
 export async function getStaticProps() {
   const contact = await allPages.find((contact) => {
+
+    console.log(contact, '---------------')
 
     return contact.slug === "contact"
 

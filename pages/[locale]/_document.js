@@ -1,5 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
-import { useLocale } from "next-intl";
+import { NextIntlClientProvider } from 'next-intl'
 import { notFound } from "next/navigation";
 
 
@@ -25,7 +25,9 @@ class MyDocument extends Document {
                     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
                 </Head>
                 <body>
-                    <Main />
+                    <NextIntlClientProvider locale={locale} messages={messages}>
+                        <Main />
+                    </NextIntlClientProvider>
                     <NextScript />
                 </body>
                 {/* Polyfill for CSS scroll-timeline */}

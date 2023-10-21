@@ -2,7 +2,7 @@ import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
 import Image from 'next/image';
 
-import { allSubPages } from "/.contentlayer/generated";
+import { allSubPages, allPages } from "/.contentlayer/generated";
 import Layout from '../../components/Layout';
 
 import ReactMarkdown from "react-markdown";
@@ -12,10 +12,13 @@ export default function NewsPage({ page }) {
   const router = useRouter()
   const { locale, locales, defaultLocale } = router
 
+  console.log(locale, 'locale from routerr -----------------------')
   console.log(locales, 'locales from routerr -----------------------')
+  console.log(defaultLocale, 'defaultLocale from routerr -----------------------')
+
 
   // debugger
-  const date = new Date(page.date)
+  // const date = new Date(page.date)
 
   return (
     <>
@@ -63,43 +66,12 @@ export default function NewsPage({ page }) {
 
 
 // export async function getStaticPaths({ locales }) {
-export async function getStaticPaths({ locales }) {
+export async function getStaticPaths({ locales = ['en', 'pt'] }) {
 
+  const testPage = allPages.find(page => page.slug === "contact");
+  console.log(testPage)
 
-  // get all the post slug
-  // const publish = allPages.map((page) => ({ params: { slug: page.slug } }))
-
-
-  const testPage = allSubPages.filter(
-    (page, i) => {
-      return page.slug === page.slug
-    }
-  )
-  console.log(testPage, 'pathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspathspaths')
-
-  // const paths = testPage.flatMap((page) => {
-  //   return locales.map((locale) => ({
-  //     params: {
-  //       slug: page.slug,
-  //     },
-  //     locale,
-  //   }));
-  // });
-  // const paths = []
-
-  //  filter the post and get the publish post.
-  // const page = allSubPages.filter(
-  //   (pageItem, i) => {
-  //     return pageItem.draft === false
-  //   }
-  // )
-
-  // for (const locale of locales) {
-  //   publish.push({ params: { slug: page.slug }, locale })
-  // }
-
-
-  const paths = allSubPages.flatMap((page) => {
+  const paths = allPages.flatMap((page) => {
     return locales.map((locale) => ({
       params: {
         slug: page.slug,
@@ -110,7 +82,7 @@ export async function getStaticPaths({ locales }) {
   // get all the post slug
   // const publish = allSubPages.map((page) => ({ params: { slug: page.slug } }))
 
-  console.log(paths, '========SSSSSLLLLLLUUUUUUGGGGGG=========== allSubPages new test')
+  // console.log(paths, '========SSSSSLLLLLLUUUUUUGGGGGG=========== allSubPages new test')
 
   return {
     paths,

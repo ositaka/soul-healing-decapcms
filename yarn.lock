@@ -4966,14 +4966,14 @@ next-contentlayer@^0.2.9:
     "@contentlayer/utils" "0.2.9"
 
 next-intl@^3.0.0-beta.19:
-  version "3.0.0-beta.19"
-  resolved "https://registry.npmjs.org/next-intl/-/next-intl-3.0.0-beta.19.tgz"
-  integrity sha512-F9ZZ342rDUJE3hOD2ZkKtkbeJNNUQtorN0Wnr2gThgLeeyKchbwm5KgijK4gOU66Yw91V1lRuGEcV6BMJdSaxg==
+  version "3.0.0-rc.6"
+  resolved "https://registry.npmjs.org/next-intl/-/next-intl-3.0.0-rc.6.tgz"
+  integrity sha512-Eymf9lfxiqYO6w4YkSe1gQqZMF6Y9AQIAn49uBv8z6JPSEgyelZezt7n/6qECugTVA1rbH/BslrM/jBjMvXXEQ==
   dependencies:
     "@formatjs/intl-localematcher" "^0.2.32"
     negotiator "^0.6.3"
     server-only "0.0.1"
-    use-intl "3.0.0-beta.3"
+    use-intl "3.0.0-rc.6"
 
 next-seo@^5.4.0:
   version "5.15.0"
@@ -7035,10 +7035,10 @@ use-composed-ref@^1.3.0:
   resolved "https://registry.npmjs.org/use-composed-ref/-/use-composed-ref-1.3.0.tgz"
   integrity sha512-GLMG0Jc/jiKov/3Ulid1wbv3r54K9HlMW29IWcDFPEqFkSO2nS0MuefWgMJpeHQ9YJeXDL3ZUF+P3jdXlZX/cQ==
 
-use-intl@3.0.0-beta.3:
-  version "3.0.0-beta.3"
-  resolved "https://registry.npmjs.org/use-intl/-/use-intl-3.0.0-beta.3.tgz"
-  integrity sha512-b5c9F6F3Yw7xbdIVdDBj2qh5BHntdr2Obp3c40OTxXOwqDIyjAbOxjezGe7ak8EGo0TEezyN6oPvi6aQWPjDdQ==
+use-intl@3.0.0-rc.6:
+  version "3.0.0-rc.6"
+  resolved "https://registry.npmjs.org/use-intl/-/use-intl-3.0.0-rc.6.tgz"
+  integrity sha512-vkPHZFFTrt/GnLPVn0HdCUeU+BgtitkuONa9e+XC3IeItd6RxJ28RMbAK43QI726N/CrAjds/fGjI8BF21u6Hw==
   dependencies:
     "@formatjs/ecma402-abstract" "^1.11.4"
     intl-messageformat "^9.3.18"

@@ -1,4 +1,4 @@
-import SITE_URL, { show_per_page } from "./../config";
+import SITE_URL, { show_per_page } from "../config";
 
 
 //  array sortByDate

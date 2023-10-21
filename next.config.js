@@ -16,11 +16,11 @@ const nextconfig = {
       },
     ],
   },
-  i18n: {
-    locales: ['en', 'pt'],
-    defaultLocale: 'en',
-    localeDetection: false,
-  },
+  // i18n: {
+  //   locales: ['en', 'pt'],
+  //   defaultLocale: 'en',
+  //   localeDetection: false,
+  // },
 }
 
 const withNextIntl = require("next-intl/plugin")("./i18n.js");
