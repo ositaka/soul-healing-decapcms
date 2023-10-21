@@ -41,12 +41,9 @@ export default function MorningTest({ morningTest }) {
 
 
 
-export async function getStaticPaths() {
+export async function getStaticPaths( /* { locale = ??? how do I get current locale ? } */) {
 
-
-  // get all the post slug
   const publish = allPages.map((morningTest) => ({ params: { slug: morningTest.slug, locale: 'en' } }))
-
 
   return {
     paths: publish,
@@ -56,17 +53,12 @@ export async function getStaticPaths() {
 
 
 export async function getStaticProps() {
-  // get locale from cookie
-  // console.log(locale, '----test------')
-
 
   const morningTest = await allPages.find((morningTest) => {
 
     return morningTest.slug === "morning-test" && morningTest.locale === 'en'
 
   })
-
-  // console.log(morningTest, '---------------')
 
   return { props: { morningTest } }
 }
