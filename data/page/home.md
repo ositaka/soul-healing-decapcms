@@ -60,9 +60,9 @@ section:
         link: individual
       - title: Distant Healing
         text: Distant healing is a practice where Tiago send healing energy to
-          individuals from afar, via telephone, Skype or Zoom using focused
-          intention and connection with the spirit world to promote physical and
-          emotional well-being, regardless of the patient's location.
+          individuals via telephone, Skype or Zoom using focused intention and
+          connection with the spirit world to promote physical and emotional
+          well-being, regardless of the patient's location.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
