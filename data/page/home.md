@@ -71,27 +71,26 @@ section:
         link: individual
       - title: Distant Healing
         text: Distant healing is a holistic practice focused on sending healing energy
-          or intention to individuals who are not physically present. It
-          supports their well-being, addressing physical, emotional, and
-          spiritual concerns from a distance. When conducted via telephone,
-          Skype, or Zoom, it establishes a direct connection between the healer
-          and the recipient. The session commences with a conversation, followed
-          by a relaxation period. Then, the healer aligns with healing energies
-          and initiates the formal healing process. The session often concludes
-          with additional conversation.
+          or intention to patients who are not physically present. It supports
+          their well-being, addressing physical, emotional, and spiritual
+          concerns from a distance. When conducted via telephone, Skype, or
+          Zoom, it establishes a direct connection between Tiago and the
+          recipient. The session commences with a conversation, followed by a
+          relaxation period. Then, Tiago aligns with healing energies and
+          initiates the formal healing process. The session often concludes with
+          additional conversation.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
-        text: Absent healing is a practice where the healer and the patient can be in
-          different locations. By combining thought, prayer, and intention, the
-          healer connects with the spirit world to send healing energy to the
-          patient, regardless of their physical whereabouts. The patient's
-          awareness of this process is not necessary for it to be effective.
-          Establishing a personal connection can be helpful but isn't essential.
-          Spiritual attunement, like "sitting in the power," is vital for all
-          types of Spiritualist healing, including absent healing. This method
-          transcends time and space, offering healing to anyone, no matter where
-          they are.
+        text: Absent healing is a practice where Tiago and the patient can be in
+          different locations. By combining thought, prayer, and intention, he
+          connects with the spirit world to send healing energy to the patient,
+          regardless of their physical whereabouts. The patient's awareness of
+          this process is not necessary for it to be effective. Establishing a
+          personal connection can be helpful but isn't essential. Spiritual
+          attunement, like "sitting in the power," is vital for all types of
+          Spiritualist healing, including absent healing. This method transcends
+          time and space, offering healing to anyone, no matter where they are.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
