@@ -263,6 +263,25 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'text' }
 
+      - file: 'data/page/benefits.md'
+        label: 'The Benefits'
+        name: 'The Benefits'
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - label: 'Accordion'
+            name: 'accordions'
+            widget: 'list'
+            types:
+              - label: 'Accordion Item'
+                name: 'accordion'
+                widget: 'object'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - { label: 'Content', name: 'content', widget: 'text' }
+
   - name: 'subpage'
     label: 'Sub Page'
     folder: 'data/page/subpage'

@@ -516,3 +516,57 @@ iframe {
   min-height: 900px !important;
   opacity: 1;
 }
+
+/*
+  ************************************
+  ACCORDION  *************************
+  ************************************
+*/
+
+/* Styling the accordion container */
+.accordion {
+  width: 100%;
+  max-width: 800px;
+  margin: 5% auto;
+}
+
+/* Styling the buttons (accordion section headers) */
+.accordion button {
+  background-color: #f0f0f0;
+  border: none;
+  padding: 15px 20px;
+  width: 100%;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.accordion button:hover {
+  background-color: #ddd;
+}
+
+/* Styling the content sections */
+.accordion div[role='region'] {
+  padding: 20px 30px 30px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+  display: none;
+  text-wrap: balance;
+}
+
+/* Show the open section */
+.accordion div[role='region'][aria-hidden='false'] {
+  display: block;
+}
+
+/* Adding transitions for smoother animation */
+.accordion div[role='region'] {
+  transition: max-height 0.3s;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.accordion div[role='region'][aria-hidden='false'] {
+  max-height: 200px; /* Adjust the max-height as needed */
+}

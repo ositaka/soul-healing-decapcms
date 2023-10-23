@@ -77,6 +77,23 @@ const SECTION = defineNestedType(() => ({
   },
 }))
 
+const ACCORDION = defineNestedType(() => ({
+  name: 'ACCORDION',
+  fields: {
+    type: {
+      type: 'string',
+    },
+    title: {
+      type: 'string',
+      required: false,
+    },
+    content: {
+      type: 'string',
+      required: false,
+    },
+  },
+}))
+
 const Page = defineDocumentType(() => ({
   name: 'Page',
   filePathPattern: `page/*.md`,
@@ -102,6 +119,10 @@ const Page = defineDocumentType(() => ({
     //   type: 'list',
     //   of: { type: 'string' },
     // },
+    accordions: {
+      type: 'list',
+      of: ACCORDION,
+    },
     section: {
       type: 'list',
       of: SECTION,
