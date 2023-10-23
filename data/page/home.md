@@ -56,7 +56,7 @@ section:
       name: The Healing
     title: The Healing
     items:
-      - title: Present
+      - title: Present Healing
         text: In a present healing session, also known as in-person healing, the healing
           practitioner provides hands-on or direct healing energy to the
           individual in their immediate physical presence.
