@@ -64,14 +64,14 @@ section:
         link: individual
       - title: Distant Healing
         text: Distant healing is a holistic practice focused on sending healing energy
-          or intention to individuals who are not physically present. It goes
-          beyond physical boundaries to support their well-being, addressing
-          physical, emotional, and spiritual concerns from a distance. When
-          conducted via telephone, Skype, or Zoom, it establishes a direct
-          connection between the healer and the recipient. The session commences
-          with a conversation, followed by a relaxation period. Then, the healer
-          aligns with healing energies and initiates the formal healing process.
-          The session often concludes with additional conversation.
+          or intention to individuals who are not physically present. It
+          supports their well-being, addressing physical, emotional, and
+          spiritual concerns from a distance. When conducted via telephone,
+          Skype, or Zoom, it establishes a direct connection between the healer
+          and the recipient. The session commences with a conversation, followed
+          by a relaxation period. Then, the healer aligns with healing energies
+          and initiates the formal healing process. The session often concludes
+          with additional conversation.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
