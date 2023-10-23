@@ -63,15 +63,10 @@ section:
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
       - title: Distant Healing
-        text: Distant healing is a holistic practice focused on sending healing energy
-          or intention to patients who are not physically present. It supports
-          their well-being, addressing physical, emotional, and spiritual
-          concerns from a distance. When conducted via telephone, Skype, or
-          Zoom, it establishes a direct connection between Tiago and the
-          recipient. The session commences with a conversation, followed by a
-          relaxation period. Then, Tiago aligns with healing energies and
-          initiates the formal healing process. The session often concludes with
-          additional conversation.
+        text: Distant healing is a practice where Tiago send healing energy to
+          individuals from afar, via telephone, Skype or Zoom using focused
+          intention and connection with the spirit world to promote physical and
+          emotional well-being, regardless of the patient's location.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
