@@ -44,7 +44,7 @@ section:
       Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. As the Golden Light appears, ascending towards the sky.  
 
 
-      **The Healing Sanctuary**  
+      **The Healing Place**  
 
 
       You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
