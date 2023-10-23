@@ -70,15 +70,11 @@ section:
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
-        text: Absent healing is a practice where Tiago and the patient can be in
-          different locations. By combining thought, prayer, and intention, he
-          connects with the spirit world to send healing energy to the patient,
-          regardless of their physical whereabouts. The patient's awareness of
-          this process is not necessary for it to be effective. Establishing a
-          personal connection can be helpful but isn't essential. Spiritual
-          attunement, like "sitting in the power," is vital for all types of
-          Spiritualist healing, including absent healing. This method transcends
-          time and space, offering healing to anyone, no matter where they are.
+        text: Absent healing occurs when Tiago connects with the spirit world and sends
+          healing energy to the patient, regardless of their physical location.
+          The healing is effective through the healer's intention and transcends
+          the boundaries of time and space, promoting emotional and physical
+          well-being.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
