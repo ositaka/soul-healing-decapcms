@@ -1,4 +1,5 @@
 import { NextSeo } from 'next-seo';
+import Image from 'next/image';
 import { ImageUrl } from '../../utils'
 import { allPages } from "/.contentlayer/generated";
 import Layout from '../../components/Layout';
@@ -34,6 +35,11 @@ export default function Benefits({ benefits }) {
             <p>{benefits.description}</p>
             <Accordion accordions={benefits.accordions} />
           </div>
+          {/* {benefits.image &&
+            <div className='section__image'>
+              <Image width={1200} height={1800} src={benefits.image} alt="..." sizes="(min-width: 1000px) calc(39vw + 30px), 92.06vw" placeholder="blur" blurDataURL={`${benefits.image}? w = 64 & q= 60`}
+              />
+            </div>} */}
         </section>
       </Layout>
     </>

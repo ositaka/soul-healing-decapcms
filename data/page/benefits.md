@@ -3,6 +3,7 @@ slug: benefits
 title: Discover the Benefits
 description: Can have or not a description at the top. But it is always welcome
   an introductory text.
+image: /images/photo_2023-09-25-15.56.48.jpeg
 accordions:
   - type: accordion
     title: Title new

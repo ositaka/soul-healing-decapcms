@@ -77,7 +77,7 @@ export default function Home({ home }) {
 
                     <h2>{section.title}</h2>
 
-                    <div>
+                    <div class="testimonials__slider">
                       <ReactSimplyCarousel
                         activeSlideIndex={activeSlideIndex}
                         onRequestChange={setActiveSlideIndex}
