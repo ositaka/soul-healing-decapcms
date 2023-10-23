@@ -75,14 +75,16 @@ section:
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
       - title: "Absent Healing "
-        text: >-
-          Absent healing is a practice that sends healing energy to individuals
-          who are not physically present. It goes beyond geographical
-          limitations, highlighting the significance of intention, energy, and
-          the mind-body-spirit connection in the healing journey.
-
-
-          This form of healing knows no boundaries, as it can be sent across any distance. You can request distant healing for yourself, a loved one, or even a pet through methods like letters, emails, or our website. Your message will be received by our healing team, who will then seek assistance through the healing directive.
+        text: Absent healing is a practice where the healer and the patient can be in
+          different locations. By combining thought, prayer, and intention, the
+          healer connects with the spirit world to send healing energy to the
+          patient, regardless of their physical whereabouts. The patient's
+          awareness of this process is not necessary for it to be effective.
+          Establishing a personal connection can be helpful but isn't essential.
+          Spiritual attunement, like "sitting in the power," is vital for all
+          types of Spiritualist healing, including absent healing. This method
+          transcends time and space, offering healing to anyone, no matter where
+          they are.
         link: absent-healing
         image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
