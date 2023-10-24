@@ -90,6 +90,9 @@ section:
 
 
       Letting go of negative thoughts and limiting beliefs leads to personal growth. You'll find relief from pain and experience a surge of creativity. The healing aligns you with your soul's purpose, enhances your intuition, and makes you more aware. It brings a sense of lightness, ease, and positive changes to your life, making your mind and body work together harmoniously.
+
+
+      **[Discover all the benefits →](/benefits/)**
     image: /images/zac-durant-_6hzpu9hyfg-unsplash.jpg
     image_position: Left
   - type: text_image
