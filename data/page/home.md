@@ -56,10 +56,10 @@ section:
       name: The Healing
     title: The Healing
     items:
-      - title: Contact Healing
-        text: In-person healing involves direct, hands-on healing techniques and
-          interaction between Tiago and the patient in the same physical
-          location.
+      - title: Energy Healing
+        text: Our experienced practitioners channel the Divine Intelligence to provide
+          you with what you need at this moment. Allow your mind to wander as
+          you embark on a healing journey infused with golden light.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
       - title: Distant Healing
