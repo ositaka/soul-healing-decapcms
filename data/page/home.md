@@ -8,7 +8,7 @@ section:
     main_menu:
       show: false
       name: Welcome
-    title: Welcome to The Golden Healing - Your Path to Spiritual Wellness
+    title: "Welcome to The Golden Healing "
     text: >-
       Step onto this illuminated path to connect deeply with the boundless
       wisdom of Divine Infinity.
