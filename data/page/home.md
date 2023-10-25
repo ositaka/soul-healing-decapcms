@@ -10,10 +10,17 @@ section:
       name: Welcome
     title: Welcome to The Golden Healing - Your Path to Spiritual Wellness
     text: >-
-      At The Golden Healing, we are dedicated to nurturing the radiant essence
-      within you and illuminating your spiritual journey. Our platform offers a
-      sanctuary where the healing power of golden light converges with your
-      inner energy, facilitating profound transformation and rejuvenation.
+      Step onto this illuminated path to connect deeply with the boundless
+      wisdom of Divine Infinity.
+
+
+      This sacred voyage is your portal to infuse your life with profound happiness and unfiltered joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony.
+
+
+      As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
+
+
+      With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
 
 
       **[Vision and Mission →](/vision-and-mission/)**
@@ -56,10 +63,11 @@ section:
       name: The Healing
     title: The Healing
     items:
-      - title: Energy Healing
-        text: Our experienced practitioners channel the Divine Intelligence to provide
-          you with what you need at this moment. Allow your mind to wander as
-          you embark on a healing journey infused with golden light.
+      - title: "In-Person Healing "
+        text: Experience the power of The Golden Healing in a face-to-face setting. Our
+          in-person sessions provide direct interaction with our facilitator,
+          who will channel the Divine Intelligence to promote your well-being.
+          To book an in-person session, please contact us.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
       - title: Distant Healing
