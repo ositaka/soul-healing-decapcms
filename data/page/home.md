@@ -8,19 +8,12 @@ section:
     main_menu:
       show: false
       name: Welcome
-    title: Welcome to The Golden Healing!
+    title: Welcome to The Golden Healing - Your Path to Spiritual Wellness
     text: >-
-      Step onto this illuminated path to connect deeply with the boundless
-      wisdom of Divine Infinity.
-
-
-      This sacred voyage is your portal to infuse your life with profound happiness and unfiltered joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony.
-
-
-      As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
-
-
-      With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
+      At The Golden Healing, we are dedicated to nurturing the radiant essence
+      within you and illuminating your spiritual journey. Our platform offers a
+      sanctuary where the healing power of golden light converges with your
+      inner energy, facilitating profound transformation and rejuvenation.
 
 
       **[Vision and Mission →](/vision-and-mission/)**
