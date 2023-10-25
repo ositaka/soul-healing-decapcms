@@ -32,22 +32,29 @@ section:
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
     title: The Journey
     text: >-
-      **How does The Golden Healing work?** 
+      **Discover The Golden Healing Experience** 
 
 
       Through an altered state of consciousness, Tiago accesses the Healers in the Spiritual World and channels the Divine Intelligence, that gives you what you need at that moment. Let your mind wander as we embark on the Healing Journey.
 
 
-      **The Path**  
+      **The Golden Path:**
 
 
-      Imagine yourself at a tranquil forest, where a path unfolds before you, bathed in a gentle, guiding golden light. With each step, you move deeper into the woods and the guiding light grows brilliant. As the Golden Light appears, ascending towards the sky.  
+      Imagine a tranquil forest path, bathed in a gentle, guiding golden light. With each step, you venture deeper into the woods, and the golden light grows more brilliant, ascending towards the sky.
 
 
-      **The Healing Place**  
+      **The Healing Place:**
 
 
-      You reach the sanctuary of healing, a space of profound tranquillity and renewal. Here, you can find solace and rejuvenation as a golden aura surrounds you and the Healers in the Spiritual World work with you.
+      You'll reach the sanctuary of healing—a space of profound tranquillity and renewal. Here, you'll find solace and rejuvenation as a golden aura envelops you, and the Healers in the Spiritual World work with you.\
+
+      \
+
+      **Your Journey Awaits:**
+
+
+      Healing is a simple, safe, and supportive energy therapy that aims to bring balance to your mind, body, and soul. It stimulates your body's own natural healing ability and complements all forms of treatment as a non-invasive method.
     image_position: Right
   - type: section_repeatable_content
     section_type: section_repeatable_content
