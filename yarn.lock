@@ -5623,11 +5623,6 @@
     "react-input-autosize" "^3.0.0"
     "react-transition-group" "^4.3.0"
 
-"react-simply-carousel@^9.0.5":
-  "integrity" "sha512-5hegmcs73RLIyQURvOimft4Veg6zPyJGrsJ3nLTsmyDbzxwtCZGyY5w2W5uEqMdnh03k5jIqE7j1QEBUps40VA=="
-  "resolved" "https://registry.npmjs.org/react-simply-carousel/-/react-simply-carousel-9.0.5.tgz"
-  "version" "9.0.5"
-
 "react-split-pane@^0.1.85":
   "integrity" "sha512-GfXP1xSzLMcLJI5BM36Vh7GgZBpy+U/X0no+VM3fxayv+p1Jly5HpMofZJraeaMl73b3hvlr+N9zJKvLB/uz9w=="
   "resolved" "https://registry.npmjs.org/react-split-pane/-/react-split-pane-0.1.92.tgz"
@@ -6493,6 +6488,11 @@
   "integrity" "sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w=="
   "resolved" "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
   "version" "1.0.0"
+
+"swiper@^11.0.3":
+  "integrity" "sha512-MyV9ooQsriAe2EibeamqewLjgCfSvl2xoyratl6S3ln5BXDL4BzlO6mxcbLMCzQL6Z60b/u0AS/nKrepL0+TAg=="
+  "resolved" "https://registry.npmjs.org/swiper/-/swiper-11.0.3.tgz"
+  "version" "11.0.3"
 
 "symbol-observable@^1.0.2", "symbol-observable@^1.0.3":
   "integrity" "sha512-e900nM8RRtGhlV36KGEU9k65K3mPb1WV70OdjfxlG2EAuM1noi/E/BaW/uMhL7bPEssK8QV57vN3esixjUvcXQ=="

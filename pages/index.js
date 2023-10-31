@@ -1,22 +1,21 @@
-import { useState } from 'react';
 import { NextSeo } from 'next-seo';
 import Layout from '../components/Layout';
-// import { sortByDate, ImageUrl, pageCount } from '../utils'
 import { allPages, allSettings } from "/.contentlayer/generated"
-// import { pick } from "@contentlayer/client";
-// import Pagnation from '../components/Pagnation';
-// import { show_per_page } from "../config"
 import Image from 'next/image';
 
 import ReactMarkdown from "react-markdown";
 import gfm from 'remark-gfm';
 // import Link from 'next/link';
 
-import ReactSimplyCarousel from 'react-simply-carousel';
+// Import Swiper React components
+import { Pagination, A11y } from 'swiper/modules';
+
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
+import 'swiper/css/pagination';
+
 
 export default function Home({ home }) {
-  const [activeSlideIndex, setActiveSlideIndex] = useState(0);
-
   const SEO = allSettings[0].seo
 
   return (
@@ -45,13 +44,11 @@ export default function Home({ home }) {
         <div className='hero-image'>
           <Image fill priority src={home.image} sizes="100vw" alt="..." />
         </div>
-        {home.section.map(section => {
+        {home.section.map((section, index) => {
           return (
             section.section_type === "section_repeatable_content" ?
               <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
                 <div className='section__content'>
-                  <h2>{section.title}</h2>
-
                   <div className='section__items'>
                     {section.items && section.items.map((item, index) => {
                       return (
@@ -77,80 +74,45 @@ export default function Home({ home }) {
 
                     <h2>{section.title}</h2>
 
-                    <div class="testimonials__slider">
-                      <ReactSimplyCarousel
-                        activeSlideIndex={activeSlideIndex}
-                        onRequestChange={setActiveSlideIndex}
-                        itemsToShow={1}
-                        itemsToScroll={1}
-                        forwardBtnProps={{
-                          //here you can also pass className, or any other button element attributes
-                          style: {
-                            alignSelf: 'center',
-                            background: 'black',
-                            border: 'none',
-                            borderRadius: '50%',
-                            color: 'white',
-                            cursor: 'pointer',
-                            fontSize: '20px',
-                            height: 30,
-                            lineHeight: 1,
-                            textAlign: 'center',
-                            width: 30,
-                          },
-                          children: <span>{`>`}</span>,
-                        }}
-                        backwardBtnProps={{
-                          //here you can also pass className, or any other button element attributes
-                          style: {
-                            alignSelf: 'center',
-                            background: 'black',
-                            border: 'none',
-                            borderRadius: '50%',
-                            color: 'white',
-                            cursor: 'pointer',
-                            fontSize: '20px',
-                            height: 30,
-                            lineHeight: 1,
-                            textAlign: 'center',
-                            width: 30,
-                          },
-                          children: <span>{`<`}</span>,
-                        }}
-                        responsiveProps={[
-                          {
-                            itemsToShow: 1,
-                            itemsToScroll: 1,
-                            minWidth: 768,
-                          },
-                        ]}
-                        speed={400}
-                        easing="ease"
+                    <div className="testimonials__slider">
+                      <Swiper
+                        modules={[Pagination, A11y]}
+                        spaceBetween={50}
+                        slidesPerView={1}
+                        pagination={{ clickable: true }}
+                        onSlideChange={() => console.log('slide change')}
+                        onSwiper={(swiper) => console.log(swiper)}
                       >
                         {section.testimonials && section.testimonials.map((testimonial, index) => {
                           return (
-                            <div key={index} style={{ minWidth: 280 }}>
+                            <SwiperSlide key={index}>
                               <blockquote>
-                                {testimonial.testimonial}
+                                <p><span>"</span> {testimonial.testimonial} <span>"</span></p>
                                 <footer>
-                                  {testimonial.link !== undefined
-                                    ? <>&mdash; &nbsp;<a href={`${testimonial.link}`}>{testimonial.author}</a></>
-                                    : <>&mdash; &nbsp;{testimonial.author}</>
-                                  }
+                                  {testimonial.image &&
+                                    <Image src={testimonial.image} alt={`Portrait of ${testimonial.author}`} width={96} height={96} />}
+
+                                  <div>
+                                    <strong>{testimonial.link !== undefined
+                                      ? <div><a href={`${testimonial.link}`}>{testimonial.author}</a></div>
+                                      : <div>{testimonial.author}</div>
+                                    }
+                                    </strong>
+                                    {testimonial.country}
+                                  </div>
                                 </footer>
                               </blockquote>
-                            </div>
+                            </SwiperSlide>
                           )
                         })}
-                      </ReactSimplyCarousel>
+                      </Swiper>
                     </div>
                   </div>
                 </section>
                 :
                 <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type + ' is-image-' + section.image_position}>
                   <div className='section__content'>
-
-                    <h2>{section.title}</h2>
+                    {index === 0 ? <h1>{section.title}</h1> : <h2>{section.title}</h2>}
                     <div>
                       <ReactMarkdown remarkPlugins={[gfm]} children={section.text?.raw} />
                     </div>

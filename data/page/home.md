@@ -132,15 +132,19 @@ section:
           aspects of my life. It has a specific signature and makes the energy
           tangible. It is one of the important encounters of my life. He will
           guide you with respect and compassion. Highly recommended.
-        author: Suzanne Cerutti, Switzerland
+        author: Suzanne Cerutti
+        country: Switzerland
         link: https://www.suzannecerutti.com/
+        image: /images/user-icon.png
       - testimonial: The healing sessions I have received have been powerful. I felt
           super relaxed and held during each session, and they clearly opened up
           my system, opened up my heart and infused me with a lot of light.
           Tiago uses a technique that goes to the core of healing. So using
           himself as a vessel, he was able to bring me to my essence. It is
           subtle, but powerful. And Tiago is a wonderful facilitator!
-        author: Karen Maessen, the Netherlands
+        author: Karen Maessen
+        country: the Netherlands
+        image: /images/user-icon.png
   - type: text_only
     section_type: text_only
     main_menu:

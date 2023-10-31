@@ -116,7 +116,7 @@ p {
 }
 
 p {
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 .header {
@@ -185,6 +185,28 @@ p {
   margin: auto;
 }
 
+.section--text_only {
+  text-align: center;
+}
+
+.section--text_only h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  text-wrap: balance;
+  letter-spacing: -0.015em;
+  margin: auto auto 1ch;
+}
+
+.section--text_only:first-of-type {
+  margin: 0 auto 50vh;
+  max-width: clamp(820px, 60vw, 980px);
+  border-radius: 8px;
+}
+
+.section--text_only:last-of-type .section__content {
+  padding-top: 10vw;
+}
+
 .section--section_repeatable_content h2 {
   font-size: clamp(36px, 10vw, 120px);
   font-weight: 200;
@@ -241,6 +263,38 @@ p {
 
 .hero-image img {
   position: fixed !important;
+}
+
+.testimonials__slider {
+  max-width: 70vw;
+}
+
+.testimonials__slider img {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.testimonials__slider blockquote,
+.testimonials__slider footer {
+  margin-top: 2rem;
+}
+
+.testimonials__slider blockquote p {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  font-style: italic;
+}
+.testimonials__slider blockquote span {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 0;
+  position: relative;
+  top: 0.5rem;
+}
+
+.testimonials__slider footer {
+  font-size: normal;
+  margin-bottom: 4rem;
 }
 
 #WhatsApp {
@@ -515,7 +569,7 @@ footer {
 p:not(footer p),
 h2,
 h3,
-#Testimonials .section__content {
+.testimonials__slider {
   animation: auto ease fade both;
   animation-timeline: view();
   animation-range: entry 30% cover 60%;
@@ -526,58 +580,4 @@ iframe {
   display: block;
   min-height: 900px !important;
   opacity: 1;
-}
-
-/*
-  ************************************
-  ACCORDION  *************************
-  ************************************
-*/
-
-/* Styling the accordion container */
-.accordion {
-  width: 100%;
-  max-width: 800px;
-  margin: 5% auto;
-}
-
-/* Styling the buttons (accordion section headers) */
-.accordion button {
-  background-color: #f0f0f0;
-  border: none;
-  padding: 15px 20px;
-  width: 100%;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-.accordion button:hover {
-  background-color: #ddd;
-}
-
-/* Styling the content sections */
-.accordion div[role='region'] {
-  padding: 20px 30px 30px;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  border-top: none;
-  display: none;
-  text-wrap: balance;
-}
-
-/* Show the open section */
-.accordion div[role='region'][aria-hidden='false'] {
-  display: block;
-}
-
-/* Adding transitions for smoother animation */
-.accordion div[role='region'] {
-  transition: max-height 0.3s;
-  max-height: 0;
-  overflow: hidden;
-}
-
-.accordion div[role='region'][aria-hidden='false'] {
-  max-height: 200px; /* Adjust the max-height as needed */
 }
