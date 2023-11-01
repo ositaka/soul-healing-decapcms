@@ -49,6 +49,8 @@ export default function Home({ home }) {
             section.section_type === "section_repeatable_content" ?
               <section key={section.title} id={section.main_menu?.name} className={'section section--' + section.section_type}>
                 <div className='section__content'>
+                  <h2>{section.title}</h2>
+
                   <div className='section__items'>
                     {section.items && section.items.map((item, index) => {
                       return (
