@@ -1,0 +1,28 @@
+#WhatsApp {
+  position: fixed;
+  bottom: clamp(12px, 5vw, 48px);
+  right: clamp(12px, 5vw, 48px);
+  z-index: 1;
+}
+
+#WhatsApp span {
+  visibility: hidden;
+  font-size: 0;
+}
+
+@media (max-width: 68rem) {
+  #WhatsApp {
+    opacity: 0;
+    animation: fade 4s ease forwards;
+  }
+
+  #WhatsApp {
+    animation-delay: 5s;
+  }
+}
+
+@keyframes fade {
+  to {
+    opacity: 1;
+  }
+}

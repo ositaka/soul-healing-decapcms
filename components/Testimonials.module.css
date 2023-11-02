@@ -1,0 +1,36 @@
+.testimonials__slider {
+  --swiper-theme-color: var(--accent-color);
+  --swiper-pagination-bullet-size: 16px;
+  --swiper-pagination-bullet-horizontal-gap: 6px;
+
+  max-width: 80vw;
+}
+
+.testimonials__slider blockquote,
+.testimonials__slider footer {
+  margin-top: 2rem;
+}
+
+.testimonials__slider blockquote p {
+  font-size: clamp(1rem, 5vw, 1.5rem);
+  line-height: 1.6;
+  font-style: italic;
+}
+.testimonials__slider blockquote span {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 0;
+  position: relative;
+  top: 0.5rem;
+  opacity: 0.4;
+}
+
+.testimonials__slider footer {
+  font-size: normal;
+  margin-bottom: 4rem;
+}
+
+.testimonials__slider img {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}

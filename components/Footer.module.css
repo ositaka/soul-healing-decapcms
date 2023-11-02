@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  background-color: #222;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.footer p {
+  margin: 0;
+}

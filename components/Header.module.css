@@ -1,0 +1,182 @@
+.header {
+  color: #222;
+  padding: 0 5%;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background: rgba(251, 251, 253, 0.8);
+  position: fixed;
+  width: 100vw !important;
+  top: 0;
+  z-index: 2;
+  height: var(--header-height);
+}
+
+.header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: var(--header-height);
+  min-height: var(--header-height);
+  width: 100%;
+  margin: auto;
+}
+
+.navigation {
+  overflow: hidden;
+}
+
+.navigation a {
+  color: #555;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none;
+}
+
+@media (max-width: 68rem) {
+  .navigation button {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 5%;
+    border: 0;
+    height: 32px;
+    width: 32px;
+    background: none;
+    color: currentColor;
+    font-size: 0rem;
+    padding: 0;
+    transition: 0.2s 0.5s color ease-in-out;
+  }
+  .navigation button svg {
+    display: block;
+    pointer-events: none;
+    stroke: currentcolor;
+    vertical-align: middle;
+    height: 32px;
+    width: 32px;
+    transition: 0.2s 0.5s stroke ease-in-out;
+  }
+  .navigation button::before {
+    content: '';
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0;
+    left: calc(-130vmax + 50%);
+    top: calc(-130vmax + 50%);
+    width: 260vmax;
+    height: 260vmax;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    background: rgba(251, 251, 253, 0.9);
+    display: block;
+    z-index: -1;
+    transform: scale3d(0, 0, 0);
+    transform-origin: 50% 50%;
+    transition: 0.5s ease-in-out transform, 0.2s 0.4s ease-in-out opacity;
+  }
+  .navigation button[aria-expanded='true'] {
+    color: #222;
+  }
+  .navigation button[aria-expanded='true']::before {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+    transition: 0.5s ease-in-out transform, 0.1s ease-in-out opacity;
+  }
+  .navigation .menu {
+    pointer-events: none;
+    list-style: none;
+    width: 100%;
+    min-height: 100lvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 4ch;
+    padding-bottom: 8ch;
+  }
+  .navigation .menu a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #222;
+    display: block;
+    position: relative;
+    transform: translateY(-30px);
+    width: 100vw;
+    opacity: 0;
+    transition: opacity 0.3s ease-out, transform 1s ease-out;
+  }
+  .open .menu li:nth-child(1) a {
+    transition-delay: 0.2s;
+  }
+  .open .menu li:nth-child(2) a {
+    transition-delay: 0.25s;
+  }
+  .open .menu li:nth-child(3) a {
+    transition-delay: 0.3s;
+  }
+  .open .menu li:nth-child(4) a {
+    transition-delay: 0.35s;
+  }
+  .open .menu li:nth-child(5) a {
+    transition-delay: 0.4s;
+  }
+  .open .menu li:nth-child(6) a {
+    transition-delay: 0.45s;
+  }
+  .open .menu li:nth-child(7) a {
+    transition-delay: 0.5s;
+  }
+  .open .menu li:nth-child(8) a {
+    transition-delay: 0.55s;
+  }
+  .open .menu {
+    pointer-events: all;
+  }
+  .open .menu a {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .navigation a {
+    transform: translateY(0);
+    transition: opacity 0.4 ease-out;
+    transition-delay: 0;
+  }
+}
+
+@media (min-width: 68rem) {
+  .navigation button {
+    display: none;
+  }
+  .menu {
+    display: flex !important;
+    width: auto;
+    height: var(--header-height);
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+  }
+  .menu li a {
+    pointer-events: all;
+    opacity: 1;
+    transform: translateY(0);
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+    transition: background 0.25s ease-out;
+  }
+  .menu li a:hover,
+  .menu li a:focus {
+    background-size: 100% 100%;
+  }
+  .menu li:has(.button) {
+    margin-left: 1.2ch;
+  }
+}

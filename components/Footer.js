@@ -1,5 +1,9 @@
+import classes from './Footer.module.css'
+
 export default function Footer() {
-  return <footer className="py-5 bg-dark">
-    <div className="container"><p className="m-0 text-center text-white">Copyright &copy; 2023</p></div>
-  </footer>
+  return (
+    <footer className={classes.footer}>
+      <p>Copyright &copy; 2023</p>
+    </footer>
+  )
 }

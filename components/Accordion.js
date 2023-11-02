@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 export default function Accordion({ accordions }) {
-
   const [activeAccordion, setActiveAccordion] = useState(null);
 
   const handleAccordionClick = (accordionIndex) => {
