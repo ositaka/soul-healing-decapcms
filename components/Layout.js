@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion'
-import Header from './Header'
 
 const Layout = ({ children }) => (
   <>
@@ -13,7 +12,6 @@ const Layout = ({ children }) => (
         damping: 30,
       }}
     >
-      <Header />
       {children}
     </motion.main>
   </>

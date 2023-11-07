@@ -13,6 +13,7 @@
 
 html {
   scroll-behavior: smooth;
+  -webkit-hyphens: auto;
   hyphens: auto;
 }
 
@@ -92,6 +93,12 @@ p {
   display: none;
 }
 
+iframe {
+  display: block;
+  min-height: 900px !important;
+  opacity: 1;
+}
+
 @media (max-width: 68rem) {
   .hero-image img {
     animation: zoomOut 4s ease forwards;
@@ -105,10 +112,4 @@ p {
   to {
     scale: 1;
   }
-}
-
-iframe {
-  display: block;
-  min-height: 900px !important;
-  opacity: 1;
 }

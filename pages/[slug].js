@@ -34,20 +34,18 @@ export default function NewsPage({ page }) {
         }}
       />
       <Layout>
-        <div className="container my-5">
-          <div className="row">
-            <div className="col-lg-10 m-auto">
-              <button type="button" style={{ "padding": "8px 16px" }} onClick={() => router.back()}>&larr; Back</button>
-              <br></br>
-              <br></br>
-              <br></br>
-              <h1>{page.title}</h1>
-              <ReactMarkdown className='' remarkPlugins={[gfm]} children={page.body?.raw} />
-
+        <section className="section section--text_only">
+          <div className="section__content">
+            <h1>{page.title}</h1>
+            <ReactMarkdown className='' remarkPlugins={[gfm]} children={page.body?.raw} />
+            <br></br>
+            <br></br>
+            <div>
+              <button type="button" style={{ "padding": "1rem 2rem" }} onClick={() => router.back()}>&larr; Back</button>
             </div>
           </div>
 
-        </div>
+        </section>
         {/* <div className='image'>
           <Image fill priority src={page.image} sizes="100vw" alt="..." />
         </div> */}
