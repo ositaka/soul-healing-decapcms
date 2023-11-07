@@ -14,7 +14,7 @@ section:
       wisdom of Divine Infinity.
 
 
-      This sacred voyage is your portal to infuse your life with profound happiness and unfiltered joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony.
+      This sacred voyage is your portal to infuse your life with profound happiness and joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony.
 
 
       As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
