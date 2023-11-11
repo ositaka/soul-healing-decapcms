@@ -118,7 +118,7 @@ section:
 
 
       Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
-    image: /images/5161de52-be5b-493c-8106-34d916ee8674.jpeg
+    image: /images/img_0396.jpg
     image_position: Right
   - type: testimonials
     section_type: testimonials
