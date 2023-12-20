@@ -63,7 +63,7 @@ section:
       name: The Healing
     title: The Healing
     items:
-      - title: "In-Person Healing "
+      - title: In-Person Healing
         text: Experience the power of The Golden Healing in a face-to-face setting. Our
           in-person sessions provide direct interaction with our facilitator,
           who will channel the Divine Intelligence to promote your well-being.
@@ -77,14 +77,6 @@ section:
           well-being, regardless of the patient's location.
         image: /images/roos_no_prompt_a8088f14-d7ae-4c3a-b3b0-7999588abe5f.png
         link: group
-      - title: "Absent Healing "
-        text: Absent healing occurs when Tiago connects with the spirit world and sends
-          healing energy to the patient, regardless of their physical location.
-          The healing is effective through the healer's intention and transcends
-          the boundaries of time and space, promoting emotional and physical
-          well-being.
-        link: absent-healing
-        image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
     main_menu:
@@ -118,7 +110,7 @@ section:
 
 
       Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
-    image: /images/img_0396.jpg
+    image: /images/923b0f6f-858c-4dd6-86d9-14d812f82925.jpeg
     image_position: Right
   - type: testimonials
     section_type: testimonials
