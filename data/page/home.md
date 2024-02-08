@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/design-sem-nome.jpg
+image: /images/f88b4a8f-e500-4215-b941-1958f394fcb0.jpeg
 section:
   - type: text_only
     section_type: text_only
@@ -10,11 +10,11 @@ section:
       name: Welcome
     title: "Welcome to The Golden Healing "
     text: >-
-      Step onto this illuminated path to connect deeply with the boundless
-      wisdom of Divine Infinity.
+      Step onto this illuminated path to connect deeply with the wisdom of
+      Divine Infinity.
 
 
-      This sacred voyage is your portal to infuse your life with profound happiness and joy. Picture yourself wrapped in the warm embrace of love, surrounded by the sweet melodies of laughter and the gentle harmony.
+      This sacred journey is your portal to infuse your life with profound harmony within. Picture yourself wrapped in the warm embrace of universal love, surrounded by the melodies of laughter and the gentle harmony.
 
 
       As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
