@@ -30,28 +30,22 @@ section:
       show: true
       name: The Journey
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
-    title: The Journey
+    title: The Journey Through
     text: >-
-      **Discover The Golden Healing Experience** 
-
-
-      Through an altered state of consciousness, Tiago accesses the Healers in the Spiritual World and channels the Divine Intelligence, that gives you what you need at that moment. Let your mind wander as we embark on the Healing Journey.
-
-
-      **The Golden Path:**
+      **The Golden Path**
 
 
       Imagine a tranquil forest path, bathed in a gentle, guiding golden light. With each step, you venture deeper into the woods, and the golden light grows more brilliant, ascending towards the sky.
 
 
-      **The Healing Place:**
+      **The Healing Place**
 
 
       You'll reach the sanctuary of healing—a space of profound tranquillity and renewal. Here, you'll find solace and rejuvenation as a golden aura envelops you, and the Healers in the Spiritual World work with you.\
 
       \
 
-      **Your Journey Awaits:**
+      **Your Journey Awaits**
 
 
       Healing is a simple, safe, and supportive energy therapy that aims to bring balance to your mind, body, and soul. It stimulates your body's own natural healing ability and complements all forms of treatment as a non-invasive method.
@@ -70,7 +64,7 @@ section:
           To book an in-person session, please contact us.
         image: /images/roos_two_persons_sitting_channeling_healing_golden_light_c4ba8935-207a-4d9c-80f3-0b811e399004.png
         link: individual
-      - title: "Distant "
+      - title: "Remotely "
         text: Distant healing is a practice where Tiago send healing energy to
           individuals via telephone, Skype or Zoom using focused intention and
           connection with the spirit world to promote physical and emotional
