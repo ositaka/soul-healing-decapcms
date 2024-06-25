@@ -136,10 +136,14 @@ section:
       show: true
       name: Connect
     title: "Connect "
-    text: |-
-      Tiago Araújo 
+    text: >-
+      \
+
+      Contact Tiago today to learn more about his services or to schedule a healing session. He is here to support you on your journey to wholeness.
+
 
       hello@thegoldenhealing.online 
+
 
       +351 913 333 210
 ---
