@@ -12,7 +12,7 @@ section:
     text: >-
       Step onto this illuminated path to connect deeply with the wisdom of
       Divine Infinity. This journey infuses your life with profound inner
-      harmony. Picture yourself embraced by universal love, surrounded by
+      harmony. Imagine yourself embraced by universal love, surrounded by
       laughter and gentle harmony.
 
 
