@@ -89,22 +89,6 @@ section:
       Letting go of negative thoughts and limiting beliefs leads to personal growth. You'll find relief from pain and experience a surge of creativity. The healing aligns you with your soul's purpose, enhances your intuition, and makes you more aware. It brings a sense of lightness, ease, and positive changes to your life, making your mind and body work together harmoniously.
     image: /images/zac-durant-_6hzpu9hyfg-unsplash.jpg
     image_position: Left
-  - type: text_image
-    section_type: text_image
-    main_menu:
-      show: true
-      name: About Tiago
-    title: About Tiago
-    text: >-
-      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
-      from various modalities of energy healing. He is a channel for Divine
-      connection from the centre of the heart, the place of unconditional love
-      and Divine light.
-
-
-      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
-    image: /images/ce739c39-8f88-41cd-b456-96fb6e3eff4f.jpeg
-    image_position: Right
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -130,12 +114,32 @@ section:
         author: Karen Maessen
         country: the Netherlands
         image: /images/user-icon.png
+  - type: text_image
+    section_type: text_image
+    main_menu:
+      show: true
+      name: About Tiago
+    title: About Tiago
+    text: >-
+      Tiago Araújo is an intuitive facilitator of healing whose synergy comes
+      from various modalities of energy healing. He is a channel for Divine
+      connection from the centre of the heart, the place of unconditional love
+      and Divine light.
+
+
+      Tiago works with individuals and groups to help them unlock their inner wisdom, and ignite their inner light. He firmly believes that everyone has the power to heal themselves and that his role is simply to facilitate and support you on your journey. Tiago’s approach is rooted in love, compassion, and acceptance.
+    image: /images/ce739c39-8f88-41cd-b456-96fb6e3eff4f.jpeg
+    image_position: Right
   - type: text_only
     section_type: text_only
     main_menu:
       show: true
       name: Connect
     title: "Connect "
-    text: Contact Tiago today to learn more about his services or to schedule a
-      healing session. He is here to support you on your journey to wholeness.
+    text: |-
+      Tiago Araújo 
+
+      hello@thegoldenhealing.online 
+
+      +351 913 333 210
 ---
