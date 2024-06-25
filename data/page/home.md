@@ -11,16 +11,15 @@ section:
     title: "Welcome to The Golden Healing "
     text: >-
       Step onto this illuminated path to connect deeply with the wisdom of
-      Divine Infinity.
+      Divine Infinity. This journey infuses your life with profound inner
+      harmony. Picture yourself embraced by universal love, surrounded by
+      laughter and gentle harmony.
 
 
-      This sacred journey is your portal to infuse your life with profound harmony within. Picture yourself wrapped in the warm embrace of universal love, surrounded by the melodies of laughter and the gentle harmony.
+      As you explore the comforting golden light, you’ll feel serene, heart-centered, and aligned with your soul’s purpose. This harmony will amplify your intuition and awareness. Each step on this radiant path brings a sense of ease and grace, as if you’re carried effortlessly.
 
 
-      As you explore the comforting glow of the golden light, you'll experience an overwhelming sense of serenity, heart-centeredness, and an unwavering alignment with your soul's purpose. This harmonious resonance will amplify your intuitive abilities and heighten your awareness of the world around you.
-
-
-      With each step on this radiant path, you'll feel a weightlessness, as if you're carried effortlessly by a current of ease and grace. Embrace this journey, embrace the golden light, and let it lead you to a life filled with love, joy, and the essence of the Divine. Welcome to a life of ease and flow.
+      Embrace the golden light and let it lead you to a life filled with love, joy, and divine essence. Welcome to a life of ease and flow.
 
 
       **[Vision and Mission →](/vision-and-mission/)**
