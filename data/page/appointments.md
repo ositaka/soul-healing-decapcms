@@ -1,5 +1,5 @@
 ---
 slug: appointments
-title: "Golden Transmissions "
+title: "Transmissions "
 description: " "
 ---
