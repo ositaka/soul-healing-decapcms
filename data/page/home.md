@@ -11,10 +11,10 @@ section:
       show: true
       name: "Healing Hour "
     text: >-
-      Beloved Souls gathered here in this circle of healing, I am Tiago Araújo,
-      your guide into the realm of Trance Healing. As we come together in this
-      sacred space, I feel the gentle presence of our Spirit Guides, ready to
-      envelop us in their divine light and grace.
+      Beloved Souls gathered in this circle of healing, you are guided by Tiago
+      Araújo, who leads you into the realm of Trance Healing. In this sacred
+      space, Tiago feels the gentle presence of Spirit Guides, ready to envelop
+      everyone in their divine light and grace.
 
 
 
@@ -22,7 +22,7 @@ section:
       What is Trance Healing?
 
 
-      Trance Healing is a profound and sacred practice, a bridge between the physical and spiritual realms. In this space, I enter an altered state of consciousness, surrendering myself as a vessel to channel healing energies from God through the loving guidance of my Spirit Guides. This is not just a technique—it is a dance of trust and connection, a blending of energies that allows the spirit world to work through me to bring forth healing that touches the deepest parts of your being.
+      Trance Healing is a profound and sacred practice, acting as a bridge between the physical and spiritual realms. Tiago enters an altered state of consciousness, surrendering as a vessel to channel healing energies from God through the loving guidance of Spirit Guides. This practice is not merely a technique but a dance of trust and connection, blending energies that allow the spirit world to work through Tiago, bringing forth healing that touches the deepest parts of one's being.
 
 
 
@@ -30,7 +30,7 @@ section:
       A Unique Connection with the Spirit World
 
 
-      Through years of devotion, I have cultivated a special relationship with my spirit controls—those benevolent guides who assist me in this work. This bond allows for a sharper, more precise flow of healing power, tailored to your unique needs. Whether your wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than my own.
+      Through years of devotion, Tiago has cultivated a special relationship with spirit controls—benevolent guides assisting in this work. This bond allows for a sharper, more precise flow of healing power, tailored to each individual's unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago's own.
 
 
 
@@ -38,13 +38,15 @@ section:
       No Words Needed, Only Presence
 
 
-      One of the gifts of Trance Healing is its gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this circle, we hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After our session, if you wish to share or discuss your experience, we are here to listen with open hearts—but the choice is always yours.
+      One of the gifts of Trance Healing is its gentle, non-intrusive nature. There is no need to speak of medical conditions or the reasons for seeking healing, though the circle holds space for sharing if one feels called to do so. The energy listens to the silent language of the soul, finding its way to serve best. After the session, Tiago is there to listen with an open heart if one wishes to share or discuss their experience—but the choice is always yours.
 
 
-      \
-       A Space of Possibility, Not Promises
 
-      Many have found solace, transformation, and renewal through Trance Healing in our circle, yet I must humbly acknowledge that each journey is unique. While the spirit world offers boundless love and possibility, I make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and I always encourage you to seek medical advice when needed.
+
+      A Space of Possibility, Not Promises
+
+
+      Many have found solace, transformation, and renewal through Trance Healing in this circle, yet Tiago humbly acknowledges that each journey is unique. While the spirit world offers boundless love and possibility, Tiago makes no promises of specific outcomes. This practice is a companion to well-being, not a replacement for professional medical care, and Tiago always encourages seeking medical advice when needed.
 
 
 
@@ -52,20 +54,18 @@ section:
       An Invitation to Receive
 
 
-      Here, in this healing circle, we create a sanctuary of peace and support. Trance Healing blends beautifully with the collective energy we generate together—through our shared intentions, our breaths, and our open hearts. In this sacred hour, I invite you to simply be present. Feel the connection with those around you, and open your heart to the infinite love that surrounds us. Allow the energies of the spirit world to flow through you, to uplift and restore you in ways that words cannot fully capture.
+      In this healing circle, a sanctuary of peace and support is created. Trance Healing blends beautifully with the collective energy generated together—through shared intentions, breaths, and open hearts. Tiago invites everyone to simply be present, feel the connection with those around them, and open their hearts to the infinite love that surrounds them. The energies of the spirit world flow through attendees, uplifting and restoring them in ways that words cannot fully capture.
 
 
-      \
+
 
       Let Us Begin
 
 
-      As we prepare to step into this sacred space together, I ask you to close your eyes and let go of any burdens you may carry. Trust in the unseen, trust in the process, and trust in the loving support of this circle. Together, let us welcome the presence of the spirit world and embrace the great energy of spiritual healing that awaits us.
+      As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the circle. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
 
 
-
-
-      With all my love and gratitude,  
+      With all his love and gratitude,
 
 
       Tiago Araújo
