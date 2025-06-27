@@ -1,32 +1,28 @@
 ---
 title: Home
 slug: home
-image: /images/saharasunset-2.jpg
+image: /images/zac-durant-_6hzpu9hyfg-unsplash.jpg
 section:
   - type: text_only
     section_type: text_only
     main_menu:
       show: false
-    text: Welcome to a sacred space where healing and connection intertwine. Join
+    text: >-
+      Welcome to a sacred space where healing and connection intertwine. Join
       Tiago Miguel in the transformative practice of Trance Healing, where a
       nurturing circle invites renewal and spiritual growth. Guided by the
       Divine Intelligence, and a gentle presence of Spirit Guides, this sacred
       gathering is enveloped in divine light and grace, fostering profound
       healing and unity.
+
+
+      \
+
+      What is Trance Healing
+
+
+      Trance Healing is a profound and sacred practice, a bridge between the physical and spiritual realms. In this space, Tiago enters an altered state of consciousness, surrendering as a vessel to channel healing energies from the Divine Intelligence through the loving guidance of Spirit Guides. This practice is not merely a technique but a dance of trust and connection, a blending energies that allows the spirit world to work through Tiago to bring forth healing that touches the deepest parts of your being.
     title: Trance Healing with Tiago
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-    text: Trance Healing is a profound and sacred practice, a bridge between the
-      physical and spiritual realms. In this space, Tiago enters an altered
-      state of consciousness, surrendering as a vessel to channel healing
-      energies from the Divine Intelligence through the loving guidance of
-      Spirit Guides. This practice is not merely a technique but a dance of
-      trust and connection, a blending energies that allows the spirit world to
-      work through Tiago to bring forth healing that touches the deepest parts
-      of your being.
-    title: What is Trance Healing
   - type: text_image
     section_type: text_image
     image_position: Left
