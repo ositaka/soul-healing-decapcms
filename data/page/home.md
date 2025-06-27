@@ -51,4 +51,18 @@ section:
       wish to share it discuss your experience, he is here to listen with open
       heart-but the choice is always yours.
     title: No Words Needed, Only Presence
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: A Space of Possibility, Not Promises
+    text: Many have found solace, transformation, and renewal through Trance Healing
+      in this session, yet Tiago humbly acknowledge that each journey is unique.
+      While the spiritual world offers boundless love and possibility, he make
+      no promises of specific outcomes. This practice is a companion to your
+      well-being, not a replacement for professional medical care, and he always
+      encourage you to seek medical advice when needed.
+    title: A Space of Possibility, Not Promises
+    image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
 ---
