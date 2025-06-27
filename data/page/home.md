@@ -38,4 +38,17 @@ section:
       tailored to your unique needs. Whether wounds are of the body, heart,
       mind, or spirit, the energy flows where it is most needed, guided by a
       wisdom far greater than Tiago's own.
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+      name: No Words Needed, Only Presence 
+    text: One of the gifts of Trance Healing is it’s gentle, non-intrusive nature.
+      You need not speak of your medical conditions or the reasons you seek
+      healing, though in this healing, Tiago hold space for sharing if you feel
+      called to do so. The energy listens to the silent language of your soul,
+      finding its way to where it can serve you best. After the session, if you
+      wish to share it discuss your experience, he is here to listen with open
+      heart-but the choice is always yours.
+    title: No Words Needed, Only Presence
 ---
