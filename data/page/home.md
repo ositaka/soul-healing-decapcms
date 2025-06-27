@@ -18,8 +18,7 @@ section:
     section_type: text_only
     main_menu:
       show: false
-    text: >-
-      Trance Healing is a profound and sacred practice, a bridge between the
+    text: Trance Healing is a profound and sacred practice, a bridge between the
       physical and spiritual realms. In this space, Tiago enters an altered
       state of consciousness, surrendering as a vessel to channel healing
       energies from the Divine Intelligence through the loving guidance of
@@ -27,18 +26,6 @@ section:
       trust and connection, a blending energies that allows the spirit world to
       work through Tiago to bring forth healing that touches the deepest parts
       of your being.
-
-
-
-
-
-      **A Unique Connection with the Spirit World**
-
-
-
-
-
-      Through years of devotion, Tiago has cultivated a special relationship with spirit controls—those benevolent guides who assist him in this work. This bond allows for a sharper, more precise flow of healing power, tailored to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago's own.
     title: What is Trance Healing
   - type: text_image
     section_type: text_image
@@ -48,23 +35,27 @@ section:
       show: false
       name: No Words Needed, Only Presence
     text: >-
-      One of the gifts of Trance Healing is it’s gentle, non-intrusive nature.
-      You need not speak of your medical conditions or the reasons you seek
-      healing, though in this healing, Tiago hold space for sharing if you feel
-      called to do so. The energy listens to the silent language of your soul,
-      finding its way to where it can serve you best. After the session, if you
-      wish to share it discuss your experience, he is here to listen with open
-      heart-but the choice is always yours.
+      Through years of devotion, Tiago has cultivated a special relationship
+      with spirit controls—those benevolent guides who assist him in this work.
+      This bond allows for a sharper, more precise flow of healing power,
+      tailored to your unique needs. Whether wounds are of the body, heart,
+      mind, or spirit, the energy flows where it is most needed, guided by a
+      wisdom far greater than Tiago's own.
 
 
+      \
 
+      **No Words Needed, Only Presence**
+
+
+      One of the gifts of Trance Healing is it’s gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this healing, Tiago hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share it discuss your experience, he is here to listen with open heart-but the choice is always yours.
 
 
       **A Space of Possibility, Not Promises** 
 
 
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
-    title: No Words Needed, Only Presence
+    title: A Unique Connection with the Spirit World
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
