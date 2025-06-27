@@ -33,7 +33,7 @@ section:
     title: A Unique Connection with the Spirit World
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
     text: Through years of devotion, Tiago has cultivated a special relationship
-      with spirit controls—those benevolent guides who assist him in this work.
+      with spirit healers—those benevolent guides who assist him in this work.
       This bond allows for a sharper, more precise flow of healing power,
       tailored to your unique needs. Whether wounds are of the body, heart,
       mind, or spirit, the energy flows where it is most needed, guided by a
