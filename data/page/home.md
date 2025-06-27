@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
+image: /images/zac-durant-_6hzpu9hyfg-unsplash.jpg
 section:
   - type: text_only
     section_type: text_only
