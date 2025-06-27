@@ -8,7 +8,7 @@ section:
     main_menu:
       show: false
     text: Welcome to a sacred space where healing and connection intertwine. Join
-      Tiago Araújo in the transformative practice of Trance Healing, where a
+      Tiago Miguel in the transformative practice of Trance Healing, where a
       nurturing circle invites renewal and spiritual growth. Guided by the
       Divine Intelligence, and a gentle presence of Spirit Guides, this sacred
       gathering is enveloped in divine light and grace, fostering profound
@@ -70,23 +70,20 @@ section:
 
 
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
-    title: 🙌
-    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-    text: >-2
-       **Let Us Begin**
+
+
+      \
+
+      **Let Us Begin**
+
 
       As we prepare to step into this sacred space together, I ask you to close your eyes and let go of any burdens you may carry. Trust in the unseen, trust in the process, and trust in your own innate capacity for healing. Together, let us welcome the presence of the spirit world and embrace the great energy of spiritual healing that awaits us.
 
 
+      With all the Love and Gratitude,  
 
 
-      With all my love and gratitude,  
-
-
-      Tiago Araújo
-    title: 💫
+      Tiago Miguel
+    title: 🙌
+    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
