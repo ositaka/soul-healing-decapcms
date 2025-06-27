@@ -1,5 +1,5 @@
 ---
 slug: appointments
-title: Online Session
-description: " For bookings contact Tiago Araújo"
+title: "Schedule a Trance Healing with Tiago "
+description: https://calendly.com/hello-thegoldenhealing
 ---
