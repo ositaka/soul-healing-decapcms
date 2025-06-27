@@ -1,5 +1,5 @@
 ---
 slug: appointments
-title: "Transmissions "
+title: Online Session
 description: " "
 ---
