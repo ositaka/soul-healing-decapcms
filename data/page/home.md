@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/roos_a_human_body_flying_through_the_universe_and_the_stars._il_dfe9449f-1222-439c-9bf9-a8cb2f11e49e.png
+image: /images/saharasunset-2.jpg
 section:
   - type: text_only
     section_type: text_only
