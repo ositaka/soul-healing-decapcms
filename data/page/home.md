@@ -78,4 +78,26 @@ section:
       them. The energies of the spirit world flow through attendees, uplifting
       and restoring them in ways that words cannot fully capture.
     title: An Invitation to Receive
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
+      name: Let Us Begin
+    text: >-
+      As preparation to step into this sacred space begins, Tiago asks everyone
+      to close their eyes and let go of any burdens they may carry. Trust in the
+      unseen, trust in the process, and trust in the loving support of the
+      circle. Together, all are welcomed into the presence of the spirit world
+      to embrace the great energy of spiritual healing that awaits.
+
+
+      \
+
+      With all the Love & Gratitude,
+
+
+      Tiago Araújo
+    title: Let Us Begin
+    image: /images/462d3bc1-09e3-40a4-b92f-b5a99bdecb19.jpeg
 ---
