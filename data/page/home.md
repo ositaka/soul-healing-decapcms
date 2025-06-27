@@ -29,8 +29,7 @@ section:
     title: What is Trance Healing
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: No Words Needed, Only Presence
@@ -63,8 +62,7 @@ section:
       encourage you to seek medical advice when needed.
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Right
     main_menu:
       show: false
       name: An Invitation to Receive
