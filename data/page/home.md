@@ -42,14 +42,14 @@ section:
 
 
       One of the gifts of Trance Healing is it’s gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this healing, Tiago hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share it discuss your experience, he is here to listen with open heart-but the choice is always yours.
-    title: 🙏🏽
+    title: "***"
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
       show: false
       name: A Space of Possibility, Not Promises 
-    title: ✨
+    title: "***"
     text: >-
       A Space of Possibility, Not Promises 
 
@@ -80,6 +80,6 @@ section:
 
 
       Tiago Miguel
-    title: 🙌
+    title: "***"
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
