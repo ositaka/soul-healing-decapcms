@@ -89,10 +89,7 @@ section:
       As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the circle. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
 
 
-
-
-
-      With all my love and gratitude,  
+      With all the Love and Gratitude,  
 
 
       Tiago Araújo
