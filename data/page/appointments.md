@@ -1,5 +1,5 @@
 ---
 slug: appointments
 title: Online Session
-description: " "
+description: " For bookings contact Tiago Araújo"
 ---
