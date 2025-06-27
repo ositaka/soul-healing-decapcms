@@ -8,11 +8,10 @@ section:
     main_menu:
       show: false
       name: Trance Healing with Tiago
-    text: At this Healing Space, Tiago Araújo welcomes all to the sacred practice of
-      Trance Healing, where a circle of healing fosters connection and renewal.
-      As participants gather in this sacred space, Tiago senses the gentle
-      presence of Spirit Guides, ready to envelop the circle in their divine
-      light and grace.
+    text: Welcome into a sacred healing with Tiago Araújo, where the gentle art of
+      Trance Healing brings renewal and connection. Surrounded by the loving
+      presence of Spirit Guides, this nurturing space radiates divine light,
+      guiding you toward peace, balance, and spiritual harmony.
     title: Trance Healing with Tiago
   - type: text_image
     section_type: text_image
