@@ -8,10 +8,10 @@ section:
     main_menu:
       show: false
       name: Trance Healing with Tiago
-    text: Welcome into a sacred healing with Tiago Araújo, where the gentle art of
-      Trance Healing brings renewal and connection. Surrounded by the loving
+    text: "### Welcome into a sacred healing with Tiago Araújo, where the gentle art
+      of Trance Healing brings renewal and connection. Surrounded by the loving
       presence of Spirit Guides, this nurturing space radiates divine light,
-      guiding you toward peace, balance, and spiritual harmony.
+      guiding you toward peace, balance, and spiritual harmony."
     title: Trance Healing with Tiago
   - type: text_image
     section_type: text_image
