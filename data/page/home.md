@@ -66,4 +66,36 @@ section:
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
     title: No Words Needed, Only Presence
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+  - type: text_image
+    section_type: text_image
+    image_position:
+      - Left
+    main_menu:
+      show: false
+      name: An Invitation to Receive
+    text: >-
+      In this healing, a sanctuary of peace and support is created. Trance
+      Healing blends beautifully with the collective energy generated
+      together—through shared intentions, breaths, and open hearts. Tiago
+      invites everyone to simply be present, feel the connection with those
+      around them, and open their hearts to the infinite love that surrounds
+      them. The energies of the spirit world flow through attendees, uplifting
+      and restoring them in ways that words cannot fully capture.
+
+
+      **Let us Begin**
+
+
+      As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the circle. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
+
+
+
+
+
+      With all my love and gratitude,  
+
+
+      Tiago Araújo
+    title: An Invitation to Receive
+    image: /images/5161de52-be5b-493c-8106-34d916ee8674.jpeg
 ---
