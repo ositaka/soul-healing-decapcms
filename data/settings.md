@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Colours "
-  description: "Colours "
+  title: "Tiago Araújo "
+  description: "Trance Healing "
   image: ""
 ---
