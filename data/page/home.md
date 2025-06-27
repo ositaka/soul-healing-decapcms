@@ -14,8 +14,7 @@ section:
     title: A Healing Circle
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: true
       name: "Healing Hour "
@@ -30,8 +29,7 @@ section:
     image: /images/722e5e28-2e1b-4d52-8bdf-a383138a9701.jpg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Right
     main_menu:
       show: false
       name: A Unique Connection with the Spirit World
@@ -45,8 +43,7 @@ section:
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: A Space of Possibility, Not Promise
@@ -60,8 +57,7 @@ section:
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Right
     main_menu:
       show: false
       name: An Invitation to Receive
@@ -76,8 +72,7 @@ section:
     image: /images/229b4f28-4b4b-4d88-bd27-90cbfbad6bfc.jpg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: Let Us Begin
