@@ -7,11 +7,13 @@ section:
     section_type: text_only
     main_menu:
       show: false
-    text: Beloved Souls gathered in this circle of healing, you are guided by Tiago
-      Araújo, who leads you into the realm of Trance Healing. In this sacred
-      space, Tiago feels the gentle presence of Spirit Guides, ready to envelop
-      everyone in their divine light and grace.
-    title: A Healing Circle
+      name: Trance Healing with Tiago
+    text: At this Healing Space, Tiago Araújo welcomes all to the sacred practice of
+      Trance Healing, where a circle of healing fosters connection and renewal.
+      As participants gather in this sacred space, Tiago senses the gentle
+      presence of Spirit Guides, ready to envelop the circle in their divine
+      light and grace.
+    title: Trance Healing with Tiago
   - type: text_image
     section_type: text_image
     image_position: Left
