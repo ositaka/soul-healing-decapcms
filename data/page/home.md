@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+image: /images/roos_a_human_body_flying_through_the_universe_and_the_stars._il_dfe9449f-1222-439c-9bf9-a8cb2f11e49e.png
 section:
   - type: text_only
     section_type: text_only
@@ -50,7 +50,7 @@ section:
 
       One of the gifts of Trance Healing is it’s gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this healing, Tiago hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share it discuss your experience, he is here to listen with open heart-but the choice is always yours.
     title: A Unique Connection with the Spirit World
-    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
@@ -77,5 +77,5 @@ section:
       well-being, not a replacement for professional medical care, and he always
       encourage you to seek medical advice when needed.
     title: An Invitation to Receive
-    image: /images/5161de52-be5b-493c-8106-34d916ee8674.jpeg
+    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
