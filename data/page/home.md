@@ -35,12 +35,10 @@ section:
       show: false
       name: No Words Needed, Only Presence
     text: >-
-      Through years of devotion, Tiago has cultivated a special relationship
-      with spirit controls—those benevolent guides who assist him in this work.
-      This bond allows for a sharper, more precise flow of healing power,
-      tailored to your unique needs. Whether wounds are of the body, heart,
-      mind, or spirit, the energy flows where it is most needed, guided by a
-      wisdom far greater than Tiago's own.
+      **Unique Connection with the Spirit World**
+
+
+      Through years of devotion, Tiago has cultivated a special relationship with spirit controls—those benevolent guides who assist him in this work. This bond allows for a sharper, more precise flow of healing power, tailored to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago's own.
 
 
       \
@@ -49,7 +47,7 @@ section:
 
 
       One of the gifts of Trance Healing is it’s gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this healing, Tiago hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share it discuss your experience, he is here to listen with open heart-but the choice is always yours.
-    title: A Unique Connection with the Spirit World
+    title: "Bridging Worlds "
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_only
     section_type: text_only
@@ -70,12 +68,11 @@ section:
     main_menu:
       show: false
       name: An Invitation to Receive
-    text: Many have found solace, transformation, and renewal through Trance Healing
-      in this session, yet Tiago humbly acknowledge that each journey is unique.
-      While the spiritual world offers boundless love and possibility, he make
-      no promises of specific outcomes. This practice is a companion to your
-      well-being, not a replacement for professional medical care, and he always
-      encourage you to seek medical advice when needed.
-    title: An Invitation to Receive
+    text: >-
+      **An Invitation to Receive**
+
+
+      Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
+    title: "Receiving "
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
