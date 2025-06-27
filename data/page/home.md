@@ -65,4 +65,17 @@ section:
       encourage you to seek medical advice when needed.
     title: A Space of Possibility, Not Promises
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+      name: An Invitation to Receive
+    text: In this healing, a sanctuary of peace and support is created. Trance
+      Healing blends beautifully with the collective energy generated
+      together—through shared intentions, breaths, and open hearts. Tiago
+      invites everyone to simply be present, feel the connection with those
+      around them, and open their hearts to the infinite love that surrounds
+      them. The energies of the spirit world flow through attendees, uplifting
+      and restoring them in ways that words cannot fully capture.
+    title: An Invitation to Receive
 ---
