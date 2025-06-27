@@ -46,20 +46,19 @@ section:
 
 
       One of the gifts of Trance Healing is it’s gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though in this healing, Tiago hold space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share it discuss your experience, he is here to listen with open heart-but the choice is always yours.
-    title: "Bridging Worlds "
+    title: 🙏🏽
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_only
     section_type: text_only
     main_menu:
       show: false
       name: A Space of Possibility, Not Promises 
-    title: A Space of Possibility, Not Promises 
-    text: Many have found solace, transformation, and renewal through Trance Healing
-      in this session, yet Tiago humbly acknowledge that each journey is unique.
-      While the spiritual world offers boundless love and possibility, he make
-      no promises of specific outcomes. This practice is a companion to your
-      well-being, not a replacement for professional medical care, and he always
-      encourage you to seek medical advice when needed.
+    title: ✨
+    text: >-
+      A Space of Possibility, Not Promises 
+
+
+      Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
   - type: text_image
     section_type: text_image
     image_position: Right
@@ -71,6 +70,6 @@ section:
 
 
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
-    title: "Receiving "
+    title: 🙌
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
