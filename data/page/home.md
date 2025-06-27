@@ -38,19 +38,6 @@ section:
       tailored to your unique needs. Whether wounds are of the body, heart,
       mind, or spirit, the energy flows where it is most needed, guided by a
       wisdom far greater than Tiago's own.
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-      name: No Words Needed, Only Presence 
-    text: One of the gifts of Trance Healing is it’s gentle, non-intrusive nature.
-      You need not speak of your medical conditions or the reasons you seek
-      healing, though in this healing, Tiago hold space for sharing if you feel
-      called to do so. The energy listens to the silent language of your soul,
-      finding its way to where it can serve you best. After the session, if you
-      wish to share it discuss your experience, he is here to listen with open
-      heart-but the choice is always yours.
-    title: No Words Needed, Only Presence
   - type: text_image
     section_type: text_image
     image_position: Right
@@ -69,6 +56,20 @@ section:
     section_type: text_only
     main_menu:
       show: false
+      name: No Words Needed, Only Presence 
+    text: One of the gifts of Trance Healing is it’s gentle, non-intrusive nature.
+      You need not speak of your medical conditions or the reasons you seek
+      healing, though in this healing, Tiago hold space for sharing if you feel
+      called to do so. The energy listens to the silent language of your soul,
+      finding its way to where it can serve you best. After the session, if you
+      wish to share it discuss your experience, he is here to listen with open
+      heart-but the choice is always yours.
+    title: No Words Needed, Only Presence
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
       name: An Invitation to Receive
     text: In this healing, a sanctuary of peace and support is created. Trance
       Healing blends beautifully with the collective energy generated
@@ -78,26 +79,18 @@ section:
       them. The energies of the spirit world flow through attendees, uplifting
       and restoring them in ways that words cannot fully capture.
     title: An Invitation to Receive
-  - type: text_image
-    section_type: text_image
-    image_position: Left
+    image: /images/462d3bc1-09e3-40a4-b92f-b5a99bdecb19.jpeg
+  - type: text_only
+    section_type: text_only
     main_menu:
       show: false
       name: Let Us Begin
-    text: >-
-      As preparation to step into this sacred space begins, Tiago asks everyone
-      to close their eyes and let go of any burdens they may carry. Trust in the
-      unseen, trust in the process, and trust in the loving support of the
-      circle. Together, all are welcomed into the presence of the spirit world
-      to embrace the great energy of spiritual healing that awaits.
-
-
-      \
-
-      With all the Love & Gratitude,
-
-
-      Tiago Araújo
+    text: In this healing, a sanctuary of peace and support is created. Trance
+      Healing blends beautifully with the collective energy generated
+      together—through shared intentions, breaths, and open hearts. Tiago
+      invites everyone to simply be present, feel the connection with those
+      around them, and open their hearts to the infinite love that surrounds
+      them. The energies of the spirit world flow through attendees, uplifting
+      and restoring them in ways that words cannot fully capture.
     title: Let Us Begin
-    image: /images/462d3bc1-09e3-40a4-b92f-b5a99bdecb19.jpeg
 ---
