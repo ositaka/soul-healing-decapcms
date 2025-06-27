@@ -32,7 +32,7 @@ section:
 
 
 
-      A Unique Connection with the Spirit World
+      **A Unique Connection with the Spirit World**
 
 
 
