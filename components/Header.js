@@ -5,11 +5,11 @@ import classes from './Header.module.css'
 import WhatsApp from './WhatsApp'
 
 export default function Header({ }) {
-  let menu = allPages.find((home) => {
-    return home.slug === 'home'
-  })
-
-  menu = menu.section
+  // let menu = allPages.find((home) => {
+  //   return home.slug === 'home'
+  // })
+  //
+  // menu = menu.section
 
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
@@ -50,21 +50,21 @@ export default function Header({ }) {
             </button>
 
             <ul id="menu" className={classes.menu} onClick={closeMenu}>
-              {menu
-                .filter((section) => section.main_menu?.show)
-                .map((section) => {
-                  return (
-                    <li key={section.main_menu.name}>
-                      <Link
-                        key={section.main_menu.name}
-                        href={'/#' + section.main_menu.name}a
-                        className=""
-                      >
-                        {section.main_menu.name}
-                      </Link>
-                    </li>
-                  )
-                })}
+              {/*{menu*/}
+              {/*  .filter((section) => section.main_menu?.show)*/}
+              {/*  .map((section) => {*/}
+              {/*    return (*/}
+              {/*      <li key={section.main_menu.name}>*/}
+              {/*        <Link*/}
+              {/*          key={section.main_menu.name}*/}
+              {/*          href={'/#' + section.main_menu.name}a*/}
+              {/*          className=""*/}
+              {/*        >*/}
+              {/*          {section.main_menu.name}*/}
+              {/*        </Link>*/}
+              {/*      </li>*/}
+              {/*    )*/}
+              {/*  })}*/}
               {/* <li><Link href="/news" className=''>News</Link></li> */}
               <li>
                 <Link
