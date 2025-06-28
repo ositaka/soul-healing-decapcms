@@ -63,16 +63,16 @@ section:
       **An Invitation to Receive**
 
 
-      In this healing space, Tiago creates a sanctuary of peace and support. Trance Healing blends beautifully with the collective energy generated together—through shared intentions, breaths, and open hearts. Tiago invites everyone to simply be present, feel the connection with those around them, and open their hearts to the infinite love that surrounds them. The energies of the spirit world flow through you, uplifting you and restoring you in ways that words cannot fully capture.
+      In this healing space, Tiago creates a sanctuary of peace and support. Trance Healing beautifully blends with the collective energy we generate together—through shared intentions, breaths, and open hearts. Tiago invites everyone to be present, to feel the connection with those around them, and to open their hearts to the infinite love that surrounds them. The energies of the spirit world flow through you, uplifting and restoring you in ways that words cannot fully convey. 
 
 
       **Let Us Begin**
 
 
-      As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the healing. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
+      As we prepare to enter this sacred space, Tiago asks everyone to close their eyes and let go of any burdens they may be carrying. Trust in the unseen, trust in the process, and trust in the loving support of the healing. Together, we are welcomed into the presence of the spirit world to embrace the powerful energy of spiritual healing that awaits. 
 
 
-      With love and gratitude,  
+      With Love and Gratitude,  
 
 
       Tiago Araújo
