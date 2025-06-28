@@ -31,7 +31,7 @@ section:
 
 
       Through years of devotion, Tiago has cultivated a special relationship with spirit controls—those benevolent guides who assist him in this work. This bond allows for a sharper, more precise flow of healing power, tailored to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago's own.
-    title: Connect
+    title: C O N N E C T
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
     section_type: text_image
@@ -50,7 +50,7 @@ section:
 
 
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
-    title: Heal
+    title: H E A L
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
@@ -77,6 +77,6 @@ section:
 
 
       Tiago Miguel
-    title: "Receive "
+    title: "R E C E I V E "
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
