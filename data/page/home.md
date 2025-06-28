@@ -58,25 +58,33 @@ section:
     main_menu:
       show: false
       name: Receive
+    title: R E C E I V E
     text: >-
       **An Invitation to Receive**
 
 
-      Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
+      In this healing space, Tiago create a sanctuary of peace and support. Trance Healing blends beautifully with the collective energy generated together—through the shared intentions, breaths, and open hearts. In this sacred hour you are invited to simply be present. Feel the connection with those around you, and open your heart to the infinite love that surrounds us. Allow the energies of the spirit world to flow through you, to uplift and restore you in ways that words cannot fully capture.
 
-
-      \
 
       **Let Us Begin**
 
 
-      As we prepare to step into this sacred space together, I ask you to close your eyes and let go of any burdens you may carry. Trust in the unseen, trust in the process, and trust in your own innate capacity for healing. Together, let us welcome the presence of the spirit world and embrace the great energy of spiritual healing that awaits us.
+      As we prepare to step into this sacred space together, I ask you to close your eyes and let go of any burdens you may carry. Trust in the unseen, trust in the process, and trust in the loving support of this circle. Together, let us welcome the presence of the spirit world and embrace the great energy of spiritual healing that awaits us.
 
 
-      With all the Love and Gratitude,  
+      With all my love and gratitude,  
 
 
-      Tiago Miguel
-    title: "R E C E I V E "
-    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
+      Tiago Araújo
+    image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+      name: Donate
+    text: >-
+      <script 
+        src="https://www.paypal.com/sdk/js?client-id=BAAQ6qozia7uNj8NsSDdJnFtiV2azivQrFKZBuyJoOyGaPYqefH2cT5A2D8lRVpO10zE9D2P-fwb8zVqwM&components=hosted-buttons&disable-funding=venmo&currency=EUR">
+      </script>
+    title: D O N A T E
 ---
