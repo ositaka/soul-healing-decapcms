@@ -33,7 +33,7 @@ section:
 
 
       Through years of devotion, Tiago has cultivated a special relationship with spirit controls—those benevolent guides who assist him in this work. This bond allows for a sharper, more precise flow of healing power, tailored to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago's own.
-    title: "***"
+    title: "**"
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
     section_type: text_image
