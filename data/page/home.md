@@ -24,7 +24,7 @@ section:
       **What is Trance Healing**
 
 
-      Trance Healing is a profound and sacred practice, serving as a bridge between the physical and spiritual realms. In this space, Tiago enters an altered state of consciousness, surrendering as a vessel to channel healing energies from the Divine Intelligence through the loving guidance of Spirit Guides. This practice is not merely a technique but a dance of trust and connection, blending energies that allow the spirit world to work through Tiago to bring forth healing that touches the deepest parts of your being.
+      Trance Healing is a profound and sacred practice, serving as a bridge between the physical and spiritual realms. In this space, Tiago enters an altered state of consciousness, surrendering as a vessel to channel healing energies from the Divine Intelligence through the guidance of Spirit Guides. This practice is not merely a technique but a dance of trust and connection, blending energies that allow the spirit world to work through Tiago to bring forth healing that touches the deepest parts of your being.
 
 
       **Unique Connection with the Spirit World**
