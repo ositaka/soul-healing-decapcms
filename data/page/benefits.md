@@ -1,7 +1,7 @@
 ---
 slug: benefits
-title: "Colours "
-description: Colours
+title: "Tiago Araújo "
+description: Trance Healing with Tiago
 image: ""
 accordions: []
 ---
