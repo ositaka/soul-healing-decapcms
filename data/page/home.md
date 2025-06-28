@@ -30,7 +30,7 @@ section:
       **Unique Connection with the Spirit World**
 
 
-      Through years of devotion, Tiago has cultivated a special relationship with the healers in the spiritual world - the guides who assist him in this work. This bond enables a sharper, more precise flow of healing power, adapting to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
+      Through years of practice, Tiago has cultivated a special relationship with the healers in the spiritual world - the guides who assist him in this work. This bond enables a sharper, more precise flow of healing power, adapting to your unique needs. Whether wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
     title: C O N N E C T
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
@@ -63,13 +63,13 @@ section:
       **An Invitation to Receive**
 
 
-      In this healing space, Tiago creates a sanctuary of peace and support. Trance Healing blends beautifully with the collective energy generated together—through shared intentions, breaths, and open hearts. Tiago invites everyone to simply be present, feel the connection with those around them, and open their hearts to the infinite love that surrounds them. The energies of the spirit world flow through, uplifting and restoring in ways that words cannot fully capture.
+      In this healing space, Tiago creates a sanctuary of peace and support. Trance Healing blends beautifully with the collective energy generated together—through shared intentions, breaths, and open hearts. Tiago invites everyone to simply be present, feel the connection with those around them, and open their hearts to the infinite love that surrounds them. The energies of the spirit world flow through you, uplifting you and restoring you in ways that words cannot fully capture.
 
 
       **Let Us Begin**
 
 
-      As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the circle. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
+      As preparation to step into this sacred space begins, Tiago asks everyone to close their eyes and let go of any burdens they may carry. Trust in the unseen, trust in the process, and trust in the loving support of the healing. Together, all are welcomed into the presence of the spirit world to embrace the great energy of spiritual healing that awaits.
 
 
       With love and gratitude,  
