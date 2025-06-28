@@ -49,39 +49,39 @@ export default function Header({ }) {
               </svg>
             </button>
 
-            <ul id="menu" className={classes.menu} onClick={closeMenu}>
-              {menu
-                .filter((section) => section.main_menu?.show)
-                .map((section) => {
-                  return (
-                    <li key={section.main_menu.name}>
-                      <Link
-                        key={section.main_menu.name}
-                        href={'/#' + section.main_menu.name}
-                        className=""
-                      >
-                        {section.main_menu.name}
-                      </Link>
-                    </li>
-                  )
-                })}
-              {/* <li><Link href="/news" className=''>News</Link></li> */}
-              <li>
-                <Link
-                  href="/appointments"
-                  className={classes.button}
-                  style={{
-                    padding: '1.3ch 1.9ch',
-                    border: '1px solid #666',
-                    borderRadius: '40px',
-                    maxWidth: '80%',
-                    margin: 'auto',
-                  }}
-                >
-                  Appointments
-                </Link>
-              </li>
-            </ul>
+            {/*<ul id="menu" className={classes.menu} onClick={closeMenu}>*/}
+            {/*  {menu*/}
+            {/*    .filter((section) => section.main_menu?.show)*/}
+            {/*    .map((section) => {*/}
+            {/*      return (*/}
+            {/*        <li key={section.main_menu.name}>*/}
+            {/*          <Link*/}
+            {/*            key={section.main_menu.name}*/}
+            {/*            href={'/#' + section.main_menu.name}a*/}
+            {/*            className=""*/}
+            {/*          >*/}
+            {/*            {section.main_menu.name}*/}
+            {/*          </Link>*/}
+            {/*        </li>*/}
+            {/*      )*/}
+            {/*    })}*/}
+            {/*  /!* <li><Link href="/news" className=''>News</Link></li> *!/*/}
+            {/*  <li>*/}
+            {/*    <Link*/}
+            {/*      href="/appointments"*/}
+            {/*      className={classes.button}*/}
+            {/*      style={{*/}
+            {/*        padding: '1.3ch 1.9ch',*/}
+            {/*        border: '1px solid #666',*/}
+            {/*        borderRadius: '40px',*/}
+            {/*        maxWidth: '80%',*/}
+            {/*        margin: 'auto',*/}
+            {/*      }}*/}
+            {/*    >*/}
+            {/*      Appointments*/}
+            {/*    </Link>*/}
+            {/*  </li>*/}
+            {/*</ul>*/}
           </nav>
         </div>
       </header>

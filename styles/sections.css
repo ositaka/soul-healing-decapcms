@@ -24,6 +24,7 @@
   height: 100%;
   grid-area: image;
   display: flex;
+  padding-block: 5vw;
 }
 
 .section--text_only,
