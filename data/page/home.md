@@ -43,13 +43,13 @@ section:
       **No Words Needed, Only Presence**
 
 
-      One of the gifts of Trance Healing is its gentle, non-intrusive nature. You need not speak of your medical conditions or the reasons you seek healing, though Tiago holds space for sharing if you feel called to do so. The energy listens to the silent language of your soul, finding its way to where it can serve you best. After the session, if you wish to share your experience, Tiago is there to listen with an open heart—but the choice is always yours.
+      One of the gifts of Trance Healing is its gentle and non-intrusive nature. You don’t need to talk about your medical conditions or the reasons you seek healing, although Tiago is open to listening if you feel inclined to share. The energy communicates with the silent language of your soul, finding the best way to support you. After the session, if you wish to discuss your experience, Tiago is available to listen with an open heart—however, the choice is always yours.
 
 
-      **A Space of Possibility, Not Promises** 
+      **A Space of Possibility, Not Promises**
 
 
-      Many have found solace, transformation, and renewal through Trance Healing with Tiago, yet he humbly acknowledges that each journey is unique. While the spiritual world offers boundless love and possibility, Tiago makes no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourages seeking medical advice when needed.
+      Many individuals have found solace, transformation, and renewal through Trance Healing with Tiago. Nevertheless, he humbly acknowledges that each journey is unique. While the spiritual realm offers boundless love and possibility, Tiago makes no promises regarding specific outcomes. This practice is a companion to your well-being, not a substitute for professional medical care, and he always encourages seeking medical advice when necessary.
     title: H E A L
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
