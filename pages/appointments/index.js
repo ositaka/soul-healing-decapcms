@@ -5,16 +5,7 @@ import { allPages } from "/.contentlayer/generated";
 import Layout from '../../components/Layout';
 
 
-export default function Appointments({ appointments }) {
-  useEffect(() => {
-    const script = document.createElement('script');
-
-    script.src = 'https://embed.ycb.me';
-    script.setAttribute('data-domain', 'thegoldenhealing')
-    document.getElementById('embed').appendChild(script);
-
-  }, []); // The empty dependency array ensures this effect runs once on mount
-
+  export default function Appointments({ appointments }) {
   return (
     <>
       <NextSeo
@@ -38,18 +29,17 @@ export default function Appointments({ appointments }) {
       />
 
       <Layout>
-        <section className="section section--text_only">
+        <section className="section section--text_only" style={{maxWidth:'100%', marginBottom: '0'}}>
           <div className="section__content" style={{ width: '100%', textAlign: 'center' }}>
             <h1>{appointments.title}</h1>
             <p>{appointments.description}</p>
-            <div id="embed" style={{ minHeight: '60vh' }} />
+            <iframe src='https://calendly.com/trance-healing-with-tiago' width='100%' height='500' />
           </div>
         </section>
       </Layout>
     </>
   )
 }
-
 
 
 export async function getStaticProps() {
