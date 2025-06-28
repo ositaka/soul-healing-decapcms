@@ -1,7 +1,7 @@
 ---
 slug: benefits
-title: Trance Healing
-description: Trance Healing
+title: "Tiago Araújo "
+description: Trance Healing with Tiago
 image: ""
 accordions: []
 ---
