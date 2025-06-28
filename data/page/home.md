@@ -35,8 +35,7 @@ section:
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: Heal
