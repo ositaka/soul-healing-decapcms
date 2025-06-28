@@ -7,11 +7,11 @@ section:
     section_type: text_only
     main_menu:
       show: false
-    text: Welcome to a sacred space where healing and connection come together. Join
-      Tiago in the transformative practice of Trance Healing, where a nurturing
-      space encourages renewal and spiritual growth. Guided by Divine
+    text: Welcome to a sacred space where healing and connection converge. Join
+      Tiago in the transformative practice of Trance Healing, a nurturing
+      environment that encourages renewal and spiritual growth. Guided by Divine
       Intelligence and the gentle presence of Spirit Guides, this sacred
-      gathering is surrounded by divine light and grace, fostering profound
+      gathering is enveloped in divine light and grace, fostering profound
       healing and unity.
     title: Trance Healing with Tiago
   - type: text_image
