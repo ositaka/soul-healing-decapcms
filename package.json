@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
+    "concurrently": "^9.2.0",
     "contentlayer": "^0.2.4",
     "decap-cms-app": "^3.0.7",
     "eslint": "7.32.0",

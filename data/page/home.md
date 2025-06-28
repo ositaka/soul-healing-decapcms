@@ -62,7 +62,11 @@ section:
       Tiago Miguel
     title: "***"
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
-  - text: >-
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+    text: >-
       **No Words Needed, Only Presence**
 
 
@@ -73,6 +77,7 @@ section:
 
 
       Many have found solace, transformation, and renewal through Trance Healing in this session, yet Tiago humbly acknowledge that each journey is unique. While the spiritual world offers boundless love and possibility, he make no promises of specific outcomes. This practice is a companion to your well-being, not a replacement for professional medical care, and he always encourage you to seek medical advice when needed.
+    title: Trance Healing with Tiago
   - type: text_image
     section_type: text_image
     image_position: Right

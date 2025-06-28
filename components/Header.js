@@ -51,7 +51,7 @@ export default function Header({ }) {
 
             <ul id="menu" className={classes.menu} onClick={closeMenu}>
               {menu
-                .filter((section) => section.main_menu.show)
+                .filter((section) => section.main_menu?.show)
                 .map((section) => {
                   return (
                     <li key={section.main_menu.name}>
