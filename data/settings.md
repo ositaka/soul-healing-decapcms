@@ -1,6 +1,6 @@
 ---
 seo:
-  title: Tiago Miguel
+  title: Tiago Araújo
   description: Trance Healing
   image: ""
 ---
