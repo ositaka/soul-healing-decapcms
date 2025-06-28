@@ -1,4 +1,5 @@
 ---
 slug: appointments
-title: "Schedule a Trance Healing with Tiago "
+title: "Trance Healing with Tiago "
+description: "Make an Appointment "
 ---
