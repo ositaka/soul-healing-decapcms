@@ -77,14 +77,4 @@ section:
 
       Tiago Araújo
     image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-      name: Donate
-    text: >-
-      <script 
-        src="https://www.paypal.com/sdk/js?client-id=BAAQ6qozia7uNj8NsSDdJnFtiV2azivQrFKZBuyJoOyGaPYqefH2cT5A2D8lRVpO10zE9D2P-fwb8zVqwM&components=hosted-buttons&disable-funding=venmo&currency=EUR">
-      </script>
-    title: D O N A T E
 ---
