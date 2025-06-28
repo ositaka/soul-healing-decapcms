@@ -1,7 +1,7 @@
 ---
 slug: benefits
-title: "Colours "
-description: Colours
+title: Trance Healing
+description: Trance Healing
 image: ""
 accordions: []
 ---
