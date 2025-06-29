@@ -68,7 +68,7 @@ export default function Header({ }) {
               {/* <li><Link href="/news" className=''>News</Link></li> */}
               <li>
                 <Link
-                  href="/appointments"
+                  href="/bookings"
                   className={classes.button}
                   style={{
                     padding: '1.3ch 1.9ch',
@@ -78,7 +78,7 @@ export default function Header({ }) {
                     margin: 'auto',
                   }}
                 >
-                  Appointments
+                  Bookings
                 </Link>
               </li>
             </ul>

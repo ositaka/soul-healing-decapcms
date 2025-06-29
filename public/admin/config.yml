@@ -262,14 +262,22 @@ collections:
                           widget: 'string',
                         }
 
-      - file: 'data/page/appointments.md'
-        label: 'Appointments'
-        name: 'appointments'
+      - file: 'data/page/bookings.md'
+        label: 'Bookings'
+        name: 'bookings'
         editor:
           preview: false
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'text' }
+          - {
+            label: 'Body',
+            name: 'body',
+            widget: 'markdown',
+            sanitize_preview: true,
+            buttons:
+              [ 'bold', 'italic', 'link', 'heading-two', 'heading-three', 'quote' ],
+            modes: [ 'rich_text' ],
+          }
 
       - file: 'data/page/benefits.md'
         label: 'The Benefits'
