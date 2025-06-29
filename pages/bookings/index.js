@@ -107,6 +107,7 @@ export default function Bookings({ bookings }) {
             <h1>{bookings.title}</h1>
             <ReactMarkdown remarkPlugins={[gfm]} children={bookings.body?.raw} />
             <iframe src='https://calendly.com/trance-healing-with-tiago' width='100%' height='600' />
+            <br />
             <div id="paypal-container" />
           </div>
         </section>
