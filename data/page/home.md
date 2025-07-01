@@ -24,7 +24,7 @@ section:
       **A Sacred Connection with the Spirit World**
 
 
-      Through years of dedicated practice, Tiago has cultivated a profound bond with Spirit Guides who lovingly support this sacred work. This connection ensures that healing energy flows precisely to your unique needs—whether physical, emotional, mental, or spiritual—guided by wisdom far beyond Tiago’s own.
+      Through years of practice, Tiago has cultivated a bond with Spirit Guides who lovingly support this sacred work. This connection ensures that healing energy flows precisely to your unique needs—whether physical, emotional, mental, or spiritual—guided by wisdom far beyond Tiago’s own.
 
 
       **The Beauty of Silent Presence**
