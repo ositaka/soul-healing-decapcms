@@ -11,7 +11,7 @@ section:
       **Trance Healing with Tiago**
 
 
-      Step into a circle of healing and transformation, where Trance Healing serves as a sacred bridge between the physical and spiritual realms, connecting you with the Divine Intelligence of the Spirit World through the gentle presence of Spirit Guides. In this profound practice, Tiago surrenders to become a vessel for divine energy, channeling healing that touches your physical, emotional, mental, and spiritual being, inviting you with an open heart to embrace the boundless love and renewal that awaits.
+      Step into a circle of healing and transformation, where Trance Healing serves as a sacred bridge between the physical and spiritual realms, connecting you with the Divine Intelligence from the Spirit World through the gentle presence of Spirit Guides to you. In this practice, Tiago surrenders to become a vessel for divine energy, channeling healing that touches your physical, emotional, mental, and spiritual being, inviting you with an open heart to embrace the boundless love and renewal that awaits.
     title: Welcome
   - text: ""
   - type: text_image
@@ -31,8 +31,15 @@ section:
 
 
       Trance Healing is gentle and non-intrusive. There is no need to share your reasons for seeking healing, though Tiago holds a compassionate space for your voice if you choose to speak. The energy listens to your soul’s silent call, flowing where it is needed most. After the session, Tiago remains present to listen with an open heart if you wish to share, but the choice is always yours.
-
-
+    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    title: Connect
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
+      name: Surrender
+    text: >-
       **A Space of Possibility**
 
 
@@ -49,6 +56,6 @@ section:
 
 
       *Tiago Araújo*
-    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
-    title: Connect
+    title: Surrounder
+    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
