@@ -7,7 +7,11 @@ section:
     section_type: text_only
     main_menu:
       show: false
-    text: "**Trance Healing with Tiago**"
+    text: >-
+      **Trance Healing with Tiago**
+
+
+      You are invited to the practice of Trance Healing, fostering connection and renewal. As you enter this healing space, Tiago senses the gentle presence of Spirit Guides, ready to envelop you in their Divine Intelligence.
     title: WELCOME
   - type: text_image
     section_type: text_image
