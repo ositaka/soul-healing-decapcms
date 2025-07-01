@@ -11,8 +11,8 @@ section:
       **Trance Healing with Tiago**
 
 
-      Step into a circle of healing and transformation with Tiago, where the gentle presence of Spirit Guides awaits to guide you. Trance Healing is a sacred invitation to connect with the divine energies of the spirit world, activating renewal and inner peace. With an open heart, embrace this profound practice and discover the boundless love that awaits you.
-    title: Welcome to Your Journey of
+      Step into a circle of healing and transformation, where the gentle presence of the Spirit Guides awaits to guide you. Trance Healing is a sacred invitation to connect with the Divine Intelligence of the Spirit World, activating renewal and inner peace. With an Open Heart, Embrace this profound practice and discover the boundless Love that awaits you.
+    title: Welcome
   - type: text_image
     section_type: text_image
     image_position: Right
@@ -23,13 +23,13 @@ section:
       **What is Trance Healing?**
 
 
-      Trance Healing is a sacred bridge between the physical and spiritual realms. Tiago enters a state of deep surrender, becoming a vessel for divine energies guided by benevolent Spirit Guides. More than a practice, it’s a heartfelt dance of trust, allowing the spirit world to channel healing that touches the deepest parts of your being, restoring balance and harmony.
+      Trance Healing is a sacred bridge between the physical and spiritual realms. Tiago enters a state of deep surrender, becoming a vessel for the Divine Intelligence to come through the Spirit Guides. More than a practice, it’s a heartfelt dance of trust, allowing the spirit world to channel healing that touches the deepest parts of your being, restoring balance and harmony.
 
 
       **A Sacred Connection with the Spirit World**
 
 
-      Through years of devotion, Tiago has forged a profound bond with Spirit Guides who support this sacred work. This connection allows healing energy to flow precisely to your unique needs—whether physical, emotional, mental, or spiritual—guided by a wisdom far beyond Tiago’s own.
+      Through years of practice, Tiago has made a profound bond with Spirit Guides who support this sacred work. This connection allows healing energy to flow precisely to your unique needs—whether physical, emotional, mental, or spiritual—guided by wisdom far beyond Tiago’s own.
     title: C O N N E C T
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
