@@ -62,7 +62,7 @@ section:
       **An Invitation to Embrace Healing**
 
 
-      In this sacred space, Tiago creates a sanctuary of peace. Trance Healing weaves together your intentions, breath, and open heart, inviting divine energies to uplift and restore you in ways words cannot fully capture. Tiago invites you to be present and embrace the love that surrounds you.
+      In this sanctuary of peace. Trance Healing weaves together your intentions, breath, and open heart, inviting divine energies to uplift and restore you in ways words cannot fully capture. Tiago invites you to be present and embrace the love that surrounds you.
 
 
       **Step into the Healing**
