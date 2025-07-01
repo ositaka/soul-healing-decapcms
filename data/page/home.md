@@ -42,41 +42,18 @@ section:
 
 
       In this sanctuary of peace. Trance Healing weaves together your intentions, breath, and open heart, inviting divine energies to uplift and restore you in ways words cannot fully capture. Tiago invites you to be present and embrace the love that surrounds you.
+
+
+      **Step into the Healing**
+
+
+      As you enter this sacred moment, Tiago encourages you to close your eyes, release your burdens, and trust in the unseen. Open your heart to the spirit world’s radiant energy and let the healing begin.
+
+
+      **With Love and Gratitude,**  
+
+
+      Tiago Araújo
     title: Welcome
-  - type: text_image
-    section_type: text_image
-    image_position: Right
-    main_menu:
-      show: false
-      name: Receive
-    title: R E C E I V E
-    text: >-
-      **An Invitation to Embrace Healing**
-
-
-      In this sanctuary of peace. Trance Healing weaves together your intentions, breath, and open heart, inviting divine energies to uplift and restore you in ways words cannot fully capture. Tiago invites you to be present and embrace the love that surrounds you.
-
-
-      **Step into the Healing**
-
-
-      As you enter this sacred moment, Tiago encourages you to close your eyes, release your burdens, and trust in the unseen. Open your heart to the spirit world’s radiant energy and let the healing begin.
-
-
-      **With Love and Gratitude,**  
-
-
-      Tiago Araújo
-    image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
-  - text: >-
-      **Step into the Healing**
-
-
-      As you enter this sacred moment, Tiago encourages you to close your eyes, release your burdens, and trust in the unseen. Open your heart to the spirit world’s radiant energy and let the healing begin.
-
-
-      **With Love and Gratitude,**  
-
-
-      Tiago Araújo
+  - text: ""
 ---
