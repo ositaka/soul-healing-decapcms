@@ -29,7 +29,7 @@ section:
       **A Unique Connection with the Spirit World**
 
 
-      Through years of practice, Tiago has cultivated a special connection with the spirit guides who assist in this sacred work. This bond enables a sharper, more precise flow of healing power to your unique needs. Whether your wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
+      Through years of practice, Tiago has cultivated a special connection with the spirit guides who assist in this sacred work. This bond enables a sharper, precise flow of healing power to your unique needs. Whether your wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
     title: C O N N E C T
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
