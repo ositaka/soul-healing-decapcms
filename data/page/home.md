@@ -11,7 +11,7 @@ section:
       **Trance Healing with Tiago**
 
 
-      Step into a sanctuary of healing and transformation with Tiago, where the gentle presence of Spirit Guides awaits to guide you. Trance Healing is a sacred invitation to connect with the divine energies of the spirit world, activating renewal and inner peace. With an open heart, embrace this profound practice and discover the boundless love that awaits you.
+      Step into a circle of healing and transformation with Tiago, where the gentle presence of Spirit Guides awaits to guide you. Trance Healing is a sacred invitation to connect with the divine energies of the spirit world, activating renewal and inner peace. With an open heart, embrace this profound practice and discover the boundless love that awaits you.
     title: Welcome to Your Journey of
   - type: text_image
     section_type: text_image
