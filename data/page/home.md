@@ -23,13 +23,13 @@ section:
       **What is Trance Healing?**
 
 
-      Trance Healing is a profound and sacred practice that serves as a bridge between the physical and spiritual realms. In this space, Tiago enters an altered state of consciousness, surrendering himself as a vessel to channel healing energies from Divine Intelligence, guided by Spirit Guides. This practice is not just a technique; it is a dance of trust and connection, allowing the spirit world to work through Tiago to bring forth healing that touches the deepest parts of your being.
+      Trance Healing is a profound and sacred practice, serving as a bridge between the physical and spiritual realms. In this space, Tiago enters an altered state of consciousness, surrendering as a vessel to channel healing energies from the Divine Intelligence through the guidance of the Spirit Guides. This is more than a technique—it is a dance of trust and connection, a blending of energies that allows the spirit world to work through Tiago to bring forth healing that touches the deepest parts of your being.
 
 
-      **Unique Connection with the Spirit World**
+      **A Unique Connection with the Spirit World**
 
 
-      Through years of practice, Tiago has cultivated a special relationship with the healers in the spiritual world—guides who assist him in this work. This bond enables a sharper, more precise flow of healing energy, tailored to your unique needs. Whether the wounds are physical, emotional, mental, or spiritual, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
+      Through years of practice, Tiago has cultivated a special connection with the spirit guides who assist in this sacred work. This bond enables a sharper, more precise flow of healing power to your unique needs. Whether your wounds are of the body, heart, mind, or spirit, the energy flows where it is most needed, guided by a wisdom far greater than Tiago’s own.
     title: C O N N E C T
     image: /images/627c3070-8d2d-43c9-a133-1a65064bcef1.jpeg
   - type: text_image
