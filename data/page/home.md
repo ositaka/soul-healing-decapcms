@@ -12,8 +12,15 @@ section:
 
 
       Step into a circle of healing and transformation, where the gentle presence of the Spirit Guides awaits to guide you. Trance Healing is a sacred bridge between the physical and spiritual realms, allowing you to connect with the Divine Intelligence of the Spirit World and experience renewal and inner peace. With an open heart, embrace this profound practice and discover the boundless love that awaits you.
-
-
+    title: Welcome
+  - text: ""
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: TH
+    text: >-
       **What is Trance Healing?**
 
 
@@ -48,6 +55,6 @@ section:
 
 
       *Tiago Araújo*
-    title: Welcome
-  - text: ""
+    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    title: Connect
 ---
