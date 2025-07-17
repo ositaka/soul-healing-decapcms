@@ -50,12 +50,12 @@ section:
     main_menu:
       show: true
       name: Connection with Spirit World
-    text: Tiago has spent years practicing a deep connection with his Spirit Guides,
-      who guide this healing work with love and wisdom. In a session, he enters
-      a trance state, allowing these guides to direct healing energy exactly
-      where it’s needed—perhaps to ease your body, soothe your heart, clear your
-      mind, or lift your spirit. Their gentle precision ensures the energy flows
-      with care to you.
+    text: Tiago has spent years practicing a connection with his Spirit Guides, who
+      guide this healing work with love and wisdom. In a session, he enters a
+      trance state, allowing these guides to direct healing energy exactly where
+      it’s needed—perhaps to ease your body, soothe your heart, clear your mind,
+      or lift your spirit. Their gentle precision ensures the energy flows with
+      care to you.
     title: Connection with Spirit World
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
   - type: text_image
