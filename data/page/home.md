@@ -6,13 +6,14 @@ section:
   - type: text_only
     section_type: text_only
     main_menu:
-      show: false
+      show: true
+      name: Find Peace and Feel the Light Within
     text: >-
-      ***Find Peace and Feel the Light Within***
+      ***Trance Healing with Tiago***
 
 
       Welcome to a warm, calming space where the physical and spiritual world come together to support your healing. In Trance Healing, Tiago becomes a channel for energy that nurtures your body, emotions, mind, and soul. He invites you with an open heart to step into this caring experience.
-    title: Trance Healing with Tiago
+    title: Find Peace and Feel the Light Within
   - text: ""
   - type: text_image
     section_type: text_image
@@ -34,35 +35,35 @@ section:
     image_position: Left
     main_menu:
       show: true
-      name: The Beauty of Silent Healing
+      name: Silent Healing
     text: You don’t need to say why you’re here—the energy naturally finds its way
       to where your soul needs support. If you’d like to share your thoughts or
       feelings, Tiago is there to listen with kindness, but it’s entirely up to
       you. After the session, you’re welcome to talk if you wish, knowing this
       is a safe and caring space.
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
-    title: The Beauty of Silent Healing
+    title: Silent Healing
   - type: text_image
     section_type: text_image
     image_position: Right
     main_menu:
       show: true
-      name: A Special Connection with Spirit
+      name: Connection with Spirit World
     text: Tiago has spent years practicing a deep connection with his Spirit Guides,
       who guide this healing work with love and wisdom. In a session, he enters
       a trance state, allowing these guides to direct healing energy exactly
       where it’s needed—perhaps to ease your body, soothe your heart, clear your
       mind, or lift your spirit. Their gentle precision ensures the energy flows
       with care to you.
-    title: A Special Connection with Spirit
+    title: Connection with Spirit World
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
   - type: text_image
     section_type: text_image
     image_position: Left
     main_menu:
       show: true
-      name: A Path to Feel Better
-    title: A Path to Feel Better
+      name: Feel Better
+    title: Feel Better
     image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
     text: Many people feel comfort, relaxation, or a fresh sense of balance after a
       session, though everyone’s experience is different. Tiago respects your
@@ -75,7 +76,7 @@ section:
     image_position: Right
     main_menu:
       show: true
-      name: An Invitation to Embrace Healing
+      name: Embrace Healing
     text: >-
       Step into a peaceful sanctuary where Trance Healing blends your
       intentions, breath, and open heart with the warm energy of the spirit
@@ -89,5 +90,5 @@ section:
 
       *Tiago Araújo*
     image: /images/img_1499.jpeg
-    title: An Invitation to Embrace Healing
+    title: Embrace Healing
 ---
