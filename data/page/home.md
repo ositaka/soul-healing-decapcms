@@ -8,66 +8,81 @@ section:
     main_menu:
       show: false
     text: >-
-      **Trance Healing with Tiago**
+      ***Find Peace and Feel the Light Within***
 
 
-      Step into a circle of healing, a sacred bridge between the physical and spiritual realms, connecting you with the Healers from the Spiritual World. \
-
-      In this practice, Tiago surrenders to become a vessel for divine energy, channeling energy that touches your physical, emotional, mental, and spiritual being, inviting you with an open heart to embrace the love and light.
-    title: Welcome
+      Welcome to a warm, calming space where the physical and spiritual worlds come together to support your healing. In Trance Healing, Tiago becomes a channel for gentle, loving energy that nurtures your body, emotions, mind, and soul. He invites you with an open heart to step into this caring experience.
+    title: Trance Healing with Tiago
   - text: ""
   - type: text_image
     section_type: text_image
     image_position: Right
     main_menu:
-      show: false
-      name: TH
-    text: Through years of practice, Tiago has cultivated a bond with Spirit Guides
-      who lovingly support this sacred work. This connection ensures that
-      healing energy flows precisely to your unique needs—whether physical,
-      emotional, mental, or spiritual—guided by wisdom far beyond Tiago’s own.
-    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
-    title: A Sacred Connection with the Spirit World
-  - type: text_image
-    section_type: text_image
-    image_position: Right
-    main_menu:
-      show: false
-      name: Presence
+      show: true
+      name: What is Trance Healing?
     text: Trance Healing is gentle and non-intrusive. There is no need to share your
       reasons for seeking healing, though Tiago holds a compassionate space for
       your voice if you choose to speak. The energy listens to your soul’s
       silent call, flowing where it is needed most. After the session, Tiago
       remains present to listen with an open heart if you wish to share, but the
       choice is always yours.
-    title: The Beauty of Silent Presence
+    title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
     section_type: text_image
-    image_position: Right
+    image_position: Left
     main_menu:
-      show: false
-      name: Surrender
-    text: >-
-      **A Space of Possibility**
-
-
-      Many have found solace and transformation through Trance Healing with Tiago, yet he humbly honors the uniqueness of each individual’s journey. The spirit world offers infinite love, but Tiago makes no promises of specific outcomes. This practice complements your well-being, not replacing professional medical care, and Tiago encourages seeking medical advice when needed.
-    title: A Space of Possability
-    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
+      show: true
+      name: The Beauty of Silent Healing
+    text: Trance Healing is gentle, respectful, and never intrusive. You don’t need
+      to say why you’re here—the energy naturally finds its way to where your
+      soul needs support. If you’d like to share your thoughts or feelings,
+      Tiago is there to listen with kindness, but it’s entirely up to you. After
+      the session, you’re welcome to talk if you wish, knowing this is a safe
+      and caring space.
+    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    title: The Beauty of Silent Healing
   - type: text_image
     section_type: text_image
     image_position: Right
     main_menu:
-      show: false
-      name: Th
+      show: true
+      name: A Special Connection with Spirit
+    text: Tiago has spent years practicing a deep connection with his Spirit Guides,
+      who guide this healing work with love and wisdom. In a session, he enters
+      a trance state, allowing these guides to direct healing energy exactly
+      where it’s needed—perhaps to ease your body, soothe your heart, clear your
+      mind, or lift your spirit. Their gentle precision ensures the energy flows
+      with care to you.
+    title: A Special Connection with Spirit
+    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: true
+      name: A Path to Feel Better
+    title: A Path to Feel Better
+    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
+    text: Many people feel comfort, relaxation, or a fresh sense of balance after
+      Trance Healing, though everyone’s experience is different. Tiago respects
+      your unique journey and doesn’t promise specific outcomes. This practice
+      is here to support your well-being, not to take the place of medical care.
+      Tiago encourages you to seek professional medical advice when needed, as
+      Trance Healing is a complementary path, working alongside traditional
+      healthcare.
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: true
+      name: An Invitation to Embrace Healing
     text: >-
-      In this sanctuary of peace, Trance Healing weaves together your
-      intentions, breath, and open heart, inviting divine energies to uplift and
-      restore you in ways words cannot fully capture. Tiago invites you to be
-      present, close your eyes, release your burdens, and trust in the unseen.
-      Open your heart to the spirit world’s radiant energy and let the healing
-      begin.
+      Step into a peaceful sanctuary where Trance Healing blends your
+      intentions, breath, and open heart with the warm energy of the spirit
+      world. Close your eyes, let go of your worries, and trust the gentle flow.
+      Feel the caring energy wrap around you, bringing balance in a way that’s
+      personal and unique to you.
 
 
       ***With Love and Gratitude,***  
