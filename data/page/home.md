@@ -72,6 +72,6 @@ section:
 
 
       *Tiago Araújo*
-    image: /images/462d3bc1-09e3-40a4-b92f-b5a99bdecb19.jpeg
+    image: /images/img_1499.jpeg
     title: An Invitation to Embrace Healing
 ---
