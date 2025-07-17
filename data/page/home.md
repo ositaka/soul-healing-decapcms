@@ -20,12 +20,13 @@ section:
     main_menu:
       show: true
       name: What is Trance Healing?
-    text: Trance Healing is gentle and non-intrusive. There is no need to share your
-      reasons for seeking healing, though Tiago holds a compassionate space for
-      your voice if you choose to speak. The energy listens to your soul’s
-      silent call, flowing where it is needed most. After the session, Tiago
-      remains present to listen with an open heart if you wish to share, but the
-      choice is always yours.
+    text: Trance Healing is gentle and non-intrusive spiritual practice with roots
+      in ancient traditions and mediumship. During a session, the healer enters
+      a trance state, becoming a bridge for divine energy from the spirit world.
+      Guided by Spirit Guides, this energy flows to where you need it
+      most—whether it’s physical comfort, emotional peace, mental clarity, or
+      spiritual renewal. It’s a holistic experience that can work on many levels
+      at once and can be offered in person or from a distance.
     title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
@@ -34,12 +35,11 @@ section:
     main_menu:
       show: true
       name: The Beauty of Silent Healing
-    text: Trance Healing is gentle, respectful, and never intrusive. You don’t need
-      to say why you’re here—the energy naturally finds its way to where your
-      soul needs support. If you’d like to share your thoughts or feelings,
-      Tiago is there to listen with kindness, but it’s entirely up to you. After
-      the session, you’re welcome to talk if you wish, knowing this is a safe
-      and caring space.
+    text: You don’t need to say why you’re here—the energy naturally finds its way
+      to where your soul needs support. If you’d like to share your thoughts or
+      feelings, Tiago is there to listen with kindness, but it’s entirely up to
+      you. After the session, you’re welcome to talk if you wish, knowing this
+      is a safe and caring space.
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
     title: The Beauty of Silent Healing
   - type: text_image
@@ -64,13 +64,12 @@ section:
       name: A Path to Feel Better
     title: A Path to Feel Better
     image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
-    text: Many people feel comfort, relaxation, or a fresh sense of balance after
-      Trance Healing, though everyone’s experience is different. Tiago respects
-      your unique journey and doesn’t promise specific outcomes. This practice
-      is here to support your well-being, not to take the place of medical care.
-      Tiago encourages you to seek professional medical advice when needed, as
-      Trance Healing is a complementary path, working alongside traditional
-      healthcare.
+    text: Many people feel comfort, relaxation, or a fresh sense of balance after a
+      session, though everyone’s experience is different. Tiago respects your
+      unique journey and doesn’t promise specific outcomes. This practice is
+      here to support your well-being, not to take the place of medical care. He
+      encourages you to seek professional medical advice when needed, as Trance
+      Healing is a complementary path, working alongside traditional healthcare.
   - type: text_image
     section_type: text_image
     image_position: Right
