@@ -21,14 +21,14 @@ section:
     main_menu:
       show: true
       name: What is Trance Healing?
-    text: Trance Healing is a gentle and non-intrusive spiritual practice with roots
-      in ancient traditions and mediumship. During a session, the healer enters
-      a trance state, becoming a bridge for divine energy from the spirit world.
-      Guided by Spirit Guides, this energy flows to where you need it
-      most—physical comfort, emotional peace, mental clarity, or spiritual
+    text: "Trance Healing is a gentle and non-intrusive spiritual practice with
+      roots in ancient traditions and mediumship. During a session, the healer
+      enters a trance state, becoming a bridge for divine energy from the spirit
+      world. Guided by Spirit Guides, this energy flows to where you need it
+      most: physical comfort, emotional peace, mental clarity, or spiritual
       renewal. It’s a holistic experience that can work on many levels at once
-      and can be offered in-person or from a distance and can be done
-      individually or in a group as a Healing Circle.
+      and can be offered in person or at a distance and can be facilitated
+      individually or in a group setting."
     title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
@@ -37,7 +37,7 @@ section:
     main_menu:
       show: true
       name: Silent Healing
-    text: You don’t need to say why you’re here—the energy naturally finds its way
+    text: You don’t need to say why you’re here. The energy naturally finds its way
       to where your soul needs support. If you’d like to share your thoughts or
       feelings, Tiago is there to listen with kindness, but it’s entirely up to
       you. After the session, you’re welcome to talk if you wish, knowing this
@@ -50,13 +50,13 @@ section:
     main_menu:
       show: true
       name: Connection with Spirit World
-    text: Tiago has spent years practicing a connection with his Spirit Guides, who
+    text: "Tiago has spent years practicing a connection with his Spirit Guides, who
       guide this healing work with love and wisdom. In a session, he enters a
       trance state, allowing these guides to direct healing energy exactly where
-      it’s needed—perhaps to ease your body, soothe your heart, clear your mind,
-      or lift your spirit. Their gentle precision ensures the energy flows with
-      care to you.
-    title: Connection with Spirit World
+      it’s needed: perhaps to ease your body, soothe your heart, clear your
+      mind, or lift your spirit. Their gentle precision ensures the energy flows
+      with care to you."
+    title: Connecting with Spirit World
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
   - type: text_image
     section_type: text_image
@@ -80,14 +80,14 @@ section:
       show: true
       name: Embrace Healing
     text: >-
-      Step into a peaceful sanctuary where Trance Healing blends your
+      Enter into a peaceful space where Trance Healing harmonizes your
       intentions, breath, and open heart with the warm energy of the spirit
-      world. Close your eyes, let go of your worries, and trust the gentle flow.
-      Feel the caring energy wrap around you, bringing balance in a way that’s
+      world. Close your eyes, release your worries, and trust the gentle flow.
+      Feel the soothing energy embracing you, bringing balance in a way that is
       personal and unique to you.
 
 
-      ***With Love and Gratitude,***  
+      ***With Love & Gratitude,***
 
 
       *Tiago Araújo*
