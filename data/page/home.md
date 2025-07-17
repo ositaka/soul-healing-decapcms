@@ -21,13 +21,13 @@ section:
     main_menu:
       show: true
       name: What is Trance Healing?
-    text: Trance Healing is gentle and non-intrusive spiritual practice with roots
+    text: Trance Healing is a gentle and non-intrusive spiritual practice with roots
       in ancient traditions and mediumship. During a session, the healer enters
       a trance state, becoming a bridge for divine energy from the spirit world.
       Guided by Spirit Guides, this energy flows to where you need it
-      most—whether it’s physical comfort, emotional peace, mental clarity, or
-      spiritual renewal. It’s a holistic experience that can work on many levels
-      at once and can be offered in person or from a distance.
+      most—physical comfort, emotional peace, mental clarity, or spiritual
+      renewal. It’s a holistic experience that can work on many levels at once
+      and can be offered in person or from a distance individually or in groups.
     title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
