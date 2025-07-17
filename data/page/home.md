@@ -71,7 +71,8 @@ section:
       unique journey and doesn’t promise specific outcomes. This practice is
       here to support your well-being, not to take the place of medical care. He
       encourages you to seek professional medical advice when needed, as Trance
-      Healing is a complementary path, working alongside traditional healthcare.
+      Healing is a complementary therapy, working alongside traditional
+      healthcare.
   - type: text_image
     section_type: text_image
     image_position: Right
