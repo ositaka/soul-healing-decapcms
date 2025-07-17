@@ -27,7 +27,8 @@ section:
       Guided by Spirit Guides, this energy flows to where you need it
       most—physical comfort, emotional peace, mental clarity, or spiritual
       renewal. It’s a holistic experience that can work on many levels at once
-      and can be offered in person or from a distance individually or in groups.
+      and can be offered in-person or from a distance and can be done
+      individually or in a group as a Healing Circle.
     title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
