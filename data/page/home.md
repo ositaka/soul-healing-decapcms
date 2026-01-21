@@ -65,7 +65,7 @@ section:
       show: true
       name: Feel Better
     title: Feel Better
-    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
+    image: /images/golden-lotus-flower.jpeg
     text: Many people feel comfort, relaxation, or a fresh sense of balance after a
       session, though everyone’s experience is different. Tiago respects your
       unique journey and doesn’t promise specific outcomes. This practice is
