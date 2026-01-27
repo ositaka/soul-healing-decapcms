@@ -40,16 +40,16 @@ section:
       name: Sessions
     text: >-
       The energy transcends space and time, reaching you in whichever way feels
-      most comfortable and safe for your heart:
+      most comfortable and safe for you:
 
 
-      • **In-person sessions** — We meet in a tranquil, sacred space. Shared physical presence allows the energy to unfold in a deeply embodied way, often bringing sensations of warmth and profound connection.
+      • **In-person** — We meet in a sacred space. Shared physical presence allows the energy to unfold in a deeply embodied way, often bringing sensations of warmth and profound connection.
 
 
-      • **Remote via video call** — We connect through Zoom or a similar platform. Even through the screen, the energy flows with the same power, guided by intention and the loving presence of Spiritual Guides.
+      •  At a Distance — We connect through Zoom or a similar platform. Even through the screen, the energy flows with the same power, guided by intention and the loving presence of Spiritual Guides.
 
 
-      • **Remote healing (no call required)** — Simply rest in your own space at the agreed time. The energy finds its way naturally through your openness and permission. Many find this modality especially intimate and liberating.
+      • Absent **(no call required)** — Simply rest in your own space at the agreed time. The energy finds its way naturally through your openness and permission. Many find this modality especially intimate and liberating.
 
 
       **Individual Sessions or Healing Circles**
