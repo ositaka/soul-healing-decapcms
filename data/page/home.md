@@ -16,7 +16,7 @@ section:
     title: Trance Healing with Tiago
   - type: text_image
     section_type: text_image
-    image_position: Right
+    image_position: Left
     main_menu:
       show: true
       name: What is Trance Healing?
@@ -30,6 +30,32 @@ section:
       individually or in a group setting."
     title: What is Trance Healing?
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Sessions
+    text: >-
+      The energy transcends space and time, reaching you in whichever way feels
+      most comfortable and safe for your heart:
+
+
+      • **In-person sessions** — We meet in a tranquil, sacred space. Shared physical presence allows the energy to unfold in a deeply embodied way, often bringing sensations of warmth and profound connection.
+
+
+      • **Remote via video call** — We connect through Zoom or a similar platform. Even through the screen, the energy flows with the same power, guided by intention and the loving presence of Spiritual Guides.
+
+
+      • **Remote healing (no call required)** — Simply rest in your own space at the agreed time. The energy finds its way naturally through your openness and permission. Many find this modality especially intimate and liberating.
+
+
+      **Individual Sessions or Healing Circles**
+
+
+      You may choose an individual session, with complete focus on your unique journey, or join a Healing Circle — a small sacred group (in-person or online) where shared intention amplifies the field of love and light. In either case, the energy arrives with precision and unconditional care.
+    title: How to Receive the Energy
+    image: /images/78fa5dc5-483b-420f-a992-1c1c1129177a.jpg
   - type: text_image
     section_type: text_image
     image_position: Left
