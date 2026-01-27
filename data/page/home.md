@@ -14,7 +14,6 @@ section:
 
       Welcome to a warm, calming space where the physical and spiritual world come together to support your healing. In Trance Healing, Tiago becomes a channel for healing energy that nurtures your body, mind, and soul. He invites you with an open heart to step into this caring experience.
     title: Trance Healing with Tiago
-  - text: ""
   - type: text_image
     section_type: text_image
     image_position: Right
