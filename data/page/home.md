@@ -27,7 +27,7 @@ section:
 
       A gentle and non-intrusive spiritual practice with ancient roots in healing mediumship. During a session, Tiago enters into a trance state to become a bridge for the Divine Intelligence to enter and to guide the flow of energy to where you need it most: physical comfort, emotional peace, mental clarity, or spiritual renewal. It’s a holistic experience that can work on many levels at once and can be offered in person or at a distance and can be facilitated individually or in a group setting.
     title: Trance Healing is...
-    image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+    image: /images/b4a9089a-4a40-4bc6-a377-881d01a3cdfd.jpg
   - type: text_image
     section_type: text_image
     image_position: Right
