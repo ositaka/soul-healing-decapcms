@@ -12,7 +12,7 @@ section:
       **Trance Healing with Tiago**
 
 
-      Welcome to this warm, calming space where the physical and spiritual worlds come together to support your healing. In Trance Healing, I enter a gentle trance state and become a clear channel for Divine Intelligence, allowing loving energy to flow through me and nurture your body, mind, and soul.
+      Welcome to this warm, calming space where the physical and spiritual worlds come together to support your healing. In Trance Healing, I enter a gentle trance state and become a clear channel for Divine Intelligence, allowing energy to flow through and to nurture your body, mind, and soul.
 
       With an open heart, I invite you to step into this caring experience.
     title: Find Peace and Feel the Light Within
