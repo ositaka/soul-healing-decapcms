@@ -65,7 +65,7 @@ section:
       feelings, Tiago is there to listen with kindness, but it’s entirely up to
       you. After the session, you’re welcome to talk if you wish, knowing this
       is a safe and caring space.
-    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    image: /images/862db8cf-76bd-4713-8b43-8a4549b7549f.jpg
     title: Silent Healing
   - type: text_image
     section_type: text_image
