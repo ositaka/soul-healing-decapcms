@@ -28,6 +28,14 @@ section:
       A gentle and non-intrusive spiritual practice with ancient roots in healing mediumship. During a session and through an alternate state of consciousness, Tiago enters into a trance state where he becomes a connector for the Divine Intelligence to guide the flow of energy to where is needed the most: physical comfort, emotional peace, mental clarity, or spiritual renewal. It’s a holistic experience that can work on many levels at once and can be offered in person or at a distance and can be facilitated individually or in a group setting.
     title: Trance Healing is...
     image: /images/b4a9089a-4a40-4bc6-a377-881d01a3cdfd.jpg
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+    text: This gentle healing energy is available in several ways, each equally
+      valid and powerful, adapting seamlessly to what feels most comfortable and
+      safe for you.
+    title: " "
   - type: text_image
     section_type: text_image
     image_position: Right
@@ -116,12 +124,4 @@ section:
       *Tiago Araújo*
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
     title: Embrace Healing
-  - type: text_only
-    section_type: text_only
-    main_menu:
-      show: false
-    text: This gentle healing energy is available in several ways, each equally
-      valid and powerful, adapting seamlessly to what feels most comfortable and
-      safe for you.
-    title: " "
 ---
