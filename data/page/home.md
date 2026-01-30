@@ -31,7 +31,7 @@ section:
   - type: text_only
     section_type: text_only
     main_menu:
-      show: false
+      show: true
     text: >-
       The healing energy transcends space and time, flowing naturally to you in
       whichever way best supports your openness and intention:
