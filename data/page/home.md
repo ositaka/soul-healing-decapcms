@@ -35,24 +35,24 @@ section:
       show: false
       name: Sessions
     text: >-
-      The energy transcends space and time, reaching you in whichever way feels
-      most comfortable and safe for you:
+      The healing energy transcends space and time, flowing naturally to you in
+      whichever way best supports your openness and intention:
 
 
-      • **In-person** — We meet in a sacred space. Shared physical presence allows the energy to unfold in a deeply embodied way, often bringing sensations of warmth and profound connection.
+      • **In-person** — We meet in a shared physical space. The shared presence often allows the energy to be felt in a deeply embodied way—many experience warmth, tingling, or a profound sense of connection.
 
 
-      •  At a Distance — We connect through Zoom or a similar platform. Even through the screen, the energy flows with the same power, guided by intention and the loving presence of Spiritual Guides.
+      • **At a Distance** — We connect through Zoom or a similar platform. The energy flows with the same strength and precision, guided by clear intention and the loving presence of Spiritual Guides.
 
 
-      • Absent **(no call required)** — Simply rest in your own space at the agreed time. The energy finds its way naturally through your openness and permission. Many find this modality especially intimate and liberating.
+      • **Absent (no call required)** — You simply rest quietly in your own space at the agreed time. The energy arrives gently through your permission and openness—many people find this option especially intimate and deeply restorative.
 
 
       **Individual Sessions or Healing Circles**
 
 
-      You may choose an individual session, with complete focus on your unique journey, or join a Healing Circle — a small sacred group (in-person or online) where shared intention amplifies the field of love and light. In either case, the energy arrives with precision and unconditional care.
-    title: How to Receive the Energy
+      You may choose a private individual session, where the entire focus is on your unique journey, or join a Healing Circle—a small, sacred group (in-person or online) where the shared intention amplifies the field of love and light. In every case, the energy is directed with precision and unconditional care.
+    title: How to Receive the Healing
     image: /images/78fa5dc5-483b-420f-a992-1c1c1129177a.jpg
   - type: text_image
     section_type: text_image
@@ -116,4 +116,12 @@ section:
       *Tiago Araújo*
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
     title: Embrace Healing
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+    text: This gentle healing energy is available in several ways, each equally
+      valid and powerful, adapting seamlessly to what feels most comfortable and
+      safe for you.
+    title: " "
 ---
