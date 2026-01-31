@@ -32,24 +32,8 @@ section:
     section_type: text_only
     main_menu:
       show: true
-    text: >-
-      The healing energy transcends space and time, flowing naturally to you in
-      whichever way best supports your openness and intention:
-
-
-      • **In-person** — We meet in a shared physical space. The shared presence often allows the energy to be felt in a deeply embodied way—many experience warmth, tingling, or a profound sense of connection.
-
-
-      • **At a Distance** — We connect through Zoom or a similar platform. The energy flows with the same strength and precision, guided by clear intention and the loving presence of Divine Intelligence .
-
-
-      • **Absent (no call required)** — You simply rest quietly in your own space at the agreed time. The energy arrives gently through your permission and openness—many people find this option especially intimate and deeply restorative.
-
-
-      **Individual Sessions or Healing Circles**
-
-
-      You may choose a private individual session, where the entire focus is on your unique journey, or join a Healing Circle—a small, sacred group (in-person or online) where the shared intention amplifies the field of love and light. In every case, the energy is directed with precision and unconditional care.
+    text: The healing energy transcends space and time, flowing naturally to you in
+      whichever way best supports your openness and intention.
     title: " "
   - type: text_image
     section_type: text_image
