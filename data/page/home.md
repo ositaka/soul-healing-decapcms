@@ -42,12 +42,14 @@ section:
       show: false
       name: Sessions
     text: >-
-      • **In-person** — We meet in a shared physical space. The shared presence
-      often allows the energy to be felt in a deeply embodied way—many
-      experience warmth, tingling, or a profound sense of connection.
+      • **In-person** — We meet in a physical place. \
+
+      The presence often allows the energy to be felt deeply—many experience warmth, tingling, or a profound sense of connection.
 
 
-      • **At a Distance** — We connect through Zoom or a similar platform. The energy flows with the same strength and precision, guided by clear intention and the loving presence of Spiritual Guides.
+      • **At a Distance** — We connect through Zoom or a similar platform. \
+
+      The energy flows with the same strength and precision, with clear intention and the presence of Spiritual Guides.
 
 
       • **Absent (no call required)** — You simply rest quietly in your own space at the agreed time. The energy arrives gently through your permission and openness—many people find this option especially intimate and deeply restorative.
