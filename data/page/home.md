@@ -44,21 +44,25 @@ section:
     text: >-
       • **In-person** — We meet in a physical place. \
 
-      The presence often allows the energy to be felt deeply—many experience warmth, tingling, or a profound sense of connection.
+      The presence often allows the energy to be felt deeper - many experience warmth, tingling, or a profound sense of connection.
 
 
       • **At a Distance** — We connect through Zoom or a similar platform. \
 
-      The energy flows with the same strength and precision, with clear intention and the presence of Spiritual Guides.
+      The energy flows with the same strength and precision, clear intention and presence.
 
 
-      • **Absent (no call required)** — You simply rest quietly in your own space at the agreed time. The energy arrives gently through your permission and openness—many people find this option especially intimate and deeply restorative.
+      • **Absent (no call required)** — You rest quietly in your own space at the agreed time. \
+
+      The energy arrives through your permission and openness - many people find this way intimate and deeply restorative.
 
 
-      **Individual Sessions or Circles of Light** 
+      **Individual Sessions or Circles of Light**
 
 
-      You may choose a private individual session, where the entire focus is on your unique journey, or join a Circle of Light—a small, sacred group (in-person or online) where the shared intention amplifies the field of love and light. In every case, the energy is directed with precision and unconditional care.
+      You may choose a private individual session, where the focus is on your unique journey, or join a Circle of Light - a group (in-person or online) where the shared intention amplifies the field of love and light. \
+
+      In both, the energy is directed with precision and unconditional care.
     title: How to Receive the Healing
     image: /images/78fa5dc5-483b-420f-a992-1c1c1129177a.jpg
   - type: text_image
