@@ -101,13 +101,11 @@ section:
       name: Feel Better
     title: Feel Better
     image: /images/golden-lotus-flower.jpeg
-    text: Many people feel comfort, relaxation, or a fresh sense of balance after a
-      session, though everyone’s experience is different. Tiago respects your
-      unique journey and doesn’t promise specific outcomes. This practice is
-      here to support your well-being, not to take the place of medical care. He
-      encourages you to seek professional medical advice when needed, as Trance
-      Healing is a complementary therapy, working alongside traditional
-      healthcare.
+    text: Tiago respects your unique journey and doesn’t promise specific outcomes.
+      This practice is here to support your well-being, not to take the place of
+      medical care. He encourages you to seek professional medical advice when
+      needed, as Trance Healing is a complementary therapy, working alongside
+      traditional healthcare.
   - type: text_image
     section_type: text_image
     image_position: Right
