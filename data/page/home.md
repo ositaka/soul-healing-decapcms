@@ -42,11 +42,9 @@ section:
       show: false
       name: Sessions
     text: >-
-      The healing energy transcends space and time, flowing naturally to you in
-      whichever way best supports your openness and intention:
-
-
-      • **In-person** — We meet in a shared physical space. The shared presence often allows the energy to be felt in a deeply embodied way—many experience warmth, tingling, or a profound sense of connection.
+      • **In-person** — We meet in a shared physical space. The shared presence
+      often allows the energy to be felt in a deeply embodied way—many
+      experience warmth, tingling, or a profound sense of connection.
 
 
       • **At a Distance** — We connect through Zoom or a similar platform. The energy flows with the same strength and precision, guided by clear intention and the loving presence of Spiritual Guides.
