@@ -22,10 +22,14 @@ section:
     main_menu:
       show: true
       name: What is Trance Healing?
-    text: >-
-      \
-
-      A gentle and non-intrusive spiritual practice with ancient roots in healing mediumship. During a session and through an alternate state of consciousness, Tiago enters into a trance state where he becomes a connector for the Divine Intelligence to guide the flow of energy to where is needed the most: physical comfort, emotional peace, mental clarity, or spiritual renewal. It’s a holistic experience that can work on many levels at once and can be offered in person or at a distance and can be facilitated individually or in a group setting.
+    text: "A gentle and non-intrusive spiritual practice with ancient roots in
+      healing mediumship. During a session and through an alternate state of
+      consciousness, Tiago enters into a trance state where he becomes a
+      connector for the Divine Intelligence to guide the flow of energy to where
+      is needed the most: physical comfort, emotional peace, mental clarity, or
+      spiritual renewal. It’s a holistic experience that can work on many levels
+      at once and can be offered in person or at a distance and can be
+      facilitated individually or in a group setting."
     title: Trance Healing is...
     image: /images/b4a9089a-4a40-4bc6-a377-881d01a3cdfd.jpg
   - type: text_only
@@ -55,10 +59,10 @@ section:
       • **Absent (no call required)** — You simply rest quietly in your own space at the agreed time. The energy arrives gently through your permission and openness—many people find this option especially intimate and deeply restorative.
 
 
-      **Individual Sessions or Healing Circles**
+      **Individual Sessions or Circles of Light** 
 
 
-      You may choose a private individual session, where the entire focus is on your unique journey, or join a Healing Circle—a small, sacred group (in-person or online) where the shared intention amplifies the field of love and light. In every case, the energy is directed with precision and unconditional care.
+      You may choose a private individual session, where the entire focus is on your unique journey, or join a Circle of Light—a small, sacred group (in-person or online) where the shared intention amplifies the field of love and light. In every case, the energy is directed with precision and unconditional care.
     title: How to Receive the Healing
     image: /images/78fa5dc5-483b-420f-a992-1c1c1129177a.jpg
   - type: text_image
