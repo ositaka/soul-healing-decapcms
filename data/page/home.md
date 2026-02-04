@@ -22,6 +22,8 @@ section:
     text: >-
       Trance Healing is a practice with ancient roots in mediumship. \
 
+      \
+
       During the session and through an alternate state of consciousness, Tiago enters a trance state to be the conduit of Divine Intelligence that guides the flow of energy to where is needed the most: physical comfort, emotional peace, mental clarity, or spiritual renewal. \
 
       It’s a holistic experience that can move on many levels at once and can be offered in person or at a distance and can be facilitated individually or in a group setting.
