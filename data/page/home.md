@@ -73,11 +73,11 @@ section:
     main_menu:
       show: true
       name: Silent Healing
-    text: You don’t need to say why you’re here. The energy naturally finds its way
-      to where your soul needs support. If you’d like to share your thoughts or
-      feelings, Tiago is there to listen with kindness, but it’s entirely up to
-      you. After the session, you’re welcome to talk if you wish, knowing this
-      is a safe and caring space.
+    text: You don’t need to say why you’re here. The energy finds the way to where
+      your soul needs support. If you’d like to share your thoughts or feelings,
+      Tiago is there to listen with kindness, but it’s entirely up to you. After
+      the session, you’re welcome to talk if you wish, knowing this is a safe
+      and caring space.
     image: /images/862db8cf-76bd-4713-8b43-8a4549b7549f.jpg
     title: Silent Healing
   - type: text_image
