@@ -84,13 +84,14 @@ section:
     main_menu:
       show: true
       name: Connection with Spirit World
-    text: "Tiago has spent years practicing a connection with the Divine
-      Intelligence, guiding this healing work with love and wisdom. In a
-      session, he enters a trance state, allowing these guides to direct healing
-      energy exactly where it’s needed: perhaps to ease your body, soothe your
-      heart, clear your mind, or lift your spirit. Their gentle precision
-      ensures the energy flows with care to you."
-    title: Connecting with Spirit World
+    text: >-
+      Tiago has spent years practicing a connection with this Intelligence,
+      guiding this energy with love and wisdom. \
+
+      You may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow.\
+
+      You will leave feeling relaxed and heart centered.
+    title: Connecting with Divine Intelligence
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
   - type: text_image
     section_type: text_image
