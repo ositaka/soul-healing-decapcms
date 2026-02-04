@@ -8,11 +8,10 @@ section:
     main_menu:
       show: true
       name: Find Peace and Feel the Light Within
-    text: >-
-      **Trance Healing with Tiago**
-
-
-      Welcome to this calm dimension where the physical and spiritual bodies come together to evolve and glow. Here, you embody the light of your soul and the spark of your essence. Your heart opens, the light enters and you anchor into the present time-line of existence.
+    text: Welcome to this calm dimension where the physical and spiritual bodies
+      come together to evolve and glow. Here, you embody the light of your soul
+      and the spark of your essence. Your heart opens, the light enters and you
+      anchor into the present time-line of existence.
     title: Find Peace and Feel the Light Within
   - type: text_image
     section_type: text_image
