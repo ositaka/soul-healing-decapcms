@@ -85,10 +85,14 @@ section:
       show: true
       name: Connection with Spirit World
     text: >-
-      Tiago has spent years practicing a connection with this Intelligence,
+      Tiago has spent years practicing a connection with this intelligence,
       guiding this energy with love and wisdom. \
 
-      You may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow.\
+      \
+
+      After the session, you may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow.\
+
+      \
 
       You will leave feeling relaxed and heart centered.
     title: Connecting with Divine Intelligence
@@ -113,17 +117,20 @@ section:
       show: true
       name: Embrace Healing
     text: >-
-      Enter into a peaceful space where Trance Healing harmonizes your
-      intentions, breath, and open heart with the warm energy of the spirit
-      world. Close your eyes, release your worries, and trust the gentle flow.
-      Feel the soothing energy embracing you, bringing balance in a way that is
-      personal and unique to you.
+      Enter this peaceful existence with the Divine to harmonize your
+      intentions.\
+
+      Breath, and open your heart with this Intelligence. \
+
+      Close your eyes, release your worries, and trust the flow. \
+
+      Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.
 
 
       ***With Love & Gratitude,***
 
 
-      *Tiago Araújo*
+      *Tiago Miguel*
     image: /images/tiago-miguel.png
-    title: Embrace Healing
+    title: "Embrace the Light Within "
 ---
