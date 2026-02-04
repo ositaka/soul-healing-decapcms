@@ -121,6 +121,6 @@ section:
 
 
       *Tiago Araújo*
-    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+    image: /images/tiago-miguel.png
     title: Embrace Healing
 ---
