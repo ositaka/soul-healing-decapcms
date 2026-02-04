@@ -12,7 +12,7 @@ section:
       come together to evolve and glow. Here, you embody the light of your soul
       and the spark of your essence. Your heart opens, the light enters and you
       anchor into the present time-line of existence.
-    title: Find Peace and Feel the Light Within
+    title: Peace and Light Within
   - type: text_image
     section_type: text_image
     image_position: Left
