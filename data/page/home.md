@@ -29,7 +29,7 @@ section:
 
       In this holistic experience energy moves on many levels at once and can be done in person or at a distance, individually or in a group setting.
     title: Expand and Heal with the Divine
-    image: /images/b4a9089a-4a40-4bc6-a377-881d01a3cdfd.jpg
+    image: /images/5c89d401-7f7d-4805-967d-b96b142bcf33.jpg
   - type: text_only
     section_type: text_only
     main_menu:
