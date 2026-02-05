@@ -66,7 +66,7 @@ section:
 
       In both, the energy is directed with precision and unconditional care.
     title: How to Receive the Healing
-    image: /images/78fa5dc5-483b-420f-a992-1c1c1129177a.jpg
+    image: /images/b4a9089a-4a40-4bc6-a377-881d01a3cdfd.jpg
   - type: text_image
     section_type: text_image
     image_position: Left
