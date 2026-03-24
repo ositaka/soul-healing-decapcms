@@ -133,6 +133,6 @@ section:
 
 
       *Tiago Miguel*
-    image: /images/tiago-miguel.png
+    image: /images/tiago-miguel.jpg
     title: "Embrace the Light Within "
 ---
