@@ -35,7 +35,7 @@ section:
 
 
       Trance Healing works holistically. Clients often report sensations of warmth, tingling, or peaceful expansion, followed by a lasting sense of ease and renewed flow in daily life.
-    title: Welcome
+    title: Welcome!
   - type: text_image
     section_type: text_image
     image_position: Left
