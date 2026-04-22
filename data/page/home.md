@@ -8,6 +8,13 @@ section:
     main_menu:
       show: false
       name: "The Golden Healing "
+    text: The Golden Healing
+    title: "The Golden Healing "
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+      name: "The Golden Healing "
     text: >-
       **Peace and Light Within** 
 
