@@ -70,5 +70,17 @@ section:
 
       \
 
-      You dont need to say why you’re here. The energy finds the way to where your soul needs support. If you’d like to share your thoughts or feelings, Tiago is there to listen with kindness, but it’s entirely up to you. After the session, you’re welcome to talk if you wish, knowing this is a safe and caring space.
+      You dont need to say why you’re here. The energy finds the way to where your soul needs support. If you’d like to share your thoughts or feelings, Tiago is there to listen with kindness, but it’s entirely up to you. After the session, you’re welcome to talk if you wish, knowing this is a safe and caring space. \
+
+      \
+
+      Connecting with the Divine Intelligence \
+
+      \
+
+      Tiago has spent years practising a connection with this intelligence, guiding this energy with love and wisdom. \
+
+      \
+
+      After the session, you may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow.
 ---
