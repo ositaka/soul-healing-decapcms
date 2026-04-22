@@ -54,5 +54,17 @@ section:
 
       \
 
-      Individual Sessions or Circles of Light
+      Individual Sessions or Circles of Light \
+
+      \
+
+      You may choose a private individual session, where the focus is on your unique journey, or join a Circle of Light - a group (in-person or online) where the shared intention amplifies the field of love and light. \
+
+      \
+
+      In both,. the energy is directed with precision and unconditional care. \
+
+      \
+
+      Silent Healing
 ---
