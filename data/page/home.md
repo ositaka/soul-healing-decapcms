@@ -10,7 +10,7 @@ section:
       name: "The Golden Healing "
     title: The Golden Healing with Tiago
     text: >-
-      Peace and Light Within \
+      **Peace and Light Within** \
 
       \
 
@@ -18,7 +18,7 @@ section:
 
       \
 
-      Expand and Heal with the Divine \
+      **Expand and Heal with the Divine** \
 
       \
 
@@ -34,19 +34,19 @@ section:
 
       \
 
-      How to Receive the Healing:\
+      **How to Receive the Healing**\
 
       \
 
-      In-Person - We meet in a physical place. The presence often allows the energy to be felt deeper - many experience warmth, tingling, or a profound sense of connection.\
+      **In-Person** - We meet in a physical place. The presence often allows the energy to be felt deeper - many experience warmth, tingling, or a profound sense of connection.\
 
       \
 
-      At a Distance - We connect through Zoom or a similar platform. The energy flows with the same strenght and precision, clear intention and presence.\
+      **At a Distance** - We connect through Zoom or a similar platform. The energy flows with the same strenght and precision, clear intention and presence.\
 
       \
 
-      Absent (no call required) - You rest quietly in your own space at the agreed time. \
+      **Absent** (no call required) - You rest quietly in your own space at the agreed time. \
 
       \
 
@@ -54,7 +54,7 @@ section:
 
       \
 
-      Individual Sessions or Circles of Light \
+      **Individual Sessions or Circles of Light** \
 
       \
 
@@ -66,7 +66,7 @@ section:
 
       \
 
-      Silent Healing \
+      **Silent Healing** \
 
       \
 
@@ -74,7 +74,7 @@ section:
 
       \
 
-      Connecting with the Divine Intelligence \
+      **Connecting with the Divine Intelligence** \
 
       \
 
@@ -86,18 +86,20 @@ section:
 
       \
 
-      \
-
-      energetic boost & vitality, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, mental clarity, renewed stamina & resilience, emotional lightness & joy, reignited passion, deep peace & restoration, vibrant energy & stamina, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, energetic boost & resilience and emotional lightness & joy.\
+      Energetic boost & vitality, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, mental clarity, renewed stamina & resilience, emotional lightness & joy, reignited passion, deep peace & restoration, vibrant energy & stamina, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, energetic boost & resilience and emotional lightness & joy.\
 
       \
 
       You will leave feeling relaxed and heart-centered.\
 
+      \
+
       **Feel Better**\
 
 
       Tiago respects your unique journey and doesn’t promise specific outcomes. This practice is here to support your well-being, not to replace medical care. He encourages you to seek professional medical advice when needed, as Trance Healing is a complementary therapy that works alongside traditional healthcare.\
+
+      \
 
       **Embrace the Light Within**\
 
@@ -108,9 +110,11 @@ section:
 
       Close your eyes, release your worries, and trust the flow.
 
-      Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.With Love & Gratitude,
+      Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.With Love & Gratitude,\
 
-      **Tiago MiguelContact**
+
+      **Tiago MiguelContact**\
+
 
       Chat on WhatsApp: (+351) 913 333 210
 ---
