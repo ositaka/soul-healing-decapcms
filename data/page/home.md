@@ -66,5 +66,9 @@ section:
 
       \
 
-      Silent Healing
+      Silent Healing \
+
+      \
+
+      You dont need to say why you’re here. The energy finds the way to where your soul needs support. If you’d like to share your thoughts or feelings, Tiago is there to listen with kindness, but it’s entirely up to you. After the session, you’re welcome to talk if you wish, knowing this is a safe and caring space.
 ---
