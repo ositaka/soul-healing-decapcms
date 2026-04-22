@@ -58,7 +58,7 @@ section:
          No call or meeting is required. At an agreed time, you simply rest quietly in your own space while I hold the session for you. Many find this format surprisingly intimate and deeply restorative.
 
       **Silent Healing** is also available — you do not need to share details of your challenges. The intelligence behind the work knows exactly where support is needed.
-    title: The Journey You Can Experience
+    title: The Golden Healing with Tiago
     image: /images/5c89d401-7f7d-4805-967d-b96b142bcf33.jpg
   - type: text_only
     section_type: text_only
