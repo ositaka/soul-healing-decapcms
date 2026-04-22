@@ -38,5 +38,21 @@ section:
 
       \
 
-      In-Person - We meet in a physical place. The presence often
+      In-Person - We meet in a physical place. The presence often allows the energy to be felt deeper - many experience warmth, tingling, or a profound sense of connection.\
+
+      \
+
+      At a Distance - We connect through Zoom or a similar platform. The energy flows with the same strenght and precision, clear intention and presence.\
+
+      \
+
+      Absent (no call required) - You rest quietly in your own space at the agreed time. \
+
+      \
+
+      The energy arrives through your permission and openness - many people find this way intimate and deeply restorative.\
+
+      \
+
+      Individual Sessions or Circles of Light
 ---
