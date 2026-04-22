@@ -113,8 +113,9 @@ section:
       Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.With Love & Gratitude,\
 
 
-      **Tiago MiguelContact**\
+      **Tiago Miguel**\
 
+      \
 
-      Chat on WhatsApp: (+351) 913 333 210
+      **Contact:** (+351) 913 333 210
 ---
