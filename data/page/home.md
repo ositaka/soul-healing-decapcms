@@ -82,5 +82,11 @@ section:
 
       \
 
-      After the session, you may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow.
+      After the session, you may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow. \
+
+      \
+
+      \
+
+      energetic boost & vitality, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, mental clarity, renewed stamina & resilience, emotional lightness & joy, reignited passion, deep peace & restoration, vibrant energy & stamina, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, energetic boost & resilience and emotional lightness & joy.
 ---
