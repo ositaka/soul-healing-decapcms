@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Script from "next/script";
 import { DefaultSeo } from 'next-seo';
 
 import '../styles/globals.css'
@@ -26,6 +27,12 @@ function App({ Component, pageProps }) {
       <Component {...pageProps} />
     </AnimatePresence>
     <Footer />
+    <Script
+      id="keak-script"
+      src="https://script.keak.com/v1/1779"
+      data-domain="1779"
+      strategy="afterInteractive"
+    />
   </>)
 }
 
