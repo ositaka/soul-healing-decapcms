@@ -40,7 +40,7 @@ section:
       **In-Person** - We meet in a physical place. The presence often allows the energy to be felt deeper - many experience warmth, tingling, or a profound sense of connection.
 
 
-      **At a Distance** - We connect through Zoom or a similar platform. The energy flows with the same strenght and precision, clear intention and presence.
+      **At a Distance** - We connect through Zoom or a similar platform. The energy flows with the same strength and precision, clear intention and presence.
 
 
       **Absent** (no call required) - You rest quietly in your own space at the agreed time. 
@@ -55,13 +55,13 @@ section:
       You may choose a private individual session, where the focus is on your unique journey, or join a Circle of Light - a group (in-person or online) where the shared intention amplifies the field of love and light. 
 
 
-      In both,. the energy is directed with precision and unconditional care. 
+      In both, the energy is directed with precision and unconditional care. 
 
 
       **Silent Healing** 
 
 
-      You dont need to say why you’re here. The energy finds the way to where your soul needs support. If you’d like to share your thoughts or feelings, Tiago is there to listen with kindness, but it’s entirely up to you. After the session, you’re welcome to talk if you wish, knowing this is a safe and caring space. 
+      You don't need to say why you’re here. The energy finds the way to where your soul needs support. If you’d like to share your thoughts or feelings, Tiago is there to listen with kindness, but it’s entirely up to you. After the session, you’re welcome to talk if you wish, knowing this is a safe and caring space. 
 
 
       **Connecting with the Divine Intelligence** 
@@ -82,12 +82,10 @@ section:
       **Feel Better**
 
 
-
       Tiago respects your unique journey and doesn’t promise specific outcomes. This practice is here to support your well-being, not to replace medical care. He encourages you to seek professional medical advice when needed, as Trance Healing is a complementary therapy that works alongside traditional healthcare.
 
 
       **Embrace the Light Within**
-
 
 
       Enter this peaceful existence with the Divine to harmonize your intentions.Breathe, and open your heart with this Intelligence.Close your eyes, release your worries, and trust the flow.Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.\
