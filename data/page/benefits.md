@@ -1,7 +1,7 @@
 ---
 slug: benefits
-title: "Tiago Araújo "
-description: Tiago Araújo is a dedicated practitioner of trance healing — a
+title: Tiago Miguel
+description: Tiago Miguel is a dedicated practitioner of trance healing — a
   sacred art that channels Divine Intelligence to bring balance, peace, and
   renewal to those who receive it. With years of practice and deep devotion,
   Tiago serves as a clear conduit for healing energy that works on physical,
