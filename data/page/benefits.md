@@ -18,4 +18,10 @@ accordions:
     content: Sessions often bring gentle emotional release — helping you let go of
       what no longer serves you. Many clients report feeling lighter, more open,
       and emotionally clearer after receiving the healing.
+  - type: accordion
+    title: Spiritual Awakening & Growth
+    content: Many who receive the healing notice a deepening connection to their
+      spiritual path — a heightened sense of intuition, inner clarity, and
+      alignment with their soul's purpose. The energy helps dissolve energetic
+      blocks, opening new channels of awareness and expansion.
 ---
