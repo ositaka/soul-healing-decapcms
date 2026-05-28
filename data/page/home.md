@@ -100,4 +100,42 @@ section:
 
       **Contact:** (+351) 913 333 210
     title: The Golden Healing with Tiago
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+    title: A Sacred Space for Renewal
+    text: >-
+      Each session is held in an atmosphere of calm, presence, and unconditional
+      care. Whether you join in person or from the comfort of your own home, you
+      are invited to set down the weight of the day and simply receive.
+
+
+
+
+      There is nothing you need to do, explain, or prove. The Divine Intelligence meets you exactly where you are, gently restoring balance to body, mind, and spirit so you can return to the world feeling lighter, clearer, and more whole.
+    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
+  - type: testimonials
+    section_type: testimonials
+    main_menu:
+      show: false
+    title: Words from the Heart
+    testimonials:
+      - testimonial: I came to my session carrying so much tension I could barely
+          breathe. By the end I felt a deep, golden calm settle over me —
+          something I hadn't felt in years. Tiago holds space with such
+          gentleness and care.
+        author: Sofia M., Lisbon
+        country: Portugal
+      - country: United Kingdom
+        testimonial: The distance session amazed me. Even from another country, I felt
+          waves of warmth and a profound sense of peace wash through my body. I
+          finished feeling renewed, inspired, and reconnected to myself.
+        author: James R., London
+      - testimonial: I joined a Circle of Light not knowing what to expect, and left
+          feeling held, lighter, and quietly hopeful. Tiago's gift is real. I
+          now return whenever my heart needs to come home to itself.
+        author: Ana C., Porto
+        country: Portugal
 ---
