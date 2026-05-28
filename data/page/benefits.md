@@ -24,4 +24,10 @@ accordions:
       spiritual path — a heightened sense of intuition, inner clarity, and
       alignment with their soul's purpose. The energy helps dissolve energetic
       blocks, opening new channels of awareness and expansion.
+  - type: accordion
+    title: Physical Vitality & Renewed Energy
+    content: The healing works on a cellular level, revitalizing your body's natural
+      energy flow. Clients often report waking up feeling refreshed,
+      experiencing less fatigue, and having a natural boost in vitality that
+      supports their daily activities and overall well-being.
 ---
