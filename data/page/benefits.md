@@ -30,4 +30,11 @@ accordions:
       energy flow. Clients often report waking up feeling refreshed,
       experiencing less fatigue, and having a natural boost in vitality that
       supports their daily activities and overall well-being.
+  - type: accordion
+    title: Mental Clarity & Sharp Focus
+    content: The healing clears mental fog and restores sharp, focused awareness.
+      Many clients notice a significant improvement in concentration,
+      decision-making, and creative thinking. The energy works to dissolve
+      mental blockages, allowing thoughts to flow freely and with greater
+      clarity and purpose.
 ---
