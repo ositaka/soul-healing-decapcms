@@ -8,7 +8,8 @@ section:
     main_menu:
       show: false
       name: "The Golden Healing "
-    text: The Golden Healing
+    text: Trance Healing with Tiago — where Divine Intelligence meets your soul's
+      deepest need for balance, peace, and renewal.
     title: "The Golden Healing "
   - type: text_only
     section_type: text_only
@@ -73,7 +74,7 @@ section:
       After the session, you may experience alignment with your soul purpose, enhanced intuitive abilities, heightened awareness, and a sense of lightness, ease, and flow. 
 
 
-      Energetic boost & vitality, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, mental clarity, renewed stamina & resilience, emotional lightness & joy, reignited passion, deep peace & restoration, vibrant energy & stamina, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, energetic boost & resilience and emotional lightness & joy.
+      Energetic boost & vitality, fresh inspiration, inner drive & uplift, awakened creativity, deep calm & balance, mental clarity, renewed stamina & resilience, emotional lightness & joy, reignited passion, deep peace & restoration, and a profound sense of well-being.
 
 
       You will leave feeling relaxed and heart-centered.
@@ -88,7 +89,7 @@ section:
       **Embrace the Light Within**
 
 
-      Enter this peaceful existence with the Divine to harmonize your intentions.Breathe, and open your heart with this Intelligence.Close your eyes, release your worries, and trust the flow.Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.\
+      Enter this peaceful existence with the Divine to harmonize your intentions. Breathe, and open your heart with this Intelligence. Close your eyes, release your worries, and trust the flow. Feel the healing energy embracing you, bringing balance in a way that is personal and unique to you.\
 
       With Love & Gratitude,\
 
