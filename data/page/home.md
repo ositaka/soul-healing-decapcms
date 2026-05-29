@@ -164,4 +164,20 @@ section:
       \
 
       Contact: (+351) 913 333 210
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Meet Tiago Miguel
+    title: Meet Tiago Miguel
+    text: >-
+      Behind every session is a dedicated practitioner devoted to channeling
+      Divine Intelligence with love and care. Discover Tiago's story, his
+      approach to trance healing, and the many benefits you may receive along
+      the way.
+
+
+      Read more here: https://thegoldenhealing.online/benefits/
+    image: /images/278bc3b0-36a9-4a16-a3ca-4662e4077a23.jpg
 ---
