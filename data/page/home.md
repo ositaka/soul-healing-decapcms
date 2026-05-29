@@ -79,15 +79,15 @@ section:
       show: false
       name: Sessions of Light
     title: Sessions of Light
-    text: You may choose a private individual session, where the focus is on your
+    text: >-
+      You may choose a private individual session, where the focus is on your
       unique journey, or join a Circle of Light — a group, in person or online,
       where the shared intention amplifies the field of love and light. In both,
-      the energy is directed with precision and unconditional care. There is no
-      need to say why you're here; the energy finds the way to where your soul
-      needs support. If you'd like to share your thoughts or feelings, Tiago is
-      there to listen with kindness, but it is entirely up to you. After the
-      session, you're welcome to talk if you wish, knowing this is a safe and
-      caring space.
+      the energy is directed with precision and unconditional care. \
+
+      \
+
+      There is no need to say why you're here; the energy finds the way to where your soul needs support. If you'd like to share your thoughts or feelings, Tiago is there to listen with kindness, but it is entirely up to you. After the session, you're welcome to talk if you wish, knowing this is a safe and caring space.
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
   - type: text_image
     section_type: text_image
@@ -96,19 +96,33 @@ section:
       show: false
       name: What You May Experience
     title: What You May Experience
-    text: "Tiago has spent years cultivating a connection with this intelligence,
+    text: >-
+      Tiago has spent years cultivating a connection with this intelligence,
       guiding the energy with love and wisdom. After a session, you may
       experience alignment with your soul purpose, enhanced intuition,
       heightened awareness, and a sense of lightness, ease, and flow: an
       energetic boost and renewed vitality, fresh inspiration, awakened
       creativity, deep calm and balance, mental clarity, emotional lightness and
-      joy, and a profound sense of well-being. You will leave feeling relaxed
-      and heart-centered. Tiago respects your unique journey and does not
-      promise specific outcomes; this practice is here to support your
-      well-being, not to replace medical care, and he encourages you to seek
-      professional medical advice when needed, as Trance Healing is a
-      complementary therapy that works alongside traditional healthcare."
+      joy, and a profound sense of well-being. \
+
+      \
+
+      You will leave feeling relaxed and heart-centered. Tiago respects your unique journey and does not promise specific outcomes; this practice is here to support your well-being, not to replace medical care, and he encourages you to seek professional medical advice when needed, as Trance Healing is a complementary therapy that works alongside traditional healthcare.
     image: /images/229b4f28-4b4b-4d88-bd27-90cbfbad6bfc.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Embrace the Light Within
+    title: Embrace the Light Within
+    text: "Enter this peaceful existence with the Divine to harmonize your
+      intentions. Breathe, and open your heart with this Intelligence. Close
+      your eyes, release your worries, and trust the flow. Feel the healing
+      energy embracing you, bringing balance in a way that is personal and
+      unique to you. With love and gratitude, Tiago Miguel. Contact: (+351) 913
+      333 210."
+    image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -132,18 +146,22 @@ section:
           now return whenever my heart needs to come home to itself.
         author: Ana C., Porto
         country: Portugal
-  - type: text_image
-    section_type: text_image
-    image_position: Right
-    main_menu:
-      show: false
-      name: Embrace the Light Within
-    title: Embrace the Light Within
-    text: "Enter this peaceful existence with the Divine to harmonize your
+  - text: >-
+      Enter this peaceful existence with the Divine to harmonize your
       intentions. Breathe, and open your heart with this Intelligence. Close
       your eyes, release your worries, and trust the flow. Feel the healing
       energy embracing you, bringing balance in a way that is personal and
-      unique to you. With love and gratitude, Tiago Miguel. Contact: (+351) 913
-      333 210."
-    image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
+      unique to you. \
+
+      \
+
+      ***With love and gratitude,*** \
+
+      \
+
+      **Tiago Miguel**\
+
+      \
+
+      Contact: (+351) 913 333 210
 ---
