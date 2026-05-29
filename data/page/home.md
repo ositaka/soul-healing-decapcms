@@ -184,4 +184,21 @@ section:
       permission and openness, and many people find this way intimate and deeply
       restorative.
     image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Sessions of Light
+    title: Sessions of Light
+    text: You may choose a private individual session, where the focus is on your
+      unique journey, or join a Circle of Light — a group, in person or online,
+      where the shared intention amplifies the field of love and light. In both,
+      the energy is directed with precision and unconditional care. There is no
+      need to say why you're here; the energy finds the way to where your soul
+      needs support. If you'd like to share your thoughts or feelings, Tiago is
+      there to listen with kindness, but it is entirely up to you. After the
+      session, you're welcome to talk if you wish, knowing this is a safe and
+      caring space.
+    image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
 ---
