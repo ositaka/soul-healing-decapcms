@@ -152,4 +152,20 @@ section:
       the spark of your essence. Your heart opens, the light enters and you
       anchor into the present time of existence.
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Expand and Heal with the Divine
+    title: Expand and Heal with the Divine
+    text: "Through an alternate state of consciousness, Tiago enters a trance state
+      to be the conduit of Divine Intelligence that guides the flow of energy to
+      where it is needed at the moment: physical comfort, emotional peace,
+      mental clarity, or spiritual renewal. In this holistic experience energy
+      moves on many levels at once and can be done in person or at a distance,
+      individually or in a group setting. The Divine Intelligence transcends
+      space and time, flowing naturally to you in whichever way supports your
+      openness and intention."
+    image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
 ---
