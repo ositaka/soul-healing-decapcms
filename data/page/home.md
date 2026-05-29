@@ -221,4 +221,18 @@ section:
       professional medical advice when needed, as Trance Healing is a
       complementary therapy that works alongside traditional healthcare."
     image: /images/229b4f28-4b4b-4d88-bd27-90cbfbad6bfc.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Embrace the Light Within
+    title: Embrace the Light Within
+    text: "Enter this peaceful existence with the Divine to harmonize your
+      intentions. Breathe, and open your heart with this Intelligence. Close
+      your eyes, release your worries, and trust the flow. Feel the healing
+      energy embracing you, bringing balance in a way that is personal and
+      unique to you. With love and gratitude, Tiago Miguel. Contact: (+351) 913
+      333 210."
+    image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
 ---
