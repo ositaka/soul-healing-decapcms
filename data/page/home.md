@@ -168,4 +168,20 @@ section:
       space and time, flowing naturally to you in whichever way supports your
       openness and intention."
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
+      name: How to Receive the Healing
+    title: How to Receive the Healing
+    text: In-Person — We meet in a physical place. The presence often allows the
+      energy to be felt deeper; many experience warmth, tingling, or a profound
+      sense of connection. At a Distance — We connect through Zoom or a similar
+      platform. The energy flows with the same strength and precision, clear
+      intention and presence. Absent (no call required) — You rest quietly in
+      your own space at the agreed time. The energy arrives through your
+      permission and openness, and many people find this way intimate and deeply
+      restorative.
+    image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
 ---
