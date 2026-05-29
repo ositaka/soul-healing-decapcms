@@ -105,6 +105,7 @@ section:
     image_position: Right
     main_menu:
       show: false
+      name: A Sacred Space for Renewal
     title: A Sacred Space for Renewal
     text: >-
       Each session is held in an atmosphere of calm, presence, and unconditional
@@ -120,6 +121,7 @@ section:
     section_type: testimonials
     main_menu:
       show: false
+      name: Words from the Heart
     title: Words from the Heart
     testimonials:
       - testimonial: I came to my session carrying so much tension I could barely
@@ -138,4 +140,16 @@ section:
           now return whenever my heart needs to come home to itself.
         author: Ana C., Porto
         country: Portugal
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
+      name: Peace and Light Within
+    title: Peace and Light Within
+    text: Enter this calm dimension where the physical and spiritual bodies come
+      together to evolve and glow. Here, you embody the light of your soul and
+      the spark of your essence. Your heart opens, the light enters and you
+      anchor into the present time of existence.
+    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
 ---
