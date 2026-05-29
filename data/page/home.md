@@ -201,4 +201,24 @@ section:
       session, you're welcome to talk if you wish, knowing this is a safe and
       caring space.
     image: /images/14aecb28-9752-42b4-aa38-c7b8a3c831a1.jpg
+  - type: text_image
+    section_type: text_image
+    image_position: Left
+    main_menu:
+      show: false
+      name: What You May Experience
+    title: What You May Experience
+    text: "Tiago has spent years cultivating a connection with this intelligence,
+      guiding the energy with love and wisdom. After a session, you may
+      experience alignment with your soul purpose, enhanced intuition,
+      heightened awareness, and a sense of lightness, ease, and flow: an
+      energetic boost and renewed vitality, fresh inspiration, awakened
+      creativity, deep calm and balance, mental clarity, emotional lightness and
+      joy, and a profound sense of well-being. You will leave feeling relaxed
+      and heart-centered. Tiago respects your unique journey and does not
+      promise specific outcomes; this practice is here to support your
+      well-being, not to replace medical care, and he encourages you to seek
+      professional medical advice when needed, as Trance Healing is a
+      complementary therapy that works alongside traditional healthcare."
+    image: /images/229b4f28-4b4b-4d88-bd27-90cbfbad6bfc.jpg
 ---
