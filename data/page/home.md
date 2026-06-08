@@ -11,18 +11,15 @@ section:
     text: Trance Healing with Tiago — where Divine Intelligence meets your soul's
       deepest need for balance, peace, and renewal.
     title: "The Golden Healing "
-  - type: text_image
-    section_type: text_image
-    image_position: Right
+  - type: text_only
+    section_type: text_only
     main_menu:
       show: false
-      name: A Sacred Space for Renewal
-    title: A Sacred Space for Renewal
     text: "Every session is a quiet, unhurried space to step away from daily
       pressure and simply rest. Whether you come in person or join from home,
       there's nothing you need to prepare or explain. The aim is simple: to help
       you feel calmer, clearer, and more balanced afterward."
-    image: /images/19306590-b049-4923-9efa-3b66c59e7d15.jpg
+    title: A Sacred Space for Renewal
   - type: text_image
     section_type: text_image
     image_position: Left
@@ -35,20 +32,17 @@ section:
       field. He has spent years developing a calm, attentive practice built on
       care, discretion, and respect for each person's individual needs.
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
-  - type: text_image
-    section_type: text_image
-    image_position: Right
+  - type: text_only
+    section_type: text_only
     main_menu:
       show: false
-      name: Expand and Heal with the Divine
-    title: What Is Trance Healing?
     text: "Trance healing is a form of spiritual healing in which the practitioner
       works in a focused, meditative state to support your relaxation and sense
       of well-being. Many people use it the way they might use meditation,
       breathwork, or energy work: as a complement to their usual self-care. It
       can be received in person, online, or remotely. It is a complementary
       practice and is not a substitute for medical or psychological treatment."
-    image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+    title: What Is Trance Healing?
   - type: text_image
     section_type: text_image
     image_position: Left
@@ -96,18 +90,6 @@ section:
       specific outcomes. The practice is intended to support your well-being
       alongside, not instead of, professional medical care.
     image: /images/229b4f28-4b4b-4d88-bd27-90cbfbad6bfc.jpg
-  - type: text_image
-    section_type: text_image
-    image_position: Right
-    main_menu:
-      show: false
-      name: Embrace the Light Within
-    title: Ready to Begin?
-    text: "Book the session type and time that suits you, and Tiago will hold that
-      space with full attention and care. If you have any questions before
-      booking, you are warmly welcome to reach out. With gratitude, Tiago
-      Miguel. Contact: (+351) 913 333 210."
-    image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
   - type: testimonials
     section_type: testimonials
     main_menu:
@@ -149,22 +131,6 @@ section:
       \
 
       Contact: (+351) 913 333 210
-  - type: text_image
-    section_type: text_image
-    image_position: Right
-    main_menu:
-      show: false
-      name: Meet Tiago Miguel
-    title: Meet Tiago Miguel
-    text: >-
-      Behind every session is a dedicated practitioner devoted to channeling
-      Divine Intelligence with love and care. Discover Tiago's story, his
-      approach to trance healing, and the many benefits you may receive along
-      the way.
-
-
-      Read more here: https://thegoldenhealing.online/benefits/
-    image: /images/278bc3b0-36a9-4a16-a3ca-4662e4077a23.jpg
   - type: text_image
     section_type: text_image
     image_position:
@@ -245,4 +211,32 @@ section:
 
 
       How do I prepare? Wear comfortable clothing, find a quiet spot, and arrive or log on a few minutes early
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Embrace the Light Within
+    title: Ready to Begin?
+    text: "Book the session type and time that suits you, and Tiago will hold that
+      space with full attention and care. If you have any questions before
+      booking, you are warmly welcome to reach out. With gratitude, Tiago
+      Miguel. Contact: (+351) 913 333 210."
+    image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
+  - type: text_image
+    section_type: text_image
+    image_position: Right
+    main_menu:
+      show: false
+      name: Meet Tiago Miguel
+    title: Meet Tiago Miguel
+    text: >-
+      Behind every session is a dedicated practitioner devoted to channeling
+      Divine Intelligence with love and care. Discover Tiago's story, his
+      approach to trance healing, and the many benefits you may receive along
+      the way.
+
+
+      Read more here: https://thegoldenhealing.online/benefits/
+    image: /images/278bc3b0-36a9-4a16-a3ca-4662e4077a23.jpg
 ---
