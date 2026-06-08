@@ -197,20 +197,29 @@ section:
       show: false
     title: Frequently Asked Questions
     text: >-
-      Do I need to believe in anything for it to work? No. You only need to be
-      willing to relax and receive.
+      Do I need to believe in anything for it to work? \
+
+      *No. You only need to be willing to relax and receive.*
 
 
-      Is it religious? No. It is open to people of all faiths and none.
+      Is it religious? \
+
+      *No. It is open to people of all faiths and none.*
 
 
-      Is it safe? Yes. It is gentle and non-invasive, and it complements rather than replaces medical or psychological care.
+      Is it safe? \
+
+      *Yes. It is gentle and non-invasive, and it complements rather than replaces medical or psychological care.*
 
 
-      What if I don't feel anything? That is completely normal; experiences differ from person to person.
+      What if I don't feel anything? \
+
+      *That is completely normal; experiences differ from person to person.*
 
 
-      How do I prepare? Wear comfortable clothing, find a quiet spot, and arrive or log on a few minutes early
+      How do I prepare? \
+
+      *Wear comfortable clothing, find a quiet spot, and arrive or log on a few minutes early*
   - type: text_image
     section_type: text_image
     image_position: Right
@@ -218,10 +227,16 @@ section:
       show: false
       name: Embrace the Light Within
     title: Ready to Begin?
-    text: "Book the session type and time that suits you, and Tiago will hold that
+    text: >-
+      Book the session type and time that suits you, and Tiago will hold that
       space with full attention and care. If you have any questions before
-      booking, you are warmly welcome to reach out. With gratitude, Tiago
-      Miguel. Contact: (+351) 913 333 210."
+      booking, you are warmly welcome to reach out. \
+
+      \
+
+      ***With appreciation,***\
+
+      *Tiago Miguel*
     image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
   - type: text_image
     section_type: text_image
@@ -229,14 +244,10 @@ section:
     main_menu:
       show: false
       name: Meet Tiago Miguel
-    title: Meet Tiago Miguel
-    text: >-
-      Behind every session is a dedicated practitioner devoted to channeling
+    title: "Meet Tiago "
+    text: Behind every session is a dedicated practitioner devoted to channeling
       Divine Intelligence with love and care. Discover Tiago's story, his
       approach to trance healing, and the many benefits you may receive along
       the way.
-
-
-      Read more here: https://thegoldenhealing.online/benefits/
     image: /images/278bc3b0-36a9-4a16-a3ca-4662e4077a23.jpg
 ---
