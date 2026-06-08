@@ -26,9 +26,9 @@ section:
     main_menu:
       show: false
       name: Peace and Light Within
-    title: About Tiago
-    text: Tiago Miguel is a trance healing practitioner trained in Trance Healing at
-      the Arthur Findlay College, an internationally recognised centre for this
+    title: About..
+    text: Tiago is a trance healing practitioner trained in Trance Healing at the
+      Arthur Findlay College, an internationally recognised centre for this
       field. He has spent years developing a calm, attentive practice built on
       care, discretion, and respect for each person's individual needs.
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
