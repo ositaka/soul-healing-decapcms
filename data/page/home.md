@@ -165,4 +165,84 @@ section:
 
       Read more here: https://thegoldenhealing.online/benefits/
     image: /images/278bc3b0-36a9-4a16-a3ca-4662e4077a23.jpg
+  - type: text_image
+    section_type: text_image
+    image_position:
+      - Left
+    main_menu:
+      show: false
+      name: How a Session Works
+    title: How a Session Works
+    text: >-
+      Before — A short check-in. We start with a brief, relaxed conversation.
+      You can share what's on your mind or keep it private; it's entirely your
+      choice.
+
+
+      During — Rest and receive. You sit or lie down comfortably with your eyes closed while Tiago works. People commonly notice warmth, gentle tingling, or a deepening sense of relaxation.
+
+
+      After — Ease back in. You take a few minutes to return to the room. You're welcome to talk through your experience or simply enjoy the quiet. Most people leave feeling lighter and more settled.
+    image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
+  - type: text_image
+    section_type: text_image
+    image_position:
+      - Left
+    main_menu:
+      show: false
+      name: Setting Your Intention
+    title: Setting Your Intention
+    text: >-
+      If there is something specific you would like to heal or work through —
+      whether physical, emotional, mental, or spiritual — you are warmly welcome
+      to share it before your session. Naming your intention helps focus the
+      healing where you feel you need it most.
+
+
+      There is no pressure to explain anything you would rather keep private. Whether you share a clear intention or simply arrive open, the session will gently meet you where you are.
+    image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
+  - type: text_image
+    section_type: text_image
+    image_position:
+      - Left
+    main_menu:
+      show: false
+      name: The Benefits
+    title: The Benefits
+    text: >-
+      Relaxation & Inner Peace — A deep sense of calm and stillness, as the
+      nervous system settles and stress eases, often lasting for days.
+
+
+      Emotional Clarity & Release — A gentle letting go of what no longer serves you, leaving many feeling lighter, more open, and emotionally clearer.
+
+
+      Renewed Energy & Vitality — A natural boost to your energy, with many reporting less fatigue and waking up feeling refreshed.
+
+
+      Mental Clarity & Focus — Clearer thinking and sharper focus, supporting concentration, decision-making, and creativity.
+
+
+      Spiritual Growth — A deepening sense of intuition, inner clarity, and connection, opening new awareness and a feeling of alignment.
+    image: /images/0663d7cd-ebb5-414c-8e1c-5f7798522c78.jpeg
+  - type: text_only
+    section_type: text_only
+    main_menu:
+      show: false
+    title: Frequently Asked Questions
+    text: >-
+      Do I need to believe in anything for it to work? No. You only need to be
+      willing to relax and receive.
+
+
+      Is it religious? No. It is open to people of all faiths and none.
+
+
+      Is it safe? Yes. It is gentle and non-invasive, and it complements rather than replaces medical or psychological care.
+
+
+      What if I don't feel anything? That is completely normal; experiences differ from person to person.
+
+
+      How do I prepare? Wear comfortable clothing, find a quiet spot, and arrive or log on a few minutes early
 ---
