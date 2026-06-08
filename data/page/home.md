@@ -234,7 +234,7 @@ section:
 
       \
 
-      ***With appreciation,***\
+      ***With love and appreciation,***\
 
       *Tiago Miguel*
     image: /images/23e8a604-f35f-4486-8f6d-0134eeae0c8f.jpeg
