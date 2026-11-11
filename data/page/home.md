@@ -1,7 +1,7 @@
 ---
 title: Home
 slug: home
-image: /images/new1-hero-2400x1600.jpg
+image: /images/new5-terrace-sea-2400x1350.jpg
 section:
   - type: text_only
     section_type: text_only
@@ -79,7 +79,7 @@ section:
     title: Trust the journey and let it guide you home.
     text: "[Step into the Circle of
       Light](https://circlesoflight-bookings.vercel.app/)"
-    image: /images/new5-terrace-sea-2400x1350.jpg
+    image: /images/new1-hero-2400x1600.jpg
   - type: text_only
     section_type: text_only
     main_menu:
