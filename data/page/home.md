@@ -133,8 +133,7 @@ section:
       Contact: (+351) 913 333 210
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: How a Session Works
@@ -152,8 +151,7 @@ section:
     image: /images/068098fc-71ef-421b-b9ba-e0785a5ff150.jpg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Right
     main_menu:
       show: false
       name: Setting Your Intention
@@ -169,8 +167,7 @@ section:
     image: /images/0234da20-ade9-4360-bba2-aa20fb2de9ab.jpeg
   - type: text_image
     section_type: text_image
-    image_position:
-      - Left
+    image_position: Left
     main_menu:
       show: false
       name: The Benefits
