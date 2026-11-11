@@ -1,13 +1,19 @@
 ---
 slug: bookings
-title: Trance Healing with Tiago
+title: Book your place
 ---
-Begin your healing journey by choosing a date that feels right for you. Select your preferred session type and time using the calendar below, and Tiago will hold that space with full presence and care.
+## Step into the Circle of Light
 
+**[Book a circle](https://circlesoflight-bookings.vercel.app/)** · Wednesdays 20:00 and Fridays 18:00, Lisbon time · €22 · about 1 to 1½ hours, online.
 
+**[Book a private 1:1](https://circlesoflight-bookings.vercel.app/?type=one2one)** · €88 · about one hour.
 
-Whether you're seeking an in-person experience, a distance session via Zoom, or a quiet absent healing, every session is approached with the same intention: to meet you exactly where you are.
+The 11.11 opening circle, Wednesday 11 November, 20:00, is €11.
 
+Tiago confirms your place and emails you a private video link within 12 hours. Camera on or off is your choice. Nothing is recorded. Free reschedule up to 24 hours before. No cash refunds.
 
+In person, Kos Town: dates and place to be shared soon. [Write on WhatsApp](https://wa.me/351913333210) to hear first.
 
-If you have any questions or simply wish to connect before booking, you are warmly welcome to reach out through the WhatsApp icon. There's no obligation — just an open door.
+A question before you book? [WhatsApp +351 913 333 210](https://wa.me/351913333210).
+
+*Complementary to, not a replacement for, medical care.*
