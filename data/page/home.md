@@ -13,7 +13,7 @@ section:
       lie down, feel at ease and open to the healing energy.
 
 
-      [Step into the Circle of Light](/one-to-one/) · [Book a private 1:1](/one-to-one/)
+      [Step into the Circle of Light](/circles/) · [Book a private 1:1](/one-to-one/)
   - type: text_only
     section_type: text_only
     main_menu:
